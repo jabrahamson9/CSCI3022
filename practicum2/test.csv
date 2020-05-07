@@ -1,0 +1,6446 @@
+,year,state,month,number
+0,1998,Acre,January,0
+1,1999,Acre,January,0
+2,2000,Acre,January,0
+3,2001,Acre,January,0
+4,2002,Acre,January,0
+5,2003,Acre,January,10
+6,2004,Acre,January,0
+7,2005,Acre,January,12
+8,2006,Acre,January,4
+9,2007,Acre,January,0
+10,2008,Acre,January,0
+11,2009,Acre,January,0
+12,2010,Acre,January,1
+13,2011,Acre,January,0
+14,2012,Acre,January,0
+15,2013,Acre,January,0
+16,2014,Acre,January,0
+17,2015,Acre,January,1
+18,2016,Acre,January,12
+19,2017,Acre,January,0
+20,1998,Acre,February,0
+21,1999,Acre,February,0
+22,2000,Acre,February,0
+23,2001,Acre,February,0
+24,2002,Acre,February,1
+25,2003,Acre,February,0
+26,2004,Acre,February,3
+27,2005,Acre,February,0
+28,2006,Acre,February,0
+29,2007,Acre,February,5
+30,2008,Acre,February,0
+31,2009,Acre,February,2
+32,2010,Acre,February,0
+33,2011,Acre,February,0
+34,2012,Acre,February,0
+35,2013,Acre,February,0
+36,2014,Acre,February,0
+37,2015,Acre,February,2
+38,2016,Acre,February,5
+39,2017,Acre,February,1
+40,1998,Acre,March,0
+41,1999,Acre,March,0
+42,2000,Acre,March,11
+43,2001,Acre,March,0
+44,2002,Acre,March,0
+45,2003,Acre,March,0
+46,2004,Acre,March,0
+47,2005,Acre,March,3
+48,2006,Acre,March,0
+49,2007,Acre,March,2
+50,2008,Acre,March,0
+51,2009,Acre,March,1
+52,2010,Acre,March,0
+53,2011,Acre,March,0
+54,2012,Acre,March,1
+55,2013,Acre,March,2
+56,2014,Acre,March,1
+57,2015,Acre,March,2
+58,2016,Acre,March,0
+59,2017,Acre,March,0
+60,1998,Acre,April,0
+61,1999,Acre,April,0
+62,2000,Acre,April,1
+63,2001,Acre,April,0
+64,2002,Acre,April,0
+65,2003,Acre,April,1
+66,2004,Acre,April,2
+67,2005,Acre,April,1
+68,2006,Acre,April,0
+69,2007,Acre,April,0
+70,2008,Acre,April,0
+71,2009,Acre,April,0
+72,2010,Acre,April,3
+73,2011,Acre,April,2
+74,2012,Acre,April,1
+75,2013,Acre,April,19
+76,2014,Acre,April,7
+77,2015,Acre,April,3
+78,2016,Acre,April,0
+79,2017,Acre,April,1
+80,1998,Acre,May,0
+81,1999,Acre,May,0
+82,2000,Acre,May,1
+83,2001,Acre,May,0
+84,2002,Acre,May,0
+85,2003,Acre,May,6
+86,2004,Acre,May,7
+87,2005,Acre,May,2
+88,2006,Acre,May,8
+89,2007,Acre,May,1
+90,2008,Acre,May,0
+91,2009,Acre,May,3
+92,2010,Acre,May,9
+93,2011,Acre,May,3
+94,2012,Acre,May,3
+95,2013,Acre,May,4
+96,2014,Acre,May,1
+97,2015,Acre,May,2
+98,2016,Acre,May,21
+99,2017,Acre,May,10
+100,1998,Acre,June,3
+101,1999,Acre,June,0
+102,2000,Acre,June,1
+103,2001,Acre,June,1
+104,2002,Acre,June,0
+105,2003,Acre,June,0
+106,2004,Acre,June,5
+107,2005,Acre,June,27
+108,2006,Acre,June,1
+109,2007,Acre,June,4
+110,2008,Acre,June,0
+111,2009,Acre,June,0
+112,2010,Acre,June,1
+113,2011,Acre,June,10
+114,2012,Acre,June,7
+115,2013,Acre,June,8
+116,2014,Acre,June,17
+117,2015,Acre,June,40
+118,2016,Acre,June,87
+119,2017,Acre,June,45
+120,1998,Acre,July,37
+121,1999,Acre,July,1
+122,2000,Acre,July,1
+123,2001,Acre,July,3
+124,2002,Acre,July,39
+125,2003,Acre,July,168
+126,2004,Acre,July,42
+127,2005,Acre,July,368
+128,2006,Acre,July,33
+129,2007,Acre,July,29
+130,2008,Acre,July,41
+131,2009,Acre,July,31
+132,2010,Acre,July,126
+133,2011,Acre,July,93
+134,2012,Acre,July,71
+135,2013,Acre,July,54
+136,2014,Acre,July,60
+137,2015,Acre,July,109
+138,2016,Acre,July,533
+139,2017,Acre,July,457
+140,1998,Acre,August,130
+141,1999,Acre,August,63
+142,2000,Acre,August,136
+143,2001,Acre,August,396
+144,2002,Acre,August,728
+145,2003,Acre,August,1976
+146,2004,Acre,August,645
+147,2005,Acre,August,4198
+148,2006,Acre,August,839
+149,2007,Acre,August,960
+150,2008,Acre,August,445
+151,2009,Acre,August,194
+152,2010,Acre,August,1682
+153,2011,Acre,August,425
+154,2012,Acre,August,739
+155,2013,Acre,August,679
+156,2014,Acre,August,1100
+157,2015,Acre,August,1397
+158,2016,Acre,August,2188
+159,2017,Acre,August,1493
+160,1998,Acre,September,509
+161,1999,Acre,September,209
+162,2000,Acre,September,265
+163,2001,Acre,September,290
+164,2002,Acre,September,1949
+165,2003,Acre,September,3942
+166,2004,Acre,September,1978
+167,2005,Acre,September,4253
+168,2006,Acre,September,2370
+169,2007,Acre,September,2080
+170,2008,Acre,September,1666
+171,2009,Acre,September,1265
+172,2010,Acre,September,2531
+173,2011,Acre,September,1204
+174,2012,Acre,September,1996
+175,2013,Acre,September,2136
+176,2014,Acre,September,2175
+177,2015,Acre,September,2928
+178,2016,Acre,September,3586
+179,2017,Acre,September,3429
+180,1998,Acre,October,44
+181,1999,Acre,October,60
+182,2000,Acre,October,18
+183,2001,Acre,October,137
+184,2002,Acre,October,687
+185,2003,Acre,October,740
+186,2004,Acre,October,461
+187,2005,Acre,October,547
+188,2006,Acre,October,316
+189,2007,Acre,October,203
+190,2008,Acre,October,652
+191,2009,Acre,October,565
+192,2010,Acre,October,292
+193,2011,Acre,October,97
+194,2012,Acre,October,348
+195,2013,Acre,October,258
+196,2014,Acre,October,406
+197,2015,Acre,October,905
+198,2016,Acre,October,509
+199,2017,Acre,October,1508
+200,1998,Acre,November,0
+201,1999,Acre,November,0
+202,2000,Acre,November,0
+203,2001,Acre,November,1
+204,2002,Acre,November,86
+205,2003,Acre,November,15
+206,2004,Acre,November,10
+207,2005,Acre,November,14
+208,2006,Acre,November,18
+209,2007,Acre,November,7
+210,2008,Acre,November,4
+211,2009,Acre,November,33
+212,2010,Acre,November,39
+213,2011,Acre,November,74
+214,2012,Acre,November,13
+215,2013,Acre,November,79
+216,2014,Acre,November,56
+217,2015,Acre,November,115
+218,2016,Acre,November,46
+219,2017,Acre,November,98
+220,1998,Acre,December,7
+221,1999,Acre,December,0
+222,2000,Acre,December,0
+223,2001,Acre,December,0
+224,2002,Acre,December,1
+225,2003,Acre,December,1
+226,2004,Acre,December,7
+227,2005,Acre,December,2
+228,2006,Acre,December,0
+229,2007,Acre,December,0
+230,2008,Acre,December,0
+231,2009,Acre,December,1
+232,2010,Acre,December,0
+233,2011,Acre,December,4
+234,2012,Acre,December,1
+235,2013,Acre,December,3
+236,2014,Acre,December,6
+237,2015,Acre,December,8
+238,2016,Acre,December,6
+239,1998,Alagoas,January,0
+240,1999,Alagoas,January,58
+241,2000,Alagoas,January,11
+242,2001,Alagoas,January,5
+243,2002,Alagoas,January,12
+244,2003,Alagoas,January,150
+245,2004,Alagoas,January,9
+246,2005,Alagoas,January,83
+247,2006,Alagoas,January,29
+248,2007,Alagoas,January,33
+249,2008,Alagoas,January,55
+250,2009,Alagoas,January,104
+251,2010,Alagoas,January,23
+252,2011,Alagoas,January,41
+253,2012,Alagoas,January,36
+254,2013,Alagoas,January,49
+255,2014,Alagoas,January,54
+256,2015,Alagoas,January,81
+257,2016,Alagoas,January,24
+258,2017,Alagoas,January,38
+259,2017,Alagoas,January,38
+260,1998,Alagoas,February,0
+261,1999,Alagoas,February,20
+262,2000,Alagoas,February,16
+263,2001,Alagoas,February,4
+264,2002,Alagoas,February,15
+265,2003,Alagoas,February,33
+266,2004,Alagoas,February,7
+267,2005,Alagoas,February,31
+268,2006,Alagoas,February,14
+269,2007,Alagoas,February,28
+270,2008,Alagoas,February,74
+271,2009,Alagoas,February,32
+272,2010,Alagoas,February,26
+273,2011,Alagoas,February,33
+274,2012,Alagoas,February,41
+275,2013,Alagoas,February,19
+276,2014,Alagoas,February,29
+277,2015,Alagoas,February,46
+278,2016,Alagoas,February,14
+279,2017,Alagoas,February,21
+280,1998,Alagoas,March,0
+281,1999,Alagoas,March,52
+282,2000,Alagoas,March,32
+283,2001,Alagoas,March,0
+284,2002,Alagoas,March,27
+285,2003,Alagoas,March,15
+286,2004,Alagoas,March,16
+287,2005,Alagoas,March,35
+288,2006,Alagoas,March,37
+289,2007,Alagoas,March,7
+290,2008,Alagoas,March,31
+291,2009,Alagoas,March,31
+292,2010,Alagoas,March,70
+293,2011,Alagoas,March,34
+294,2012,Alagoas,March,44
+295,2013,Alagoas,March,31
+296,2014,Alagoas,March,28
+297,2015,Alagoas,March,32
+298,2016,Alagoas,March,9
+299,2017,Alagoas,March,23
+300,1998,Alagoas,April,0
+301,1999,Alagoas,April,4
+302,2000,Alagoas,April,20
+303,2001,Alagoas,April,0
+304,2002,Alagoas,April,6
+305,2003,Alagoas,April,20
+306,2004,Alagoas,April,6
+307,2005,Alagoas,April,1
+308,2006,Alagoas,April,2
+309,2007,Alagoas,April,1
+310,2008,Alagoas,April,18
+311,2009,Alagoas,April,5
+312,2010,Alagoas,April,3
+313,2011,Alagoas,April,17
+314,2012,Alagoas,April,18
+315,2013,Alagoas,April,25
+316,2014,Alagoas,April,16
+317,2015,Alagoas,April,63
+318,2016,Alagoas,April,13
+319,2017,Alagoas,April,7
+320,1998,Alagoas,May,0
+321,1999,Alagoas,May,1
+322,2000,Alagoas,May,1
+323,2001,Alagoas,May,2
+324,2002,Alagoas,May,1
+325,2003,Alagoas,May,1
+326,2004,Alagoas,May,3
+327,2005,Alagoas,May,0
+328,2006,Alagoas,May,0
+329,2007,Alagoas,May,0
+330,2008,Alagoas,May,0
+331,2009,Alagoas,May,0
+332,2010,Alagoas,May,0
+333,2011,Alagoas,May,0
+334,2012,Alagoas,May,21
+335,2013,Alagoas,May,2
+336,2014,Alagoas,May,1
+337,2015,Alagoas,May,18
+338,2016,Alagoas,May,4
+339,2017,Alagoas,May,1
+340,1998,Alagoas,June,0
+341,1999,Alagoas,June,0
+342,2000,Alagoas,June,0
+343,2001,Alagoas,June,2
+344,2002,Alagoas,June,0
+345,2003,Alagoas,June,0
+346,2004,Alagoas,June,0
+347,2005,Alagoas,June,0
+348,2006,Alagoas,June,0
+349,2007,Alagoas,June,0
+350,2008,Alagoas,June,0
+351,2009,Alagoas,June,0
+352,2010,Alagoas,June,0
+353,2011,Alagoas,June,2
+354,2012,Alagoas,June,4
+355,2013,Alagoas,June,1
+356,2014,Alagoas,June,2
+357,2015,Alagoas,June,2
+358,2016,Alagoas,June,5
+359,2017,Alagoas,June,2
+360,1998,Alagoas,July,0
+361,1999,Alagoas,July,0
+362,2000,Alagoas,July,0
+363,2001,Alagoas,July,0
+364,2002,Alagoas,July,5
+365,2003,Alagoas,July,0
+366,2004,Alagoas,July,0
+367,2005,Alagoas,July,0
+368,2006,Alagoas,July,0
+369,2007,Alagoas,July,0
+370,2008,Alagoas,July,0
+371,2009,Alagoas,July,0
+372,2010,Alagoas,July,2
+373,2011,Alagoas,July,0
+374,2012,Alagoas,July,0
+375,2013,Alagoas,July,0
+376,2014,Alagoas,July,1
+377,2015,Alagoas,July,0
+378,2016,Alagoas,July,3
+379,2017,Alagoas,July,0
+380,1998,Alagoas,August,1
+381,1999,Alagoas,August,3
+382,2000,Alagoas,August,4
+383,2001,Alagoas,August,1
+384,2002,Alagoas,August,3
+385,2003,Alagoas,August,2
+386,2004,Alagoas,August,2
+387,2005,Alagoas,August,2
+388,2006,Alagoas,August,1
+389,2007,Alagoas,August,3
+390,2008,Alagoas,August,1
+391,2009,Alagoas,August,0
+392,2010,Alagoas,August,1
+393,2011,Alagoas,August,4
+394,2012,Alagoas,August,0
+395,2013,Alagoas,August,0
+396,2014,Alagoas,August,3
+397,2015,Alagoas,August,3
+398,2016,Alagoas,August,5
+399,2017,Alagoas,August,1
+400,1998,Alagoas,September,14
+401,1999,Alagoas,September,3
+402,2000,Alagoas,September,22
+403,2001,Alagoas,September,5
+404,2002,Alagoas,September,14
+405,2003,Alagoas,September,8
+406,2004,Alagoas,September,5
+407,2005,Alagoas,September,7
+408,2006,Alagoas,September,4
+409,2007,Alagoas,September,2
+410,2008,Alagoas,September,9
+411,2009,Alagoas,September,13
+412,2010,Alagoas,September,5
+413,2011,Alagoas,September,5
+414,2012,Alagoas,September,6
+415,2013,Alagoas,September,4
+416,2014,Alagoas,September,11
+417,2015,Alagoas,September,7
+418,2016,Alagoas,September,18
+419,2017,Alagoas,September,4
+420,1998,Alagoas,October,20
+421,1999,Alagoas,October,4
+422,2000,Alagoas,October,13
+423,2001,Alagoas,October,15
+424,2002,Alagoas,October,30
+425,2003,Alagoas,October,10
+426,2004,Alagoas,October,12
+427,2005,Alagoas,October,17
+428,2006,Alagoas,October,32
+429,2007,Alagoas,October,6
+430,2008,Alagoas,October,18
+431,2009,Alagoas,October,30
+432,2010,Alagoas,October,16
+433,2011,Alagoas,October,23
+434,2012,Alagoas,October,28
+435,2013,Alagoas,October,25
+436,2014,Alagoas,October,7
+437,2015,Alagoas,October,40
+438,2016,Alagoas,October,74
+439,2017,Alagoas,October,14
+440,1998,Alagoas,November,19
+441,1999,Alagoas,November,15
+442,2000,Alagoas,November,2
+443,2001,Alagoas,November,22
+444,2002,Alagoas,November,50
+445,2003,Alagoas,November,17
+446,2004,Alagoas,November,28
+447,2005,Alagoas,November,25
+448,2006,Alagoas,November,12
+449,2007,Alagoas,November,15
+450,2008,Alagoas,November,37
+451,2009,Alagoas,November,55
+452,2010,Alagoas,November,31
+453,2011,Alagoas,November,23
+454,2012,Alagoas,November,95
+455,2013,Alagoas,November,10
+456,2014,Alagoas,November,14
+457,2015,Alagoas,November,162
+458,2016,Alagoas,November,76
+459,2017,Alagoas,November,10
+460,1998,Alagoas,December,32
+461,1999,Alagoas,December,12
+462,2000,Alagoas,December,2
+463,2001,Alagoas,December,30
+464,2002,Alagoas,December,95
+465,2003,Alagoas,December,43
+466,2004,Alagoas,December,71
+467,2005,Alagoas,December,16
+468,2006,Alagoas,December,30
+469,2007,Alagoas,December,33
+470,2008,Alagoas,December,34
+471,2009,Alagoas,December,55
+472,2010,Alagoas,December,45
+473,2011,Alagoas,December,50
+474,2012,Alagoas,December,59
+475,2013,Alagoas,December,42
+476,2014,Alagoas,December,24
+477,2015,Alagoas,December,136
+478,2016,Alagoas,December,155
+479,1998,Amapa,January,0
+480,1999,Amapa,January,0
+481,2000,Amapa,January,2
+482,2001,Amapa,January,0
+483,2002,Amapa,January,7
+484,2003,Amapa,January,31
+485,2004,Amapa,January,38
+486,2005,Amapa,January,109
+487,2006,Amapa,January,6
+488,2007,Amapa,January,0
+489,2008,Amapa,January,2
+490,2009,Amapa,January,4
+491,2010,Amapa,January,2
+492,2011,Amapa,January,0
+493,2012,Amapa,January,30
+494,2013,Amapa,January,3
+495,2014,Amapa,January,10
+496,2015,Amapa,January,14
+497,2016,Amapa,January,19
+498,2017,Amapa,January,2
+499,1998,Amapa,February,0
+500,1999,Amapa,February,1
+501,2000,Amapa,February,0
+502,2001,Amapa,February,0
+503,2002,Amapa,February,2
+504,2003,Amapa,February,0
+505,2004,Amapa,February,2
+506,2005,Amapa,February,1
+507,2006,Amapa,February,2
+508,2007,Amapa,February,0
+509,2008,Amapa,February,0
+510,2009,Amapa,February,0
+511,2010,Amapa,February,0
+512,2011,Amapa,February,3
+513,2012,Amapa,February,5
+514,2013,Amapa,February,0
+515,2014,Amapa,February,2
+516,2015,Amapa,February,1
+517,2016,Amapa,February,1
+518,2017,Amapa,February,0
+519,1998,Amapa,March,0
+520,1999,Amapa,March,2
+521,2000,Amapa,March,0
+522,2001,Amapa,March,0
+523,2002,Amapa,March,0
+524,2003,Amapa,March,1
+525,2004,Amapa,March,0
+526,2005,Amapa,March,0
+527,2006,Amapa,March,0
+528,2007,Amapa,March,0
+529,2008,Amapa,March,1
+530,2009,Amapa,March,1
+531,2010,Amapa,March,2
+532,2011,Amapa,March,0
+533,2012,Amapa,March,1
+534,2013,Amapa,March,0
+535,2014,Amapa,March,1
+536,2015,Amapa,March,2
+537,2016,Amapa,March,5
+538,2017,Amapa,March,0
+539,1998,Amapa,April,0
+540,1999,Amapa,April,0
+541,2000,Amapa,April,0
+542,2001,Amapa,April,0
+543,2002,Amapa,April,0
+544,2003,Amapa,April,2
+545,2004,Amapa,April,0
+546,2005,Amapa,April,0
+547,2006,Amapa,April,0
+548,2007,Amapa,April,0
+549,2008,Amapa,April,2
+550,2009,Amapa,April,0
+551,2010,Amapa,April,2
+552,2011,Amapa,April,0
+553,2012,Amapa,April,2
+554,2013,Amapa,April,2
+555,2014,Amapa,April,0
+556,2015,Amapa,April,0
+557,2016,Amapa,April,0
+558,2017,Amapa,April,3
+559,1998,Amapa,May,0
+560,1999,Amapa,May,0
+561,2000,Amapa,May,0
+562,2001,Amapa,May,0
+563,2002,Amapa,May,3
+564,2003,Amapa,May,0
+565,2004,Amapa,May,0
+566,2005,Amapa,May,0
+567,2006,Amapa,May,0
+568,2007,Amapa,May,0
+569,2008,Amapa,May,0
+570,2009,Amapa,May,2
+571,2010,Amapa,May,2
+572,2011,Amapa,May,2
+573,2012,Amapa,May,2
+574,2013,Amapa,May,0
+575,2014,Amapa,May,0
+576,2015,Amapa,May,0
+577,2016,Amapa,May,1
+578,2017,Amapa,May,1
+579,1998,Amapa,June,0
+580,1999,Amapa,June,2
+581,2000,Amapa,June,0
+582,2001,Amapa,June,0
+583,2002,Amapa,June,0
+584,2003,Amapa,June,0
+585,2004,Amapa,June,5
+586,2005,Amapa,June,2
+587,2006,Amapa,June,0
+588,2007,Amapa,June,0
+589,2008,Amapa,June,0
+590,2009,Amapa,June,1
+591,2010,Amapa,June,0
+592,2011,Amapa,June,0
+593,2012,Amapa,June,7
+594,2013,Amapa,June,1
+595,2014,Amapa,June,0
+596,2015,Amapa,June,3
+597,2016,Amapa,June,2
+598,2017,Amapa,June,2
+599,1998,Amapa,July,0
+600,1999,Amapa,July,0
+601,2000,Amapa,July,0
+602,2001,Amapa,July,1
+603,2002,Amapa,July,1
+604,2003,Amapa,July,0
+605,2004,Amapa,July,2
+606,2005,Amapa,July,0
+607,2006,Amapa,July,0
+608,2007,Amapa,July,0
+609,2008,Amapa,July,0
+610,2009,Amapa,July,4
+611,2010,Amapa,July,2
+612,2011,Amapa,July,5
+613,2012,Amapa,July,3
+614,2013,Amapa,July,1
+615,2014,Amapa,July,4
+616,2015,Amapa,July,5
+617,2016,Amapa,July,1
+618,2017,Amapa,July,3
+619,1998,Amapa,August,1
+620,1999,Amapa,August,0
+621,2000,Amapa,August,3
+622,2001,Amapa,August,12
+623,2002,Amapa,August,18
+624,2003,Amapa,August,14
+625,2004,Amapa,August,9
+626,2005,Amapa,August,4
+627,2006,Amapa,August,11
+628,2007,Amapa,August,5
+629,2008,Amapa,August,4
+630,2009,Amapa,August,20
+631,2010,Amapa,August,1
+632,2011,Amapa,August,16
+633,2012,Amapa,August,19
+634,2013,Amapa,August,9
+635,2014,Amapa,August,18
+636,2015,Amapa,August,40
+637,2016,Amapa,August,37
+638,2017,Amapa,August,33
+639,1998,Amapa,September,20
+640,1999,Amapa,September,4
+641,2000,Amapa,September,19
+642,2001,Amapa,September,95
+643,2002,Amapa,September,73
+644,2003,Amapa,September,88
+645,2004,Amapa,September,67
+646,2005,Amapa,September,97
+647,2006,Amapa,September,112
+648,2007,Amapa,September,61
+649,2008,Amapa,September,83
+650,2009,Amapa,September,188
+651,2010,Amapa,September,63
+652,2011,Amapa,September,128
+653,2012,Amapa,September,168
+654,2013,Amapa,September,85
+655,2014,Amapa,September,137
+656,2015,Amapa,September,192
+657,2016,Amapa,September,142
+658,2017,Amapa,September,95
+659,1998,Amapa,October,42
+660,1999,Amapa,October,25
+661,2000,Amapa,October,42
+662,2001,Amapa,October,194
+663,2002,Amapa,October,557
+664,2003,Amapa,October,355
+665,2004,Amapa,October,412
+666,2005,Amapa,October,335
+667,2006,Amapa,October,405
+668,2007,Amapa,October,162
+669,2008,Amapa,October,395
+670,2009,Amapa,October,765
+671,2010,Amapa,October,265
+672,2011,Amapa,October,304
+673,2012,Amapa,October,475
+674,2013,Amapa,October,385
+675,2014,Amapa,October,480
+676,2015,Amapa,October,827
+677,2016,Amapa,October,793
+678,2017,Amapa,October,468
+679,1998,Amapa,November,131
+680,1999,Amapa,November,26
+681,2000,Amapa,November,157
+682,2001,Amapa,November,406
+683,2002,Amapa,November,1096
+684,2003,Amapa,November,750
+685,2004,Amapa,November,949
+686,2005,Amapa,November,685
+687,2006,Amapa,November,207
+688,2007,Amapa,November,198
+689,2008,Amapa,November,266
+690,2009,Amapa,November,1019
+691,2010,Amapa,November,339
+692,2011,Amapa,November,282
+693,2012,Amapa,November,969
+694,2013,Amapa,November,341
+695,2014,Amapa,November,484
+696,2015,Amapa,November,1300
+697,2016,Amapa,November,1161
+698,2017,Amapa,November,858
+699,1998,Amapa,December,84
+700,1999,Amapa,December,41
+701,2000,Amapa,December,30
+702,2001,Amapa,December,593
+703,2002,Amapa,December,200
+704,2003,Amapa,December,411
+705,2004,Amapa,December,777
+706,2005,Amapa,December,38
+707,2006,Amapa,December,74
+708,2007,Amapa,December,14
+709,2008,Amapa,December,32
+710,2009,Amapa,December,123
+711,2010,Amapa,December,43
+712,2011,Amapa,December,360
+713,2012,Amapa,December,422
+714,2013,Amapa,December,148
+715,2014,Amapa,December,354
+716,2015,Amapa,December,269
+717,2016,Amapa,December,491
+718,1998,Amazonas,January,0
+719,1999,Amazonas,January,3
+720,2000,Amazonas,January,7
+721,2001,Amazonas,January,3
+722,2002,Amazonas,January,17
+723,2003,Amazonas,January,158
+724,2004,Amazonas,January,123
+725,2005,Amazonas,January,44
+726,2006,Amazonas,January,20
+727,2007,Amazonas,January,37
+728,2008,Amazonas,January,16
+729,2009,Amazonas,January,9
+730,2010,Amazonas,January,82
+731,2011,Amazonas,January,53
+732,2012,Amazonas,January,6
+733,2013,Amazonas,January,37
+734,2014,Amazonas,January,46
+735,2015,Amazonas,January,35
+736,2016,Amazonas,January,770
+737,2017,Amazonas,January,65
+738,1998,Amazonas,February,0
+739,1999,Amazonas,February,43
+740,2000,Amazonas,February,62
+741,2001,Amazonas,February,8
+742,2002,Amazonas,February,2
+743,2003,Amazonas,February,62
+744,2004,Amazonas,February,92
+745,2005,Amazonas,February,6
+746,2006,Amazonas,February,10
+747,2007,Amazonas,February,92
+748,2008,Amazonas,February,32
+749,2009,Amazonas,February,3
+750,2010,Amazonas,February,81
+751,2011,Amazonas,February,30
+752,2012,Amazonas,February,25
+753,2013,Amazonas,February,16
+754,2014,Amazonas,February,49
+755,2015,Amazonas,February,107
+756,2016,Amazonas,February,275
+757,2017,Amazonas,February,52
+758,1998,Amazonas,March,0
+759,1999,Amazonas,March,7
+760,2000,Amazonas,March,69
+761,2001,Amazonas,March,6
+762,2002,Amazonas,March,5
+763,2003,Amazonas,March,64
+764,2004,Amazonas,March,6
+765,2005,Amazonas,March,12
+766,2006,Amazonas,March,20
+767,2007,Amazonas,March,6
+768,2008,Amazonas,March,10
+769,2009,Amazonas,March,11
+770,2010,Amazonas,March,116
+771,2011,Amazonas,March,49
+772,2012,Amazonas,March,17
+773,2013,Amazonas,March,49
+774,2014,Amazonas,March,50
+775,2015,Amazonas,March,46
+776,2016,Amazonas,March,140
+777,2017,Amazonas,March,45
+778,1998,Amazonas,April,0
+779,1999,Amazonas,April,2
+780,2000,Amazonas,April,18
+781,2001,Amazonas,April,1
+782,2002,Amazonas,April,2
+783,2003,Amazonas,April,11
+784,2004,Amazonas,April,4
+785,2005,Amazonas,April,5
+786,2006,Amazonas,April,5
+787,2007,Amazonas,April,0
+788,2008,Amazonas,April,13
+789,2009,Amazonas,April,1
+790,2010,Amazonas,April,11
+791,2011,Amazonas,April,5
+792,2012,Amazonas,April,3
+793,2013,Amazonas,April,20
+794,2014,Amazonas,April,25
+795,2015,Amazonas,April,24
+796,2016,Amazonas,April,22
+797,2017,Amazonas,April,20
+798,1998,Amazonas,May,0
+799,1999,Amazonas,May,0
+800,2000,Amazonas,May,51
+801,2001,Amazonas,May,0
+802,2002,Amazonas,May,8
+803,2003,Amazonas,May,2
+804,2004,Amazonas,May,0
+805,2005,Amazonas,May,8
+806,2006,Amazonas,May,4
+807,2007,Amazonas,May,0
+808,2008,Amazonas,May,1
+809,2009,Amazonas,May,3
+810,2010,Amazonas,May,13
+811,2011,Amazonas,May,6
+812,2012,Amazonas,May,12
+813,2013,Amazonas,May,19
+814,2014,Amazonas,May,12
+815,2015,Amazonas,May,10
+816,2016,Amazonas,May,30
+817,2017,Amazonas,May,40
+818,1998,Amazonas,June,2
+819,1999,Amazonas,June,7
+820,2000,Amazonas,June,6
+821,2001,Amazonas,June,5
+822,2002,Amazonas,June,5
+823,2003,Amazonas,June,3
+824,2004,Amazonas,June,12
+825,2005,Amazonas,June,78
+826,2006,Amazonas,June,9
+827,2007,Amazonas,June,23
+828,2008,Amazonas,June,7
+829,2009,Amazonas,June,13
+830,2010,Amazonas,June,9
+831,2011,Amazonas,June,22
+832,2012,Amazonas,June,45
+833,2013,Amazonas,June,56
+834,2014,Amazonas,June,74
+835,2015,Amazonas,June,33
+836,2016,Amazonas,June,90
+837,2017,Amazonas,June,119
+838,1998,Amazonas,July,71
+839,1999,Amazonas,July,11
+840,2000,Amazonas,July,39
+841,2001,Amazonas,July,9
+842,2002,Amazonas,July,146
+843,2003,Amazonas,July,180
+844,2004,Amazonas,July,177
+845,2005,Amazonas,July,676
+846,2006,Amazonas,July,123
+847,2007,Amazonas,July,116
+848,2008,Amazonas,July,108
+849,2009,Amazonas,July,199
+850,2010,Amazonas,July,640
+851,2011,Amazonas,July,271
+852,2012,Amazonas,July,234
+853,2013,Amazonas,July,248
+854,2014,Amazonas,July,202
+855,2015,Amazonas,July,356
+856,2016,Amazonas,July,1137
+857,2017,Amazonas,July,1975
+858,1998,Amazonas,August,321
+859,1999,Amazonas,August,259
+860,2000,Amazonas,August,180
+861,2001,Amazonas,August,501
+862,2002,Amazonas,August,741
+863,2003,Amazonas,August,1867
+864,2004,Amazonas,August,1207
+865,2005,Amazonas,August,2316
+866,2006,Amazonas,August,1422
+867,2007,Amazonas,August,2241
+868,2008,Amazonas,August,861
+869,2009,Amazonas,August,1321
+870,2010,Amazonas,August,3727
+871,2011,Amazonas,August,1243
+872,2012,Amazonas,August,3011
+873,2013,Amazonas,August,1276
+874,2014,Amazonas,August,3852
+875,2015,Amazonas,August,4564
+876,2016,Amazonas,August,3611
+877,2017,Amazonas,August,6316
+878,1998,Amazonas,September,267
+879,1999,Amazonas,September,216
+880,2000,Amazonas,September,189
+881,2001,Amazonas,September,166
+882,2002,Amazonas,September,928
+883,2003,Amazonas,September,1401
+884,2004,Amazonas,September,911
+885,2005,Amazonas,September,2812
+886,2006,Amazonas,September,2218
+887,2007,Amazonas,September,1360
+888,2008,Amazonas,September,998
+889,2009,Amazonas,September,3091
+890,2010,Amazonas,September,2781
+891,2011,Amazonas,September,1295
+892,2012,Amazonas,September,2392
+893,2013,Amazonas,September,1739
+894,2014,Amazonas,September,3057
+895,2015,Amazonas,September,5882
+896,2016,Amazonas,September,3119
+897,2017,Amazonas,September,4033
+898,1998,Amazonas,October,83
+899,1999,Amazonas,October,479
+900,2000,Amazonas,October,145
+901,2001,Amazonas,October,332
+902,2002,Amazonas,October,695
+903,2003,Amazonas,October,725
+904,2004,Amazonas,October,710
+905,2005,Amazonas,October,545
+906,2006,Amazonas,October,721
+907,2007,Amazonas,October,215
+908,2008,Amazonas,October,632
+909,2009,Amazonas,October,2189
+910,2010,Amazonas,October,889
+911,2011,Amazonas,October,694
+912,2012,Amazonas,October,1238
+913,2013,Amazonas,October,1202
+914,2014,Amazonas,October,952
+915,2015,Amazonas,October,2494
+916,2016,Amazonas,October,2105
+917,2017,Amazonas,October,1581
+918,1998,Amazonas,November,6
+919,1999,Amazonas,November,32
+920,2000,Amazonas,November,27
+921,2001,Amazonas,November,244
+922,2002,Amazonas,November,259
+923,2003,Amazonas,November,169
+924,2004,Amazonas,November,209
+925,2005,Amazonas,November,261
+926,2006,Amazonas,November,59
+927,2007,Amazonas,November,90
+928,2008,Amazonas,November,39
+929,2009,Amazonas,November,973
+930,2010,Amazonas,November,354
+931,2011,Amazonas,November,399
+932,2012,Amazonas,November,682
+933,2013,Amazonas,November,220
+934,2014,Amazonas,November,676
+935,2015,Amazonas,November,1054
+936,2016,Amazonas,November,591
+937,2017,Amazonas,November,552
+938,1998,Amazonas,December,196
+939,1999,Amazonas,December,2
+940,2000,Amazonas,December,60
+941,2001,Amazonas,December,22
+942,2002,Amazonas,December,44
+943,2003,Amazonas,December,147
+944,2004,Amazonas,December,53
+945,2005,Amazonas,December,17
+946,2006,Amazonas,December,23
+947,2007,Amazonas,December,7
+948,2008,Amazonas,December,0
+949,2009,Amazonas,December,102
+950,2010,Amazonas,December,123
+951,2011,Amazonas,December,121
+952,2012,Amazonas,December,80
+953,2013,Amazonas,December,236
+954,2014,Amazonas,December,293
+955,2015,Amazonas,December,565
+956,2016,Amazonas,December,133
+957,1998,Bahia,January,0
+958,1999,Bahia,January,114
+959,2000,Bahia,January,31
+960,2001,Bahia,January,24
+961,2002,Bahia,January,125
+962,2003,Bahia,January,439
+963,2004,Bahia,January,158
+964,2005,Bahia,January,303
+965,2006,Bahia,January,225
+966,2007,Bahia,January,373
+967,2008,Bahia,January,314
+968,2009,Bahia,January,177
+969,2010,Bahia,January,297
+970,2011,Bahia,January,101
+971,2012,Bahia,January,179
+972,2013,Bahia,January,125
+973,2014,Bahia,January,132
+974,2015,Bahia,January,256
+975,2016,Bahia,January,285
+976,2017,Bahia,January,154
+977,1998,Bahia,February,0
+978,1999,Bahia,February,157
+979,2000,Bahia,February,32
+980,2001,Bahia,February,101
+981,2002,Bahia,February,204
+982,2003,Bahia,February,223
+983,2004,Bahia,February,122
+984,2005,Bahia,February,143
+985,2006,Bahia,February,277
+986,2007,Bahia,February,113
+987,2008,Bahia,February,235
+988,2009,Bahia,February,117
+989,2010,Bahia,February,206
+990,2011,Bahia,February,156
+991,2012,Bahia,February,200
+992,2013,Bahia,February,231
+993,2014,Bahia,February,107
+994,2015,Bahia,February,143
+995,2016,Bahia,February,418
+996,2017,Bahia,February,100
+997,1998,Bahia,March,0
+998,1999,Bahia,March,83
+999,2000,Bahia,March,65
+1000,2001,Bahia,March,4
+1001,2002,Bahia,March,146
+1002,2003,Bahia,March,274
+1003,2004,Bahia,March,115
+1004,2005,Bahia,March,158
+1005,2006,Bahia,March,199
+1006,2007,Bahia,March,141
+1007,2008,Bahia,March,135
+1008,2009,Bahia,March,249
+1009,2010,Bahia,March,156
+1010,2011,Bahia,March,90
+1011,2012,Bahia,March,404
+1012,2013,Bahia,March,363
+1013,2014,Bahia,March,148
+1014,2015,Bahia,March,229
+1015,2016,Bahia,March,281
+1016,2017,Bahia,March,163
+1017,1998,Bahia,April,0
+1018,1999,Bahia,April,55
+1019,2000,Bahia,April,23
+1020,2001,Bahia,April,26
+1021,2002,Bahia,April,110
+1022,2003,Bahia,April,376
+1023,2004,Bahia,April,89
+1024,2005,Bahia,April,76
+1025,2006,Bahia,April,60
+1026,2007,Bahia,April,64
+1027,2008,Bahia,April,151
+1028,2009,Bahia,April,40
+1029,2010,Bahia,April,103
+1030,2011,Bahia,April,149
+1031,2012,Bahia,April,396
+1032,2013,Bahia,April,108
+1033,2014,Bahia,April,183
+1034,2015,Bahia,April,190
+1035,2016,Bahia,April,217
+1036,2017,Bahia,April,94
+1037,1998,Bahia,May,0
+1038,1999,Bahia,May,76
+1039,2000,Bahia,May,71
+1040,2001,Bahia,May,85
+1041,2002,Bahia,May,166
+1042,2003,Bahia,May,106
+1043,2004,Bahia,May,124
+1044,2005,Bahia,May,120
+1045,2006,Bahia,May,43
+1046,2007,Bahia,May,161
+1047,2008,Bahia,May,56
+1048,2009,Bahia,May,34
+1049,2010,Bahia,May,198
+1050,2011,Bahia,May,189
+1051,2012,Bahia,May,326
+1052,2013,Bahia,May,141
+1053,2014,Bahia,May,224
+1054,2015,Bahia,May,144
+1055,2016,Bahia,May,259
+1056,2017,Bahia,May,121
+1057,1998,Bahia,June,55
+1058,1999,Bahia,June,64
+1059,2000,Bahia,June,178
+1060,2001,Bahia,June,98
+1061,2002,Bahia,June,118
+1062,2003,Bahia,June,140
+1063,2004,Bahia,June,289
+1064,2005,Bahia,June,211
+1065,2006,Bahia,June,68
+1066,2007,Bahia,June,270
+1067,2008,Bahia,June,72
+1068,2009,Bahia,June,92
+1069,2010,Bahia,June,192
+1070,2011,Bahia,June,345
+1071,2012,Bahia,June,385
+1072,2013,Bahia,June,208
+1073,2014,Bahia,June,243
+1074,2015,Bahia,June,242
+1075,2016,Bahia,June,416
+1076,2017,Bahia,June,329
+1077,1998,Bahia,July,219
+1078,1999,Bahia,July,107
+1079,2000,Bahia,July,202
+1080,2001,Bahia,July,248
+1081,2002,Bahia,July,549
+1082,2003,Bahia,July,261
+1083,2004,Bahia,July,310
+1084,2005,Bahia,July,269
+1085,2006,Bahia,July,229
+1086,2007,Bahia,July,811
+1087,2008,Bahia,July,271
+1088,2009,Bahia,July,321
+1089,2010,Bahia,July,519
+1090,2011,Bahia,July,578
+1091,2012,Bahia,July,906
+1092,2013,Bahia,July,362
+1093,2014,Bahia,July,249
+1094,2015,Bahia,July,306
+1095,2016,Bahia,July,345
+1096,2017,Bahia,July,300
+1097,1998,Bahia,August,815
+1098,1999,Bahia,August,453
+1099,2000,Bahia,August,633
+1100,2001,Bahia,August,979
+1101,2002,Bahia,August,1827
+1102,2003,Bahia,August,1039
+1103,2004,Bahia,August,1430
+1104,2005,Bahia,August,948
+1105,2006,Bahia,August,995
+1106,2007,Bahia,August,3734
+1107,2008,Bahia,August,611
+1108,2009,Bahia,August,439
+1109,2010,Bahia,August,2423
+1110,2011,Bahia,August,1795
+1111,2012,Bahia,August,1835
+1112,2013,Bahia,August,610
+1113,2014,Bahia,August,674
+1114,2015,Bahia,August,829
+1115,2016,Bahia,August,724
+1116,2017,Bahia,August,1018
+1117,1998,Bahia,September,2718
+1118,1999,Bahia,September,1275
+1119,2000,Bahia,September,2285
+1120,2001,Bahia,September,3964
+1121,2002,Bahia,September,6439
+1122,2003,Bahia,September,8847
+1123,2004,Bahia,September,6433
+1124,2005,Bahia,September,4066
+1125,2006,Bahia,September,3006
+1126,2007,Bahia,September,7438
+1127,2008,Bahia,September,4837
+1128,2009,Bahia,September,3610
+1129,2010,Bahia,September,5323
+1130,2011,Bahia,September,7086
+1131,2012,Bahia,September,7495
+1132,2013,Bahia,September,2681
+1133,2014,Bahia,September,2604
+1134,2015,Bahia,September,7956
+1135,2016,Bahia,September,1819
+1136,2017,Bahia,September,1791
+1137,1998,Bahia,October,1969
+1138,1999,Bahia,October,1307
+1139,2000,Bahia,October,335
+1140,2001,Bahia,October,1687
+1141,2002,Bahia,October,5414
+1142,2003,Bahia,October,4264
+1143,2004,Bahia,October,4810
+1144,2005,Bahia,October,8405
+1145,2006,Bahia,October,2079
+1146,2007,Bahia,October,4981
+1147,2008,Bahia,October,7691
+1148,2009,Bahia,October,2552
+1149,2010,Bahia,October,5264
+1150,2011,Bahia,October,2166
+1151,2012,Bahia,October,4607
+1152,2013,Bahia,October,1969
+1153,2014,Bahia,October,2763
+1154,2015,Bahia,October,4989
+1155,2016,Bahia,October,1415
+1156,2017,Bahia,October,4005
+1157,1998,Bahia,November,49
+1158,1999,Bahia,November,49
+1159,2000,Bahia,November,114
+1160,2001,Bahia,November,699
+1161,2002,Bahia,November,1020
+1162,2003,Bahia,November,533
+1163,2004,Bahia,November,1736
+1164,2005,Bahia,November,1595
+1165,2006,Bahia,November,239
+1166,2007,Bahia,November,2126
+1167,2008,Bahia,November,3175
+1168,2009,Bahia,November,402
+1169,2010,Bahia,November,605
+1170,2011,Bahia,November,176
+1171,2012,Bahia,November,168
+1172,2013,Bahia,November,288
+1173,2014,Bahia,November,348
+1174,2015,Bahia,November,1705
+1175,2016,Bahia,November,408
+1176,2017,Bahia,November,174
+1177,1998,Bahia,December,82
+1178,1999,Bahia,December,37
+1179,2000,Bahia,December,24
+1180,2001,Bahia,December,158
+1181,2002,Bahia,December,848
+1182,2003,Bahia,December,710
+1183,2004,Bahia,December,423
+1184,2005,Bahia,December,116
+1185,2006,Bahia,December,169
+1186,2007,Bahia,December,259
+1187,2008,Bahia,December,52
+1188,2009,Bahia,December,308
+1189,2010,Bahia,December,226
+1190,2011,Bahia,December,230
+1191,2012,Bahia,December,477
+1192,2013,Bahia,December,131
+1193,2014,Bahia,December,144
+1194,2015,Bahia,December,1408
+1195,2016,Bahia,December,164
+1196,1998,Ceara,January,0
+1197,1999,Ceara,January,47
+1198,2000,Ceara,January,1
+1199,2001,Ceara,January,11
+1200,2002,Ceara,January,33
+1201,2003,Ceara,January,264
+1202,2004,Ceara,January,143
+1203,2005,Ceara,January,384
+1204,2006,Ceara,January,211
+1205,2007,Ceara,January,304
+1206,2008,Ceara,January,166
+1207,2009,Ceara,January,347
+1208,2010,Ceara,January,288
+1209,2011,Ceara,January,32
+1210,2012,Ceara,January,273
+1211,2013,Ceara,January,103
+1212,2014,Ceara,January,115
+1213,2015,Ceara,January,207
+1214,2016,Ceara,January,100
+1215,2017,Ceara,January,91
+1216,1998,Ceara,February,0
+1217,1999,Ceara,February,16
+1218,2000,Ceara,February,6
+1219,2001,Ceara,February,0
+1220,2002,Ceara,February,75
+1221,2003,Ceara,February,9
+1222,2004,Ceara,February,5
+1223,2005,Ceara,February,25
+1224,2006,Ceara,February,23
+1225,2007,Ceara,February,3
+1226,2008,Ceara,February,12
+1227,2009,Ceara,February,8
+1228,2010,Ceara,February,63
+1229,2011,Ceara,February,2
+1230,2012,Ceara,February,41
+1231,2013,Ceara,February,49
+1232,2014,Ceara,February,18
+1233,2015,Ceara,February,25
+1234,2016,Ceara,February,13
+1235,2017,Ceara,February,9
+1236,1998,Ceara,March,0
+1237,1999,Ceara,March,30
+1238,2000,Ceara,March,9
+1239,2001,Ceara,March,0
+1240,2002,Ceara,March,17
+1241,2003,Ceara,March,3
+1242,2004,Ceara,March,1
+1243,2005,Ceara,March,5
+1244,2006,Ceara,March,3
+1245,2007,Ceara,March,2
+1246,2008,Ceara,March,2
+1247,2009,Ceara,March,3
+1248,2010,Ceara,March,40
+1249,2011,Ceara,March,6
+1250,2012,Ceara,March,10
+1251,2013,Ceara,March,17
+1252,2014,Ceara,March,6
+1253,2015,Ceara,March,20
+1254,2016,Ceara,March,4
+1255,2017,Ceara,March,4
+1256,1998,Ceara,April,0
+1257,1999,Ceara,April,6
+1258,2000,Ceara,April,15
+1259,2001,Ceara,April,2
+1260,2002,Ceara,April,5
+1261,2003,Ceara,April,3
+1262,2004,Ceara,April,2
+1263,2005,Ceara,April,4
+1264,2006,Ceara,April,1
+1265,2007,Ceara,April,1
+1266,2008,Ceara,April,0
+1267,2009,Ceara,April,0
+1268,2010,Ceara,April,7
+1269,2011,Ceara,April,1
+1270,2012,Ceara,April,2
+1271,2013,Ceara,April,4
+1272,2014,Ceara,April,4
+1273,2015,Ceara,April,3
+1274,2016,Ceara,April,10
+1275,2017,Ceara,April,6
+1276,1998,Ceara,May,0
+1277,1999,Ceara,May,5
+1278,2000,Ceara,May,7
+1279,2001,Ceara,May,81
+1280,2002,Ceara,May,10
+1281,2003,Ceara,May,0
+1282,2004,Ceara,May,3
+1283,2005,Ceara,May,1
+1284,2006,Ceara,May,0
+1285,2007,Ceara,May,0
+1286,2008,Ceara,May,0
+1287,2009,Ceara,May,0
+1288,2010,Ceara,May,2
+1289,2011,Ceara,May,0
+1290,2012,Ceara,May,19
+1291,2013,Ceara,May,4
+1292,2014,Ceara,May,4
+1293,2015,Ceara,May,17
+1294,2016,Ceara,May,8
+1295,2017,Ceara,May,9
+1296,1998,Ceara,June,1
+1297,1999,Ceara,June,16
+1298,2000,Ceara,June,16
+1299,2001,Ceara,June,38
+1300,2002,Ceara,June,13
+1301,2003,Ceara,June,2
+1302,2004,Ceara,June,1
+1303,2005,Ceara,June,6
+1304,2006,Ceara,June,0
+1305,2007,Ceara,June,1
+1306,2008,Ceara,June,1
+1307,2009,Ceara,June,0
+1308,2010,Ceara,June,3
+1309,2011,Ceara,June,5
+1310,2012,Ceara,June,28
+1311,2013,Ceara,June,5
+1312,2014,Ceara,June,19
+1313,2015,Ceara,June,22
+1314,2016,Ceara,June,45
+1315,2017,Ceara,June,23
+1316,1998,Ceara,July,76
+1317,1999,Ceara,July,83
+1318,2000,Ceara,July,18
+1319,2001,Ceara,July,146
+1320,2002,Ceara,July,12
+1321,2003,Ceara,July,14
+1322,2004,Ceara,July,16
+1323,2005,Ceara,July,14
+1324,2006,Ceara,July,1
+1325,2007,Ceara,July,11
+1326,2008,Ceara,July,3
+1327,2009,Ceara,July,7
+1328,2010,Ceara,July,44
+1329,2011,Ceara,July,18
+1330,2012,Ceara,July,50
+1331,2013,Ceara,July,4
+1332,2014,Ceara,July,47
+1333,2015,Ceara,July,25
+1334,2016,Ceara,July,124
+1335,2017,Ceara,July,26
+1336,1998,Ceara,August,93
+1337,1999,Ceara,August,131
+1338,2000,Ceara,August,79
+1339,2001,Ceara,August,219
+1340,2002,Ceara,August,111
+1341,2003,Ceara,August,109
+1342,2004,Ceara,August,61
+1343,2005,Ceara,August,51
+1344,2006,Ceara,August,50
+1345,2007,Ceara,August,182
+1346,2008,Ceara,August,32
+1347,2009,Ceara,August,26
+1348,2010,Ceara,August,202
+1349,2011,Ceara,August,53
+1350,2012,Ceara,August,278
+1351,2013,Ceara,August,32
+1352,2014,Ceara,August,155
+1353,2015,Ceara,August,127
+1354,2016,Ceara,August,293
+1355,2017,Ceara,August,121
+1356,1998,Ceara,September,590
+1357,1999,Ceara,September,124
+1358,2000,Ceara,September,127
+1359,2001,Ceara,September,801
+1360,2002,Ceara,September,172
+1361,2003,Ceara,September,384
+1362,2004,Ceara,September,144
+1363,2005,Ceara,September,185
+1364,2006,Ceara,September,237
+1365,2007,Ceara,September,241
+1366,2008,Ceara,September,177
+1367,2009,Ceara,September,101
+1368,2010,Ceara,September,357
+1369,2011,Ceara,September,239
+1370,2012,Ceara,September,609
+1371,2013,Ceara,September,177
+1372,2014,Ceara,September,155
+1373,2015,Ceara,September,214
+1374,2016,Ceara,September,370
+1375,2017,Ceara,September,505
+1376,1998,Ceara,October,1014
+1377,1999,Ceara,October,309
+1378,2000,Ceara,October,875
+1379,2001,Ceara,October,2045
+1380,2002,Ceara,October,1606
+1381,2003,Ceara,October,1761
+1382,2004,Ceara,October,1217
+1383,2005,Ceara,October,1378
+1384,2006,Ceara,October,581
+1385,2007,Ceara,October,964
+1386,2008,Ceara,October,816
+1387,2009,Ceara,October,435
+1388,2010,Ceara,October,502
+1389,2011,Ceara,October,415
+1390,2012,Ceara,October,1104
+1391,2013,Ceara,October,466
+1392,2014,Ceara,October,517
+1393,2015,Ceara,October,658
+1394,2016,Ceara,October,1310
+1395,2017,Ceara,October,949
+1396,1998,Ceara,November,575
+1397,1999,Ceara,November,524
+1398,2000,Ceara,November,669
+1399,2001,Ceara,November,2456
+1400,2002,Ceara,November,2715
+1401,2003,Ceara,November,3327
+1402,2004,Ceara,November,29
+1403,2005,Ceara,November,2483
+1404,2006,Ceara,November,1012
+1405,2007,Ceara,November,1443
+1406,2008,Ceara,November,1753
+1407,2009,Ceara,November,1653
+1408,2010,Ceara,November,1652
+1409,2011,Ceara,November,1561
+1410,2012,Ceara,November,995
+1411,2013,Ceara,November,1081
+1412,2014,Ceara,November,829
+1413,2015,Ceara,November,1081
+1414,2016,Ceara,November,1328
+1415,2017,Ceara,November,812
+1416,1998,Ceara,December,276
+1417,1999,Ceara,December,397
+1418,2000,Ceara,December,389
+1419,2001,Ceara,December,545
+1420,2002,Ceara,December,1787
+1421,2003,Ceara,December,2436
+1422,2004,Ceara,December,3158
+1423,2005,Ceara,December,1360
+1424,2006,Ceara,December,1161
+1425,2007,Ceara,December,1177
+1426,2008,Ceara,December,1655
+1427,2009,Ceara,December,1987
+1428,2010,Ceara,December,578
+1429,2011,Ceara,December,1441
+1430,2012,Ceara,December,631
+1431,2013,Ceara,December,956
+1432,2014,Ceara,December,643
+1433,2015,Ceara,December,1021
+1434,2016,Ceara,December,819
+1435,1998,Distrito Federal,January,0
+1436,1999,Distrito Federal,January,0
+1437,2000,Distrito Federal,January,0
+1438,2001,Distrito Federal,January,0
+1439,2002,Distrito Federal,January,0
+1440,2003,Distrito Federal,January,0
+1441,2004,Distrito Federal,January,0
+1442,2005,Distrito Federal,January,0
+1443,2006,Distrito Federal,January,0
+1444,2007,Distrito Federal,January,0
+1445,2008,Distrito Federal,January,0
+1446,2009,Distrito Federal,January,1
+1447,2010,Distrito Federal,January,2
+1448,2011,Distrito Federal,January,2
+1449,2012,Distrito Federal,January,0
+1450,2013,Distrito Federal,January,0
+1451,2014,Distrito Federal,January,0
+1452,2015,Distrito Federal,January,1
+1453,2016,Distrito Federal,January,1
+1454,2017,Distrito Federal,January,1
+1455,1998,Distrito Federal,February,0
+1456,1999,Distrito Federal,February,2
+1457,2000,Distrito Federal,February,0
+1458,2001,Distrito Federal,February,1
+1459,2002,Distrito Federal,February,0
+1460,2003,Distrito Federal,February,1
+1461,2004,Distrito Federal,February,0
+1462,2005,Distrito Federal,February,0
+1463,2006,Distrito Federal,February,0
+1464,2007,Distrito Federal,February,0
+1465,2008,Distrito Federal,February,0
+1466,2009,Distrito Federal,February,0
+1467,2010,Distrito Federal,February,4
+1468,2011,Distrito Federal,February,1
+1469,2012,Distrito Federal,February,0
+1470,2013,Distrito Federal,February,1
+1471,2014,Distrito Federal,February,1
+1472,2015,Distrito Federal,February,0
+1473,2016,Distrito Federal,February,2
+1474,2017,Distrito Federal,February,0
+1475,1998,Distrito Federal,March,0
+1476,1999,Distrito Federal,March,0
+1477,2000,Distrito Federal,March,0
+1478,2001,Distrito Federal,March,0
+1479,2002,Distrito Federal,March,0
+1480,2003,Distrito Federal,March,0
+1481,2004,Distrito Federal,March,0
+1482,2005,Distrito Federal,March,0
+1483,2006,Distrito Federal,March,0
+1484,2007,Distrito Federal,March,1
+1485,2008,Distrito Federal,March,2
+1486,2009,Distrito Federal,March,0
+1487,2010,Distrito Federal,March,0
+1488,2011,Distrito Federal,March,0
+1489,2012,Distrito Federal,March,0
+1490,2013,Distrito Federal,March,1
+1491,2014,Distrito Federal,March,1
+1492,2015,Distrito Federal,March,0
+1493,2016,Distrito Federal,March,1
+1494,2017,Distrito Federal,March,0
+1495,1998,Distrito Federal,April,0
+1496,1999,Distrito Federal,April,0
+1497,2000,Distrito Federal,April,0
+1498,2001,Distrito Federal,April,0
+1499,2002,Distrito Federal,April,1
+1500,2003,Distrito Federal,April,0
+1501,2004,Distrito Federal,April,1
+1502,2005,Distrito Federal,April,0
+1503,2006,Distrito Federal,April,0
+1504,2007,Distrito Federal,April,0
+1505,2008,Distrito Federal,April,1
+1506,2009,Distrito Federal,April,0
+1507,2010,Distrito Federal,April,8
+1508,2011,Distrito Federal,April,1
+1509,2012,Distrito Federal,April,4
+1510,2013,Distrito Federal,April,1
+1511,2014,Distrito Federal,April,2
+1512,2015,Distrito Federal,April,0
+1513,2016,Distrito Federal,April,5
+1514,2017,Distrito Federal,April,1
+1515,1998,Distrito Federal,May,0
+1516,1999,Distrito Federal,May,0
+1517,2000,Distrito Federal,May,2
+1518,2001,Distrito Federal,May,0
+1519,2002,Distrito Federal,May,1
+1520,2003,Distrito Federal,May,0
+1521,2004,Distrito Federal,May,9
+1522,2005,Distrito Federal,May,2
+1523,2006,Distrito Federal,May,3
+1524,2007,Distrito Federal,May,4
+1525,2008,Distrito Federal,May,6
+1526,2009,Distrito Federal,May,9
+1527,2010,Distrito Federal,May,23
+1528,2011,Distrito Federal,May,3
+1529,2012,Distrito Federal,May,0
+1530,2013,Distrito Federal,May,2
+1531,2014,Distrito Federal,May,9
+1532,2015,Distrito Federal,May,2
+1533,2016,Distrito Federal,May,15
+1534,2017,Distrito Federal,May,6
+1535,1998,Distrito Federal,June,2
+1536,1999,Distrito Federal,June,3
+1537,2000,Distrito Federal,June,1
+1538,2001,Distrito Federal,June,3
+1539,2002,Distrito Federal,June,7
+1540,2003,Distrito Federal,June,11
+1541,2004,Distrito Federal,June,6
+1542,2005,Distrito Federal,June,3
+1543,2006,Distrito Federal,June,2
+1544,2007,Distrito Federal,June,21
+1545,2008,Distrito Federal,June,0
+1546,2009,Distrito Federal,June,4
+1547,2010,Distrito Federal,June,21
+1548,2011,Distrito Federal,June,18
+1549,2012,Distrito Federal,June,6
+1550,2013,Distrito Federal,June,4
+1551,2014,Distrito Federal,June,6
+1552,2015,Distrito Federal,June,1
+1553,2016,Distrito Federal,June,42
+1554,2017,Distrito Federal,June,23
+1555,1998,Distrito Federal,July,17
+1556,1999,Distrito Federal,July,4
+1557,2000,Distrito Federal,July,15
+1558,2001,Distrito Federal,July,22
+1559,2002,Distrito Federal,July,33
+1560,2003,Distrito Federal,July,19
+1561,2004,Distrito Federal,July,37
+1562,2005,Distrito Federal,July,24
+1563,2006,Distrito Federal,July,10
+1564,2007,Distrito Federal,July,25
+1565,2008,Distrito Federal,July,12
+1566,2009,Distrito Federal,July,33
+1567,2010,Distrito Federal,July,85
+1568,2011,Distrito Federal,July,53
+1569,2012,Distrito Federal,July,29
+1570,2013,Distrito Federal,July,22
+1571,2014,Distrito Federal,July,27
+1572,2015,Distrito Federal,July,15
+1573,2016,Distrito Federal,July,79
+1574,2017,Distrito Federal,July,44
+1575,1998,Distrito Federal,August,48
+1576,1999,Distrito Federal,August,16
+1577,2000,Distrito Federal,August,9
+1578,2001,Distrito Federal,August,25
+1579,2002,Distrito Federal,August,53
+1580,2003,Distrito Federal,August,36
+1581,2004,Distrito Federal,August,108
+1582,2005,Distrito Federal,August,20
+1583,2006,Distrito Federal,August,40
+1584,2007,Distrito Federal,August,137
+1585,2008,Distrito Federal,August,30
+1586,2009,Distrito Federal,August,37
+1587,2010,Distrito Federal,August,159
+1588,2011,Distrito Federal,August,61
+1589,2012,Distrito Federal,August,55
+1590,2013,Distrito Federal,August,34
+1591,2014,Distrito Federal,August,99
+1592,2015,Distrito Federal,August,53
+1593,2016,Distrito Federal,August,29
+1594,2017,Distrito Federal,August,147
+1595,1998,Distrito Federal,September,33
+1596,1999,Distrito Federal,September,12
+1597,2000,Distrito Federal,September,3
+1598,2001,Distrito Federal,September,12
+1599,2002,Distrito Federal,September,33
+1600,2003,Distrito Federal,September,17
+1601,2004,Distrito Federal,September,100
+1602,2005,Distrito Federal,September,23
+1603,2006,Distrito Federal,September,20
+1604,2007,Distrito Federal,September,73
+1605,2008,Distrito Federal,September,54
+1606,2009,Distrito Federal,September,5
+1607,2010,Distrito Federal,September,196
+1608,2011,Distrito Federal,September,133
+1609,2012,Distrito Federal,September,64
+1610,2013,Distrito Federal,September,31
+1611,2014,Distrito Federal,September,72
+1612,2015,Distrito Federal,September,76
+1613,2016,Distrito Federal,September,58
+1614,2017,Distrito Federal,September,122
+1615,1998,Distrito Federal,October,3
+1616,1999,Distrito Federal,October,8
+1617,2000,Distrito Federal,October,18
+1618,2001,Distrito Federal,October,0
+1619,2002,Distrito Federal,October,19
+1620,2003,Distrito Federal,October,12
+1621,2004,Distrito Federal,October,18
+1622,2005,Distrito Federal,October,18
+1623,2006,Distrito Federal,October,1
+1624,2007,Distrito Federal,October,13
+1625,2008,Distrito Federal,October,6
+1626,2009,Distrito Federal,October,3
+1627,2010,Distrito Federal,October,6
+1628,2011,Distrito Federal,October,0
+1629,2012,Distrito Federal,October,15
+1630,2013,Distrito Federal,October,3
+1631,2014,Distrito Federal,October,34
+1632,2015,Distrito Federal,October,21
+1633,2016,Distrito Federal,October,9
+1634,2017,Distrito Federal,October,66
+1635,1998,Distrito Federal,November,0
+1636,1999,Distrito Federal,November,1
+1637,2000,Distrito Federal,November,0
+1638,2001,Distrito Federal,November,0
+1639,2002,Distrito Federal,November,1
+1640,2003,Distrito Federal,November,0
+1641,2004,Distrito Federal,November,0
+1642,2005,Distrito Federal,November,2
+1643,2006,Distrito Federal,November,0
+1644,2007,Distrito Federal,November,0
+1645,2008,Distrito Federal,November,4
+1646,2009,Distrito Federal,November,0
+1647,2010,Distrito Federal,November,0
+1648,2011,Distrito Federal,November,1
+1649,2012,Distrito Federal,November,0
+1650,2013,Distrito Federal,November,0
+1651,2014,Distrito Federal,November,0
+1652,2015,Distrito Federal,November,3
+1653,2016,Distrito Federal,November,1
+1654,2017,Distrito Federal,November,0
+1655,1998,Distrito Federal,December,0
+1656,1999,Distrito Federal,December,0
+1657,2000,Distrito Federal,December,0
+1658,2001,Distrito Federal,December,1
+1659,2002,Distrito Federal,December,1
+1660,2003,Distrito Federal,December,0
+1661,2004,Distrito Federal,December,0
+1662,2005,Distrito Federal,December,0
+1663,2006,Distrito Federal,December,0
+1664,2007,Distrito Federal,December,0
+1665,2008,Distrito Federal,December,0
+1666,2009,Distrito Federal,December,0
+1667,2010,Distrito Federal,December,1
+1668,2011,Distrito Federal,December,0
+1669,2012,Distrito Federal,December,0
+1670,2013,Distrito Federal,December,2
+1671,2014,Distrito Federal,December,0
+1672,2015,Distrito Federal,December,0
+1673,2016,Distrito Federal,December,0
+1674,1998,Espirito Santo,January,0
+1675,1999,Espirito Santo,January,33
+1676,2000,Espirito Santo,January,5
+1677,2001,Espirito Santo,January,1
+1678,2002,Espirito Santo,January,2
+1679,2003,Espirito Santo,January,4
+1680,2004,Espirito Santo,January,1
+1681,2005,Espirito Santo,January,4
+1682,2006,Espirito Santo,January,13
+1683,2007,Espirito Santo,January,0
+1684,2008,Espirito Santo,January,12
+1685,2009,Espirito Santo,January,4
+1686,2010,Espirito Santo,January,52
+1687,2011,Espirito Santo,January,3
+1688,2012,Espirito Santo,January,1
+1689,2013,Espirito Santo,January,10
+1690,2014,Espirito Santo,January,11
+1691,2015,Espirito Santo,January,76
+1692,2016,Espirito Santo,January,43
+1693,2017,Espirito Santo,January,13
+1694,1998,Espirito Santo,February,0
+1695,1999,Espirito Santo,February,10
+1696,2000,Espirito Santo,February,5
+1697,2001,Espirito Santo,February,5
+1698,2002,Espirito Santo,February,4
+1699,2003,Espirito Santo,February,11
+1700,2004,Espirito Santo,February,5
+1701,2005,Espirito Santo,February,1
+1702,2006,Espirito Santo,February,45
+1703,2007,Espirito Santo,February,3
+1704,2008,Espirito Santo,February,20
+1705,2009,Espirito Santo,February,12
+1706,2010,Espirito Santo,February,15
+1707,2011,Espirito Santo,February,42
+1708,2012,Espirito Santo,February,25
+1709,2013,Espirito Santo,February,15
+1710,2014,Espirito Santo,February,17
+1711,2015,Espirito Santo,February,60
+1712,2016,Espirito Santo,February,24
+1713,2017,Espirito Santo,February,8
+1714,1998,Espirito Santo,March,0
+1715,1999,Espirito Santo,March,8
+1716,2000,Espirito Santo,March,1
+1717,2001,Espirito Santo,March,2
+1718,2002,Espirito Santo,March,4
+1719,2003,Espirito Santo,March,28
+1720,2004,Espirito Santo,March,3
+1721,2005,Espirito Santo,March,3
+1722,2006,Espirito Santo,March,14
+1723,2007,Espirito Santo,March,9
+1724,2008,Espirito Santo,March,5
+1725,2009,Espirito Santo,March,11
+1726,2010,Espirito Santo,March,3
+1727,2011,Espirito Santo,March,5
+1728,2012,Espirito Santo,March,35
+1729,2013,Espirito Santo,March,13
+1730,2014,Espirito Santo,March,15
+1731,2015,Espirito Santo,March,25
+1732,2016,Espirito Santo,March,107
+1733,2017,Espirito Santo,March,9
+1734,1998,Espirito Santo,April,0
+1735,1999,Espirito Santo,April,2
+1736,2000,Espirito Santo,April,3
+1737,2001,Espirito Santo,April,2
+1738,2002,Espirito Santo,April,2
+1739,2003,Espirito Santo,April,22
+1740,2004,Espirito Santo,April,0
+1741,2005,Espirito Santo,April,4
+1742,2006,Espirito Santo,April,1
+1743,2007,Espirito Santo,April,2
+1744,2008,Espirito Santo,April,8
+1745,2009,Espirito Santo,April,8
+1746,2010,Espirito Santo,April,7
+1747,2011,Espirito Santo,April,3
+1748,2012,Espirito Santo,April,74
+1749,2013,Espirito Santo,April,16
+1750,2014,Espirito Santo,April,15
+1751,2015,Espirito Santo,April,33
+1752,2016,Espirito Santo,April,57
+1753,2017,Espirito Santo,April,7
+1754,1998,Espirito Santo,May,0
+1755,1999,Espirito Santo,May,16
+1756,2000,Espirito Santo,May,2
+1757,2001,Espirito Santo,May,8
+1758,2002,Espirito Santo,May,5
+1759,2003,Espirito Santo,May,1
+1760,2004,Espirito Santo,May,0
+1761,2005,Espirito Santo,May,5
+1762,2006,Espirito Santo,May,0
+1763,2007,Espirito Santo,May,1
+1764,2008,Espirito Santo,May,2
+1765,2009,Espirito Santo,May,7
+1766,2010,Espirito Santo,May,3
+1767,2011,Espirito Santo,May,2
+1768,2012,Espirito Santo,May,20
+1769,2013,Espirito Santo,May,14
+1770,2014,Espirito Santo,May,18
+1771,2015,Espirito Santo,May,17
+1772,2016,Espirito Santo,May,48
+1773,2017,Espirito Santo,May,10
+1774,1998,Espirito Santo,June,6
+1775,1999,Espirito Santo,June,6
+1776,2000,Espirito Santo,June,9
+1777,2001,Espirito Santo,June,9
+1778,2002,Espirito Santo,June,18
+1779,2003,Espirito Santo,June,19
+1780,2004,Espirito Santo,June,3
+1781,2005,Espirito Santo,June,8
+1782,2006,Espirito Santo,June,5
+1783,2007,Espirito Santo,June,4
+1784,2008,Espirito Santo,June,4
+1785,2009,Espirito Santo,June,12
+1786,2010,Espirito Santo,June,3
+1787,2011,Espirito Santo,June,7
+1788,2012,Espirito Santo,June,15
+1789,2013,Espirito Santo,June,22
+1790,2014,Espirito Santo,June,9
+1791,2015,Espirito Santo,June,18
+1792,2016,Espirito Santo,June,49
+1793,2017,Espirito Santo,June,37
+1794,1998,Espirito Santo,July,37
+1795,1999,Espirito Santo,July,9
+1796,2000,Espirito Santo,July,16
+1797,2001,Espirito Santo,July,12
+1798,2002,Espirito Santo,July,9
+1799,2003,Espirito Santo,July,27
+1800,2004,Espirito Santo,July,4
+1801,2005,Espirito Santo,July,9
+1802,2006,Espirito Santo,July,11
+1803,2007,Espirito Santo,July,13
+1804,2008,Espirito Santo,July,5
+1805,2009,Espirito Santo,July,25
+1806,2010,Espirito Santo,July,5
+1807,2011,Espirito Santo,July,18
+1808,2012,Espirito Santo,July,35
+1809,2013,Espirito Santo,July,20
+1810,2014,Espirito Santo,July,17
+1811,2015,Espirito Santo,July,30
+1812,2016,Espirito Santo,July,42
+1813,2017,Espirito Santo,July,3
+1814,1998,Espirito Santo,August,38
+1815,1999,Espirito Santo,August,60
+1816,2000,Espirito Santo,August,26
+1817,2001,Espirito Santo,August,30
+1818,2002,Espirito Santo,August,60
+1819,2003,Espirito Santo,August,118
+1820,2004,Espirito Santo,August,12
+1821,2005,Espirito Santo,August,12
+1822,2006,Espirito Santo,August,29
+1823,2007,Espirito Santo,August,82
+1824,2008,Espirito Santo,August,13
+1825,2009,Espirito Santo,August,17
+1826,2010,Espirito Santo,August,39
+1827,2011,Espirito Santo,August,93
+1828,2012,Espirito Santo,August,12
+1829,2013,Espirito Santo,August,53
+1830,2014,Espirito Santo,August,47
+1831,2015,Espirito Santo,August,35
+1832,2016,Espirito Santo,August,78
+1833,2017,Espirito Santo,August,30
+1834,1998,Espirito Santo,September,108
+1835,1999,Espirito Santo,September,64
+1836,2000,Espirito Santo,September,14
+1837,2001,Espirito Santo,September,38
+1838,2002,Espirito Santo,September,46
+1839,2003,Espirito Santo,September,252
+1840,2004,Espirito Santo,September,47
+1841,2005,Espirito Santo,September,8
+1842,2006,Espirito Santo,September,87
+1843,2007,Espirito Santo,September,63
+1844,2008,Espirito Santo,September,78
+1845,2009,Espirito Santo,September,57
+1846,2010,Espirito Santo,September,53
+1847,2011,Espirito Santo,September,108
+1848,2012,Espirito Santo,September,48
+1849,2013,Espirito Santo,September,30
+1850,2014,Espirito Santo,September,61
+1851,2015,Espirito Santo,September,228
+1852,2016,Espirito Santo,September,128
+1853,2017,Espirito Santo,September,58
+1854,1998,Espirito Santo,October,20
+1855,1999,Espirito Santo,October,23
+1856,2000,Espirito Santo,October,88
+1857,2001,Espirito Santo,October,19
+1858,2002,Espirito Santo,October,113
+1859,2003,Espirito Santo,October,159
+1860,2004,Espirito Santo,October,48
+1861,2005,Espirito Santo,October,62
+1862,2006,Espirito Santo,October,10
+1863,2007,Espirito Santo,October,"79,1"
+1864,2008,Espirito Santo,October,100
+1865,2009,Espirito Santo,October,13
+1866,2010,Espirito Santo,October,32
+1867,2011,Espirito Santo,October,38
+1868,2012,Espirito Santo,October,62
+1869,2013,Espirito Santo,October,37
+1870,2014,Espirito Santo,October,89
+1871,2015,Espirito Santo,October,307
+1872,2016,Espirito Santo,October,58
+1873,2017,Espirito Santo,October,56
+1874,1998,Espirito Santo,November,4
+1875,1999,Espirito Santo,November,9
+1876,2000,Espirito Santo,November,3
+1877,2001,Espirito Santo,November,3
+1878,2002,Espirito Santo,November,22
+1879,2003,Espirito Santo,November,49
+1880,2004,Espirito Santo,November,42
+1881,2005,Espirito Santo,November,0
+1882,2006,Espirito Santo,November,0
+1883,2007,Espirito Santo,November,112
+1884,2008,Espirito Santo,November,3
+1885,2009,Espirito Santo,November,18
+1886,2010,Espirito Santo,November,3
+1887,2011,Espirito Santo,November,6
+1888,2012,Espirito Santo,November,7
+1889,2013,Espirito Santo,November,11
+1890,2014,Espirito Santo,November,20
+1891,2015,Espirito Santo,November,141
+1892,2016,Espirito Santo,November,8
+1893,2017,Espirito Santo,November,3
+1894,1998,Espirito Santo,December,5
+1895,1999,Espirito Santo,December,0
+1896,2000,Espirito Santo,December,3
+1897,2001,Espirito Santo,December,1
+1898,2002,Espirito Santo,December,12
+1899,2003,Espirito Santo,December,18
+1900,2004,Espirito Santo,December,9
+1901,2005,Espirito Santo,December,5
+1902,2006,Espirito Santo,December,0
+1903,2007,Espirito Santo,December,14
+1904,2008,Espirito Santo,December,1
+1905,2009,Espirito Santo,December,32
+1906,2010,Espirito Santo,December,10
+1907,2011,Espirito Santo,December,1
+1908,2012,Espirito Santo,December,18
+1909,2013,Espirito Santo,December,9
+1910,2014,Espirito Santo,December,28
+1911,2015,Espirito Santo,December,61
+1912,2016,Espirito Santo,December,12
+1913,1998,Goias,January,0
+1914,1999,Goias,January,14
+1915,2000,Goias,January,10
+1916,2001,Goias,January,29
+1917,2002,Goias,January,12
+1918,2003,Goias,January,14
+1919,2004,Goias,January,10
+1920,2005,Goias,January,27
+1921,2006,Goias,January,85
+1922,2007,Goias,January,28
+1923,2008,Goias,January,23
+1924,2009,Goias,January,30
+1925,2010,Goias,January,59
+1926,2011,Goias,January,39
+1927,2012,Goias,January,21
+1928,2013,Goias,January,33
+1929,2014,Goias,January,80
+1930,2015,Goias,January,118
+1931,2016,Goias,January,52
+1932,2017,Goias,January,53
+1933,1998,Goias,February,0
+1934,1999,Goias,February,334
+1935,2000,Goias,February,11
+1936,2001,Goias,February,9
+1937,2002,Goias,February,9
+1938,2003,Goias,February,47
+1939,2004,Goias,February,11
+1940,2005,Goias,February,84
+1941,2006,Goias,February,21
+1942,2007,Goias,February,13
+1943,2008,Goias,February,25
+1944,2009,Goias,February,29
+1945,2010,Goias,February,86
+1946,2011,Goias,February,45
+1947,2012,Goias,February,37
+1948,2013,Goias,February,86
+1949,2014,Goias,February,44
+1950,2015,Goias,February,53
+1951,2016,Goias,February,117
+1952,2017,Goias,February,75
+1953,1998,Goias,March,0
+1954,1999,Goias,March,1
+1955,2000,Goias,March,4
+1956,2001,Goias,March,10
+1957,2002,Goias,March,48
+1958,2003,Goias,March,29
+1959,2004,Goias,March,36
+1960,2005,Goias,March,36
+1961,2006,Goias,March,29
+1962,2007,Goias,March,49
+1963,2008,Goias,March,20
+1964,2009,Goias,March,32
+1965,2010,Goias,March,65
+1966,2011,Goias,March,19
+1967,2012,Goias,March,57
+1968,2013,Goias,March,79
+1969,2014,Goias,March,80
+1970,2015,Goias,March,76
+1971,2016,Goias,March,136
+1972,2017,Goias,March,115
+1973,1998,Goias,April,0
+1974,1999,Goias,April,25
+1975,2000,Goias,April,16
+1976,2001,Goias,April,49
+1977,2002,Goias,April,78
+1978,2003,Goias,April,87
+1979,2004,Goias,April,32
+1980,2005,Goias,April,55
+1981,2006,Goias,April,22
+1982,2007,Goias,April,17
+1983,2008,Goias,April,36
+1984,2009,Goias,April,11
+1985,2010,Goias,April,105
+1986,2011,Goias,April,71
+1987,2012,Goias,April,89
+1988,2013,Goias,April,42
+1989,2014,Goias,April,138
+1990,2015,Goias,April,89
+1991,2016,Goias,April,167
+1992,2017,Goias,April,60
+1993,1998,Goias,May,0
+1994,1999,Goias,May,99
+1995,2000,Goias,May,58
+1996,2001,Goias,May,85
+1997,2002,Goias,May,171
+1998,2003,Goias,May,57
+1999,2004,Goias,May,157
+2000,2005,Goias,May,164
+2001,2006,Goias,May,33
+2002,2007,Goias,May,94
+2003,2008,Goias,May,41
+2004,2009,Goias,May,104
+2005,2010,Goias,May,239
+2006,2011,Goias,May,136
+2007,2012,Goias,May,103
+2008,2013,Goias,May,150
+2009,2014,Goias,May,210
+2010,2015,Goias,May,129
+2011,2016,Goias,May,233
+2012,2017,Goias,May,135
+2013,1998,Goias,June,172
+2014,1999,Goias,June,250
+2015,2000,Goias,June,222
+2016,2001,Goias,June,212
+2017,2002,Goias,June,302
+2018,2003,Goias,June,321
+2019,2004,Goias,June,422
+2020,2005,Goias,June,189
+2021,2006,Goias,June,70
+2022,2007,Goias,June,186
+2023,2008,Goias,June,55
+2024,2009,Goias,June,179
+2025,2010,Goias,June,278
+2026,2011,Goias,June,314
+2027,2012,Goias,June,245
+2028,2013,Goias,June,192
+2029,2014,Goias,June,318
+2030,2015,Goias,June,277
+2031,2016,Goias,June,289
+2032,2017,Goias,June,442
+2033,1998,Goias,July,512
+2034,1999,Goias,July,311
+2035,2000,Goias,July,332
+2036,2001,Goias,July,371
+2037,2002,Goias,July,686
+2038,2003,Goias,July,322
+2039,2004,Goias,July,778
+2040,2005,Goias,July,363
+2041,2006,Goias,July,169
+2042,2007,Goias,July,399
+2043,2008,Goias,July,193
+2044,2009,Goias,July,470
+2045,2010,Goias,July,941
+2046,2011,Goias,July,607
+2047,2012,Goias,July,564
+2048,2013,Goias,July,350
+2049,2014,Goias,July,446
+2050,2015,Goias,July,347
+2051,2016,Goias,July,837
+2052,2017,Goias,July,577
+2053,1998,Goias,August,2218
+2054,1999,Goias,August,1198
+2055,2000,Goias,August,925
+2056,2001,Goias,August,787
+2057,2002,Goias,August,1428
+2058,2003,Goias,August,902
+2059,2004,Goias,August,1498
+2060,2005,Goias,August,639
+2061,2006,Goias,August,588
+2062,2007,Goias,August,2382
+2063,2008,Goias,August,568
+2064,2009,Goias,August,647
+2065,2010,Goias,August,2914
+2066,2011,Goias,August,1613
+2067,2012,Goias,August,912
+2068,2013,Goias,August,488
+2069,2014,Goias,August,1255
+2070,2015,Goias,August,943
+2071,2016,Goias,August,1032
+2073,1998,Goias,September,2867
+2074,1999,Goias,September,1898
+2075,2000,Goias,September,1293
+2076,2001,Goias,September,1863
+2077,2002,Goias,September,352
+2078,2003,Goias,September,1662
+2079,2004,Goias,September,2965
+2080,2005,Goias,September,1341
+2081,2006,Goias,September,1463
+2082,2007,Goias,September,3745
+2083,2008,Goias,September,1255
+2084,2009,Goias,September,685
+2085,2010,Goias,September,5075
+2086,2011,Goias,September,2259
+2087,2012,Goias,September,2452
+2088,2013,Goias,September,684
+2089,2014,Goias,September,1687
+2090,2015,Goias,September,2296
+2091,2016,Goias,September,1703
+2092,2017,Goias,September,3238
+2093,1998,Goias,October,1034
+2094,1999,Goias,October,743
+2095,2000,Goias,October,905
+2096,2001,Goias,October,479
+2097,2002,Goias,October,1367
+2098,2003,Goias,October,1183
+2099,2004,Goias,October,1275
+2100,2005,Goias,October,1717
+2101,2006,Goias,October,178
+2102,2007,Goias,October,1195
+2103,2008,Goias,October,1231
+2104,2009,Goias,October,367
+2105,2010,Goias,October,1227
+2106,2011,Goias,October,476
+2107,2012,Goias,October,1524
+2108,2013,Goias,October,606
+2109,2014,Goias,October,1947
+2110,2015,Goias,October,1807
+2111,2016,Goias,October,522
+2112,2017,Goias,October,2401
+2113,1998,Goias,November,47
+2114,1999,Goias,November,110
+2115,2000,Goias,November,26
+2116,2001,Goias,November,15
+2117,2002,Goias,November,192
+2118,2003,Goias,November,168
+2119,2004,Goias,November,291
+2120,2005,Goias,November,144
+2121,2006,Goias,November,91
+2122,2007,Goias,November,79
+2123,2008,Goias,November,90
+2124,2009,Goias,November,89
+2125,2010,Goias,November,67
+2126,2011,Goias,November,59
+2127,2012,Goias,November,57
+2128,2013,Goias,November,183
+2129,2014,Goias,November,181
+2130,2015,Goias,November,547
+2131,2016,Goias,November,123
+2132,2017,Goias,November,117
+2133,1998,Goias,December,13
+2134,1999,Goias,December,20
+2135,2000,Goias,December,6
+2136,2001,Goias,December,18
+2137,2002,Goias,December,115
+2138,2003,Goias,December,129
+2139,2004,Goias,December,56
+2140,2005,Goias,December,5
+2141,2006,Goias,December,7
+2142,2007,Goias,December,16
+2143,2008,Goias,December,6
+2144,2009,Goias,December,39
+2145,2010,Goias,December,48
+2146,2011,Goias,December,39
+2147,2012,Goias,December,93
+2148,2013,Goias,December,86
+2149,2014,Goias,December,68
+2150,2015,Goias,December,179
+2151,2016,Goias,December,64
+2152,1998,Maranhao,January,0
+2153,1999,Maranhao,January,54
+2154,2000,Maranhao,January,19
+2155,2001,Maranhao,January,29
+2156,2002,Maranhao,January,48
+2157,2003,Maranhao,January,436
+2158,2004,Maranhao,January,241
+2159,2005,Maranhao,January,450
+2160,2006,Maranhao,January,221
+2161,2007,Maranhao,January,428
+2162,2008,Maranhao,January,121
+2163,2009,Maranhao,January,240
+2164,2010,Maranhao,January,319
+2165,2011,Maranhao,January,124
+2166,2012,Maranhao,January,326
+2167,2013,Maranhao,January,209
+2168,2014,Maranhao,January,195
+2169,2015,Maranhao,January,494
+2170,2016,Maranhao,January,412
+2171,2017,Maranhao,January,187
+2172,1998,Maranhao,February,0
+2173,1999,Maranhao,February,6
+2174,2000,Maranhao,February,11
+2175,2001,Maranhao,February,1
+2176,2002,Maranhao,February,116
+2177,2003,Maranhao,February,11
+2178,2004,Maranhao,February,22
+2179,2005,Maranhao,February,56
+2180,2006,Maranhao,February,22
+2181,2007,Maranhao,February,13
+2182,2008,Maranhao,February,45
+2183,2009,Maranhao,February,20
+2184,2010,Maranhao,February,93
+2185,2011,Maranhao,February,9
+2186,2012,Maranhao,February,46
+2187,2013,Maranhao,February,62
+2188,2014,Maranhao,February,29
+2189,2015,Maranhao,February,95
+2190,2016,Maranhao,February,318
+2191,2017,Maranhao,February,47
+2192,1998,Maranhao,March,0
+2193,1999,Maranhao,March,17
+2194,2000,Maranhao,March,6
+2195,2001,Maranhao,March,0
+2196,2002,Maranhao,March,16
+2197,2003,Maranhao,March,16
+2198,2004,Maranhao,March,18
+2199,2005,Maranhao,March,9
+2200,2006,Maranhao,March,14
+2201,2007,Maranhao,March,52
+2202,2008,Maranhao,March,4
+2203,2009,Maranhao,March,33
+2204,2010,Maranhao,March,82
+2205,2011,Maranhao,March,22
+2206,2012,Maranhao,March,49
+2207,2013,Maranhao,March,30
+2208,2014,Maranhao,March,59
+2209,2015,Maranhao,March,53
+2210,2016,Maranhao,March,113
+2211,2017,Maranhao,March,32
+2212,1998,Maranhao,April,0
+2213,1999,Maranhao,April,4
+2214,2000,Maranhao,April,6
+2215,2001,Maranhao,April,2
+2216,2002,Maranhao,April,28
+2217,2003,Maranhao,April,79
+2218,2004,Maranhao,April,44
+2219,2005,Maranhao,April,43
+2220,2006,Maranhao,April,9
+2221,2007,Maranhao,April,5
+2222,2008,Maranhao,April,26
+2223,2009,Maranhao,April,14
+2224,2010,Maranhao,April,128
+2225,2011,Maranhao,April,37
+2226,2012,Maranhao,April,97
+2227,2013,Maranhao,April,62
+2228,2014,Maranhao,April,78
+2229,2015,Maranhao,April,119
+2230,2016,Maranhao,April,113
+2231,2017,Maranhao,April,91
+2232,1998,Maranhao,May,0
+2233,1999,Maranhao,May,3
+2234,2000,Maranhao,May,28
+2235,2001,Maranhao,May,21
+2236,2002,Maranhao,May,71
+2237,2003,Maranhao,May,60
+2238,2004,Maranhao,May,145
+2239,2005,Maranhao,May,74
+2240,2006,Maranhao,May,5
+2241,2007,Maranhao,May,73
+2242,2008,Maranhao,May,26
+2243,2009,Maranhao,May,19
+2244,2010,Maranhao,May,273
+2245,2011,Maranhao,May,73
+2246,2012,Maranhao,May,286
+2247,2013,Maranhao,May,100
+2248,2014,Maranhao,May,148
+2249,2015,Maranhao,May,194
+2250,2016,Maranhao,May,206
+2251,2017,Maranhao,May,142
+2252,1998,Maranhao,June,78
+2253,1999,Maranhao,June,32
+2254,2000,Maranhao,June,94
+2255,2001,Maranhao,June,100
+2256,2002,Maranhao,June,230
+2257,2003,Maranhao,June,338
+2258,2004,Maranhao,June,706
+2259,2005,Maranhao,June,529
+2260,2006,Maranhao,June,131
+2261,2007,Maranhao,June,515
+2262,2008,Maranhao,June,235
+2263,2009,Maranhao,June,279
+2264,2010,Maranhao,June,494
+2265,2011,Maranhao,June,602
+2266,2012,Maranhao,June,915
+2267,2013,Maranhao,June,498
+2268,2014,Maranhao,June,812
+2269,2015,Maranhao,June,887
+2270,2016,Maranhao,June,709
+2271,2017,Maranhao,June,885
+2272,1998,Maranhao,July,274
+2273,1999,Maranhao,July,258
+2274,2000,Maranhao,July,233
+2275,2001,Maranhao,July,549
+2276,2002,Maranhao,July,1271
+2277,2003,Maranhao,July,1103
+2278,2004,Maranhao,July,1366
+2279,2005,Maranhao,July,1152
+2280,2006,Maranhao,July,512
+2281,2007,Maranhao,July,1205
+2282,2008,Maranhao,July,502
+2283,2009,Maranhao,July,972
+2284,2010,Maranhao,July,2323
+2285,2011,Maranhao,July,1024
+2286,2012,Maranhao,July,3548
+2287,2013,Maranhao,July,1111
+2288,2014,Maranhao,July,2068
+2289,2015,Maranhao,July,1642
+2290,2016,Maranhao,July,2096
+2291,2017,Maranhao,July,2521
+2292,1998,Maranhao,August,1176
+2293,1999,Maranhao,August,895
+2294,2000,Maranhao,August,839
+2295,2001,Maranhao,August,2037
+2296,2002,Maranhao,August,3481
+2297,2003,Maranhao,August,2023
+2298,2004,Maranhao,August,1889
+2299,2005,Maranhao,August,2239
+2300,2006,Maranhao,August,1382
+2301,2007,Maranhao,August,8409
+2302,2008,Maranhao,August,713
+2303,2009,Maranhao,August,1766
+2304,2010,Maranhao,August,6353
+2305,2011,Maranhao,August,2138
+2306,2012,Maranhao,August,10395
+2307,2013,Maranhao,August,2098
+2308,2014,Maranhao,August,5592
+2309,2015,Maranhao,August,5428
+2310,2016,Maranhao,August,3723
+2311,2017,Maranhao,August,3875
+2312,1998,Maranhao,September,3935
+2313,1999,Maranhao,September,1739
+2314,2000,Maranhao,September,1365
+2315,2001,Maranhao,September,4618
+2316,2002,Maranhao,September,3181
+2317,2003,Maranhao,September,5878
+2318,2004,Maranhao,September,4673
+2319,2005,Maranhao,September,6292
+2320,2006,Maranhao,September,2907
+2321,2007,Maranhao,September,8524
+2322,2008,Maranhao,September,2761
+2323,2009,Maranhao,September,2404
+2324,2010,Maranhao,September,9795
+2325,2011,Maranhao,September,4632
+2326,2012,Maranhao,September,7626
+2327,2013,Maranhao,September,3880
+2328,2014,Maranhao,September,4373
+2329,2015,Maranhao,September,6423
+2330,2016,Maranhao,September,3166
+2331,2017,Maranhao,September,14825
+2332,1998,Maranhao,October,5137
+2333,1999,Maranhao,October,3208
+2334,2000,Maranhao,October,2654
+2335,2001,Maranhao,October,6661
+2336,2002,Maranhao,October,5182
+2337,2003,Maranhao,October,6085
+2338,2004,Maranhao,October,3604
+2339,2005,Maranhao,October,6472
+2340,2006,Maranhao,October,3024
+2341,2007,Maranhao,October,4772
+2342,2008,Maranhao,October,3498
+2343,2009,Maranhao,October,1861
+2344,2010,Maranhao,October,3228
+2345,2011,Maranhao,October,2404
+2346,2012,Maranhao,October,5
+2347,2013,Maranhao,October,2918
+2348,2014,Maranhao,October,5812
+2349,2015,Maranhao,October,6746
+2350,2016,Maranhao,October,5351
+2351,2017,Maranhao,October,6011
+2352,1998,Maranhao,November,2237
+2353,1999,Maranhao,November,1494
+2354,2000,Maranhao,November,2267
+2355,2001,Maranhao,November,3525
+2356,2002,Maranhao,November,5830
+2357,2003,Maranhao,November,4929
+2358,2004,Maranhao,November,6398
+2359,2005,Maranhao,November,4769
+2360,2006,Maranhao,November,2004
+2361,2007,Maranhao,November,2297
+2362,2008,Maranhao,November,2331
+2363,2009,Maranhao,November,5
+2364,2010,Maranhao,November,4005
+2365,2011,Maranhao,November,2261
+2366,2012,Maranhao,November,2010
+2367,2013,Maranhao,November,2529
+2368,2014,Maranhao,November,3869
+2369,2015,Maranhao,November,4350
+2370,2016,Maranhao,November,3982
+2371,2017,Maranhao,November,2300
+2372,1998,Maranhao,December,1399
+2373,1999,Maranhao,December,1001
+2374,2000,Maranhao,December,1461
+2375,2001,Maranhao,December,1296
+2376,2002,Maranhao,December,2165
+2377,2003,Maranhao,December,2424
+2378,2004,Maranhao,December,3255
+2379,2005,Maranhao,December,1660
+2380,2006,Maranhao,December,1052
+2381,2007,Maranhao,December,800
+2382,2008,Maranhao,December,1101
+2383,2009,Maranhao,December,1768
+2384,2010,Maranhao,December,1803
+2385,2011,Maranhao,December,1629
+2386,2012,Maranhao,December,1296
+2387,2013,Maranhao,December,2692
+2388,2014,Maranhao,December,2400
+2389,2015,Maranhao,December,3706
+2390,2016,Maranhao,December,1577
+2391,1998,Mato Grosso,January,0
+2392,1999,Mato Grosso,January,39
+2393,2000,Mato Grosso,January,44
+2394,2001,Mato Grosso,January,44
+2395,2002,Mato Grosso,January,172
+2396,2003,Mato Grosso,January,896
+2397,2004,Mato Grosso,January,301
+2398,2005,Mato Grosso,January,438
+2399,2006,Mato Grosso,January,947
+2400,2007,Mato Grosso,January,476
+2401,2008,Mato Grosso,January,245
+2402,2009,Mato Grosso,January,527
+2403,2010,Mato Grosso,January,298
+2404,2011,Mato Grosso,January,171
+2405,2012,Mato Grosso,January,166
+2406,2013,Mato Grosso,January,269
+2407,2014,Mato Grosso,January,315
+2408,2015,Mato Grosso,January,960
+2409,2016,Mato Grosso,January,374
+2410,2017,Mato Grosso,January,482
+2411,1998,Mato Grosso,February,0
+2412,1999,Mato Grosso,February,28
+2413,2000,Mato Grosso,February,35
+2414,2001,Mato Grosso,February,54
+2415,2002,Mato Grosso,February,22
+2416,2003,Mato Grosso,February,592
+2417,2004,Mato Grosso,February,272
+2418,2005,Mato Grosso,February,871
+2419,2006,Mato Grosso,February,383
+2420,2007,Mato Grosso,February,213
+2421,2008,Mato Grosso,February,180
+2422,2009,Mato Grosso,February,248
+2423,2010,Mato Grosso,February,431
+2424,2011,Mato Grosso,February,119
+2425,2012,Mato Grosso,February,193
+2426,2013,Mato Grosso,February,375
+2427,2014,Mato Grosso,February,199
+2428,2015,Mato Grosso,February,542
+2429,2016,Mato Grosso,February,1050
+2430,2017,Mato Grosso,February,337
+2431,1998,Mato Grosso,March,0
+2432,1999,Mato Grosso,March,18
+2433,2000,Mato Grosso,March,60
+2434,2001,Mato Grosso,March,24
+2435,2002,Mato Grosso,March,103
+2436,2003,Mato Grosso,March,554
+2437,2004,Mato Grosso,March,743
+2438,2005,Mato Grosso,March,362
+2439,2006,Mato Grosso,March,448
+2440,2007,Mato Grosso,March,476
+2441,2008,Mato Grosso,March,180
+2442,2009,Mato Grosso,March,325
+2443,2010,Mato Grosso,March,605
+2444,2011,Mato Grosso,March,252
+2445,2012,Mato Grosso,March,423
+2446,2013,Mato Grosso,March,563
+2447,2014,Mato Grosso,March,655
+2448,2015,Mato Grosso,March,705
+2449,2016,Mato Grosso,March,1085
+2450,2017,Mato Grosso,March,719
+2451,1998,Mato Grosso,April,0
+2452,1999,Mato Grosso,April,76
+2453,2000,Mato Grosso,April,59
+2454,2001,Mato Grosso,April,309
+2455,2002,Mato Grosso,April,641
+2456,2003,Mato Grosso,April,903
+2457,2004,Mato Grosso,April,441
+2458,2005,Mato Grosso,April,372
+2459,2006,Mato Grosso,April,161
+2460,2007,Mato Grosso,April,79
+2461,2008,Mato Grosso,April,274
+2462,2009,Mato Grosso,April,169
+2463,2010,Mato Grosso,April,769
+2464,2011,Mato Grosso,April,345
+2465,2012,Mato Grosso,April,521
+2466,2013,Mato Grosso,April,338
+2467,2014,Mato Grosso,April,859
+2468,2015,Mato Grosso,April,947
+2469,2016,Mato Grosso,April,1770
+2470,2017,Mato Grosso,April,606
+2471,1998,Mato Grosso,May,0
+2472,1999,Mato Grosso,May,731
+2473,2000,Mato Grosso,May,1194
+2474,2001,Mato Grosso,May,1193
+2475,2002,Mato Grosso,May,2528
+2476,2003,Mato Grosso,May,942
+2477,2004,Mato Grosso,May,2413
+2478,2005,Mato Grosso,May,1641
+2479,2006,Mato Grosso,May,269
+2480,2007,Mato Grosso,May,359
+2481,2008,Mato Grosso,May,119
+2482,2009,Mato Grosso,May,516
+2483,2010,Mato Grosso,May,1313
+2484,2011,Mato Grosso,May,547
+2485,2012,Mato Grosso,May,812
+2486,2013,Mato Grosso,May,739
+2487,2014,Mato Grosso,May,933
+2488,2015,Mato Grosso,May,541
+2489,2016,Mato Grosso,May,1081
+2490,2017,Mato Grosso,May,845
+2491,1998,Mato Grosso,June,2201
+2492,1999,Mato Grosso,June,2201
+2493,2000,Mato Grosso,June,4358
+2494,2001,Mato Grosso,June,6665
+2495,2002,Mato Grosso,June,7878
+2496,2003,Mato Grosso,June,4313
+2497,2004,Mato Grosso,June,9813
+2498,2005,Mato Grosso,June,2294
+2499,2006,Mato Grosso,June,856
+2500,2007,Mato Grosso,June,1339
+2501,2008,Mato Grosso,June,403
+2502,2009,Mato Grosso,June,979
+2503,2010,Mato Grosso,June,1025
+2504,2011,Mato Grosso,June,974
+2505,2012,Mato Grosso,June,1651
+2506,2013,Mato Grosso,June,1213
+2507,2014,Mato Grosso,June,1795
+2508,2015,Mato Grosso,June,1402
+2509,2016,Mato Grosso,June,1417
+2510,2017,Mato Grosso,June,2041
+2511,1998,Mato Grosso,July,3712
+2512,1999,Mato Grosso,July,3926
+2513,2000,Mato Grosso,July,1338
+2514,2001,Mato Grosso,July,1555
+2515,2002,Mato Grosso,July,5661
+2516,2003,Mato Grosso,July,5435
+2517,2004,Mato Grosso,July,11517
+2518,2005,Mato Grosso,July,4172
+2519,2006,Mato Grosso,July,1941
+2520,2007,Mato Grosso,July,1790
+2521,2008,Mato Grosso,July,1117
+2522,2009,Mato Grosso,July,1613
+2523,2010,Mato Grosso,July,3442
+2524,2011,Mato Grosso,July,1061
+2525,2012,Mato Grosso,July,2008
+2526,2013,Mato Grosso,July,1630
+2527,2014,Mato Grosso,July,2255
+2528,2015,Mato Grosso,July,1533
+2529,2016,Mato Grosso,July,3495
+2530,2017,Mato Grosso,July,2790
+2531,1998,Mato Grosso,August,15406
+2532,1999,Mato Grosso,August,18566
+2533,2000,Mato Grosso,August,6063
+2534,2001,Mato Grosso,August,7762
+2535,2002,Mato Grosso,August,14086
+2536,2003,Mato Grosso,August,11132
+2537,2004,Mato Grosso,August,13603
+2538,2005,Mato Grosso,August,11570
+2539,2006,Mato Grosso,August,6218
+2540,2007,Mato Grosso,August,14453
+2541,2008,Mato Grosso,August,2875
+2542,2009,Mato Grosso,August,2250
+2543,2010,Mato Grosso,August,14608
+2544,2011,Mato Grosso,August,2628
+2545,2012,Mato Grosso,August,6195
+2546,2013,Mato Grosso,August,3568
+2547,2014,Mato Grosso,August,7167
+2548,2015,Mato Grosso,August,5112
+2549,2016,Mato Grosso,August,6228
+2550,2017,Mato Grosso,August,6229
+2551,1998,Mato Grosso,September,10363
+2552,1999,Mato Grosso,September,11729
+2553,2000,Mato Grosso,September,6251
+2554,2001,Mato Grosso,September,8490
+2555,2002,Mato Grosso,September,11034
+2556,2003,Mato Grosso,September,15790
+2557,2004,Mato Grosso,September,24994
+2558,2005,Mato Grosso,September,20551
+2559,2006,Mato Grosso,September,12661
+2560,2007,Mato Grosso,September,25963
+2561,2008,Mato Grosso,September,7965
+2562,2009,Mato Grosso,September,3129
+2563,2010,Mato Grosso,September,18366
+2564,2011,Mato Grosso,September,6332
+2565,2012,Mato Grosso,September,10344
+2566,2013,Mato Grosso,September,5576
+2567,2014,Mato Grosso,September,7081
+2568,2015,Mato Grosso,September,11068
+2569,2016,Mato Grosso,September,8980
+2570,2017,Mato Grosso,September,23945
+2571,1998,Mato Grosso,October,2707
+2572,1999,Mato Grosso,October,6109
+2573,2000,Mato Grosso,October,6062
+2574,2001,Mato Grosso,October,6543
+2575,2002,Mato Grosso,October,9375
+2576,2003,Mato Grosso,October,5341
+2577,2004,Mato Grosso,October,9295
+2578,2005,Mato Grosso,October,7765
+2579,2006,Mato Grosso,October,2327
+2580,2007,Mato Grosso,October,4890
+2581,2008,Mato Grosso,October,6326
+2582,2009,Mato Grosso,October,2579
+2583,2010,Mato Grosso,October,4465
+2584,2011,Mato Grosso,October,2010
+2585,2012,Mato Grosso,October,2837
+2586,2013,Mato Grosso,October,1986
+2587,2014,Mato Grosso,October,5281
+2588,2015,Mato Grosso,October,649
+2589,2016,Mato Grosso,October,2749
+2590,2017,Mato Grosso,October,4800
+2591,1998,Mato Grosso,November,182
+2592,1999,Mato Grosso,November,842
+2593,2000,Mato Grosso,November,502
+2594,2001,Mato Grosso,November,373
+2595,2002,Mato Grosso,November,2905
+2596,2003,Mato Grosso,November,2097
+2597,2004,Mato Grosso,November,2405
+2598,2005,Mato Grosso,November,1368
+2599,2006,Mato Grosso,November,1031
+2600,2007,Mato Grosso,November,299
+2601,2008,Mato Grosso,November,190
+2602,2009,Mato Grosso,November,588
+2603,2010,Mato Grosso,November,768
+2604,2011,Mato Grosso,November,1103
+2605,2012,Mato Grosso,November,375
+2606,2013,Mato Grosso,November,1064
+2607,2014,Mato Grosso,November,1018
+2608,2015,Mato Grosso,November,1930
+2609,2016,Mato Grosso,November,918
+2610,2017,Mato Grosso,November,813
+2611,1998,Mato Grosso,December,76
+2612,1999,Mato Grosso,December,47
+2613,2000,Mato Grosso,December,98
+2614,2001,Mato Grosso,December,37
+2615,2002,Mato Grosso,December,1157
+2616,2003,Mato Grosso,December,1622
+2617,2004,Mato Grosso,December,1217
+2618,2005,Mato Grosso,December,246
+2619,2006,Mato Grosso,December,23
+2620,2007,Mato Grosso,December,81
+2621,2008,Mato Grosso,December,159
+2622,2009,Mato Grosso,December,171
+2623,2010,Mato Grosso,December,846
+2624,2011,Mato Grosso,December,431
+2625,2012,Mato Grosso,December,492
+2626,2013,Mato Grosso,December,447
+2627,2014,Mato Grosso,December,466
+2628,2015,Mato Grosso,December,1777
+2629,2016,Mato Grosso,December,425
+2630,1998,Mato Grosso,January,0
+2631,1999,Mato Grosso,January,239
+2632,2000,Mato Grosso,January,326
+2633,2001,Mato Grosso,January,97
+2634,2002,Mato Grosso,January,304
+2635,2003,Mato Grosso,January,182
+2636,2004,Mato Grosso,January,258
+2637,2005,Mato Grosso,January,59
+2638,2006,Mato Grosso,January,123456789
+2639,2007,Mato Grosso,January,19
+2640,2008,Mato Grosso,January,63
+2641,2009,Mato Grosso,January,229
+2642,2010,Mato Grosso,January,72
+2643,2011,Mato Grosso,January,129
+2644,2012,Mato Grosso,January,201
+2645,2013,Mato Grosso,January,174
+2646,2014,Mato Grosso,January,197
+2647,2015,Mato Grosso,January,226
+2648,2016,Mato Grosso,January,127
+2649,2017,Mato Grosso,January,355
+2650,1998,Mato Grosso,February,0
+2651,1999,Mato Grosso,February,69
+2652,2000,Mato Grosso,February,81
+2653,2001,Mato Grosso,February,89
+2654,2002,Mato Grosso,February,98
+2655,2003,Mato Grosso,February,108
+2656,2004,Mato Grosso,February,169
+2657,2005,Mato Grosso,February,221
+2658,2006,Mato Grosso,February,104
+2659,2007,Mato Grosso,February,111
+2660,2008,Mato Grosso,February,78
+2661,2009,Mato Grosso,February,164
+2662,2010,Mato Grosso,February,157
+2663,2011,Mato Grosso,February,61
+2664,2012,Mato Grosso,February,112
+2665,2013,Mato Grosso,February,100
+2666,2014,Mato Grosso,February,139
+2667,2015,Mato Grosso,February,148
+2668,2016,Mato Grosso,February,187
+2669,2017,Mato Grosso,February,165
+2670,1998,Mato Grosso,March,0
+2671,1999,Mato Grosso,March,100
+2672,2000,Mato Grosso,March,23
+2673,2001,Mato Grosso,March,39
+2674,2002,Mato Grosso,March,115
+2675,2003,Mato Grosso,March,137
+2676,2004,Mato Grosso,March,225
+2677,2005,Mato Grosso,March,158
+2678,2006,Mato Grosso,March,137
+2679,2007,Mato Grosso,March,137
+2680,2008,Mato Grosso,March,97
+2681,2009,Mato Grosso,March,118
+2682,2010,Mato Grosso,March,149
+2683,2011,Mato Grosso,March,37
+2684,2012,Mato Grosso,March,169
+2685,2013,Mato Grosso,March,158
+2686,2014,Mato Grosso,March,95
+2687,2015,Mato Grosso,March,190
+2688,2016,Mato Grosso,March,143
+2689,2017,Mato Grosso,March,170
+2690,1998,Mato Grosso,April,0
+2691,1999,Mato Grosso,April,97
+2692,2000,Mato Grosso,April,90
+2693,2001,Mato Grosso,April,108
+2694,2002,Mato Grosso,April,230
+2695,2003,Mato Grosso,April,126
+2696,2004,Mato Grosso,April,97
+2697,2005,Mato Grosso,April,126
+2698,2006,Mato Grosso,April,51
+2699,2007,Mato Grosso,April,46
+2700,2008,Mato Grosso,April,72
+2701,2009,Mato Grosso,April,291
+2702,2010,Mato Grosso,April,136
+2703,2011,Mato Grosso,April,23
+2704,2012,Mato Grosso,April,97
+2705,2013,Mato Grosso,April,78
+2706,2014,Mato Grosso,April,129
+2707,2015,Mato Grosso,April,65
+2708,2016,Mato Grosso,April,161
+2709,2017,Mato Grosso,April,59
+2710,1998,Mato Grosso,May,0
+2711,1999,Mato Grosso,May,206
+2712,2000,Mato Grosso,May,127
+2713,2001,Mato Grosso,May,112
+2714,2002,Mato Grosso,May,88
+2715,2003,Mato Grosso,May,74
+2716,2004,Mato Grosso,May,25
+2717,2005,Mato Grosso,May,328
+2718,2006,Mato Grosso,May,99
+2719,2007,Mato Grosso,May,62
+2720,2008,Mato Grosso,May,34
+2721,2009,Mato Grosso,May,927
+2722,2010,Mato Grosso,May,105
+2723,2011,Mato Grosso,May,81
+2724,2012,Mato Grosso,May,157
+2725,2013,Mato Grosso,May,72
+2726,2014,Mato Grosso,May,70
+2727,2015,Mato Grosso,May,58
+2728,2016,Mato Grosso,May,97
+2729,2017,Mato Grosso,May,72
+2730,1998,Mato Grosso,June,82
+2731,1999,Mato Grosso,June,127
+2732,2000,Mato Grosso,June,157
+2733,2001,Mato Grosso,June,249
+2734,2002,Mato Grosso,June,517
+2735,2003,Mato Grosso,June,170
+2736,2004,Mato Grosso,June,394
+2737,2005,Mato Grosso,June,439
+2738,2006,Mato Grosso,June,89
+2739,2007,Mato Grosso,June,141
+2740,2008,Mato Grosso,June,24
+2741,2009,Mato Grosso,June,376
+2742,2010,Mato Grosso,June,149
+2743,2011,Mato Grosso,June,104
+2744,2012,Mato Grosso,June,96
+2745,2013,Mato Grosso,June,35
+2746,2014,Mato Grosso,June,84
+2747,2015,Mato Grosso,June,299
+2748,2016,Mato Grosso,June,120
+2749,2017,Mato Grosso,June,175
+2750,1998,Mato Grosso,July,360
+2751,1999,Mato Grosso,July,1297
+2752,2000,Mato Grosso,July,160
+2753,2001,Mato Grosso,July,591
+2754,2002,Mato Grosso,July,935
+2755,2003,Mato Grosso,July,182
+2756,2004,Mato Grosso,July,529
+2757,2005,Mato Grosso,July,859
+2758,2006,Mato Grosso,July,289
+2759,2007,Mato Grosso,July,197
+2760,2008,Mato Grosso,July,116
+2761,2009,Mato Grosso,July,354
+2762,2010,Mato Grosso,July,589
+2763,2011,Mato Grosso,July,250
+2764,2012,Mato Grosso,July,538
+2765,2013,Mato Grosso,July,201
+2766,2014,Mato Grosso,July,193
+2767,2015,Mato Grosso,July,371
+2768,2016,Mato Grosso,July,687
+2769,2017,Mato Grosso,July,1050
+2770,1998,Mato Grosso,August,228
+2771,1999,Mato Grosso,August,4355
+2772,2000,Mato Grosso,August,530
+2773,2001,Mato Grosso,August,2484
+2774,2002,Mato Grosso,August,3984
+2775,2003,Mato Grosso,August,953
+2776,2004,Mato Grosso,August,1408
+2777,2005,Mato Grosso,August,4484
+2778,2006,Mato Grosso,August,1129
+2779,2007,Mato Grosso,August,1823
+2780,2008,Mato Grosso,August,456
+2781,2009,Mato Grosso,August,816
+2782,2010,Mato Grosso,August,1721
+2783,2011,Mato Grosso,August,552
+2784,2012,Mato Grosso,August,2951
+2785,2013,Mato Grosso,August,677
+2786,2014,Mato Grosso,August,312
+2787,2015,Mato Grosso,August,1293
+2788,2016,Mato Grosso,August,1481
+2789,2017,Mato Grosso,August,1488
+2790,1998,Mato Grosso,September,457
+2791,1999,Mato Grosso,September,2969
+2792,2000,Mato Grosso,September,510
+2793,2001,Mato Grosso,September,1383
+2794,2002,Mato Grosso,September,2252
+2795,2003,Mato Grosso,September,1124
+2796,2004,Mato Grosso,September,2511
+2797,2005,Mato Grosso,September,1870
+2798,2006,Mato Grosso,September,1078
+2799,2007,Mato Grosso,September,4446
+2800,2008,Mato Grosso,September,1620
+2801,2009,Mato Grosso,September,1146
+2802,2010,Mato Grosso,September,1505
+2803,2011,Mato Grosso,September,1072
+2804,2012,Mato Grosso,September,2264
+2805,2013,Mato Grosso,September,1074
+2806,2014,Mato Grosso,September,365
+2807,2015,Mato Grosso,September,1482
+2808,2016,Mato Grosso,September,2383
+2809,2017,Mato Grosso,September,2984
+2810,1998,Mato Grosso,October,576
+2811,1999,Mato Grosso,October,2053
+2812,2000,Mato Grosso,October,657
+2813,2001,Mato Grosso,October,563
+2814,2002,Mato Grosso,October,2173
+2815,2003,Mato Grosso,October,541
+2816,2004,Mato Grosso,October,960
+2817,2005,Mato Grosso,October,647
+2818,2006,Mato Grosso,October,244
+2819,2007,Mato Grosso,October,668
+2820,2008,Mato Grosso,October,432
+2821,2009,Mato Grosso,October,854
+2822,2010,Mato Grosso,October,597
+2823,2011,Mato Grosso,October,276
+2824,2012,Mato Grosso,October,652
+2825,2013,Mato Grosso,October,378
+2826,2014,Mato Grosso,October,581
+2827,2015,Mato Grosso,October,507
+2828,2016,Mato Grosso,October,1200
+2829,2017,Mato Grosso,October,685
+2830,1998,Mato Grosso,November,306
+2831,1999,Mato Grosso,November,1194
+2832,2000,Mato Grosso,November,274
+2833,2001,Mato Grosso,November,220
+2834,2002,Mato Grosso,November,-999999
+2835,2003,Mato Grosso,November,380
+2836,2004,Mato Grosso,November,208
+2837,2005,Mato Grosso,November,159
+2838,2006,Mato Grosso,November,83
+2839,2007,Mato Grosso,November,82
+2840,2008,Mato Grosso,November,50
+2841,2009,Mato Grosso,November,439
+2842,2010,Mato Grosso,November,259
+2843,2011,Mato Grosso,November,445
+2844,2012,Mato Grosso,November,115
+2845,2013,Mato Grosso,November,423
+2846,2014,Mato Grosso,November,190
+2847,2015,Mato Grosso,November,276
+2848,2016,Mato Grosso,November,258
+2849,2017,Mato Grosso,November,133
+2850,1998,Mato Grosso,December,100
+2851,1999,Mato Grosso,December,306
+2852,2000,Mato Grosso,December,139
+2853,2001,Mato Grosso,December,143
+2854,2002,Mato Grosso,December,376
+2855,2003,Mato Grosso,December,153
+2856,2004,Mato Grosso,December,110
+2857,2005,Mato Grosso,December,46
+2858,2006,Mato Grosso,December,18
+2859,2007,Mato Grosso,December,15
+2860,2008,Mato Grosso,December,208
+2861,2009,Mato Grosso,December,87
+2862,2010,Mato Grosso,December,276
+2863,2011,Mato Grosso,December,577
+2864,2012,Mato Grosso,December,194
+2865,2013,Mato Grosso,December,195
+2866,2014,Mato Grosso,December,84
+2867,2015,Mato Grosso,December,394
+2868,2016,Mato Grosso,December,123
+2869,1998,Minas Gerais,January,0
+2870,1999,Minas Gerais,January,36
+2871,2000,Minas Gerais,January,24
+2872,2001,Minas Gerais,January,18
+2873,2002,Minas Gerais,January,29
+2874,2003,Minas Gerais,January,37
+2875,2004,Minas Gerais,January,22
+2876,2005,Minas Gerais,January,28
+2877,2006,Minas Gerais,January,109
+2878,2007,Minas Gerais,January,91
+2879,2008,Minas Gerais,January,85
+2880,2009,Minas Gerais,January,74
+2881,2010,Minas Gerais,January,118
+2882,2011,Minas Gerais,January,61
+2883,2012,Minas Gerais,January,75
+2884,2013,Minas Gerais,January,75
+2885,2014,Minas Gerais,January,133
+2886,2015,Minas Gerais,January,147
+2887,2016,Minas Gerais,January,61
+2888,2017,Minas Gerais,January,106
+2889,1998,Minas Gerais,February,0
+2890,1999,Minas Gerais,February,112
+2891,2000,Minas Gerais,February,20
+2892,2001,Minas Gerais,February,39
+2893,2002,Minas Gerais,February,62
+2894,2003,Minas Gerais,February,126
+2895,2004,Minas Gerais,February,29
+2896,2005,Minas Gerais,February,79
+2897,2006,Minas Gerais,February,96
+2898,2007,Minas Gerais,February,71
+2899,2008,Minas Gerais,February,59
+2900,2009,Minas Gerais,February,74
+2901,2010,Minas Gerais,February,155
+2902,2011,Minas Gerais,February,111
+2903,2012,Minas Gerais,February,123
+2904,2013,Minas Gerais,February,143
+2905,2014,Minas Gerais,February,157
+2906,2015,Minas Gerais,February,84
+2907,2016,Minas Gerais,February,207
+2908,2017,Minas Gerais,February,61
+2909,1998,Minas Gerais,March,0
+2910,1999,Minas Gerais,March,13
+2911,2000,Minas Gerais,March,24
+2912,2001,Minas Gerais,March,13
+2913,2002,Minas Gerais,March,62
+2914,2003,Minas Gerais,March,81
+2915,2004,Minas Gerais,March,81
+2916,2005,Minas Gerais,March,107
+2917,2006,Minas Gerais,March,69
+2918,2007,Minas Gerais,March,155
+2919,2008,Minas Gerais,March,61
+2920,2009,Minas Gerais,March,106
+2921,2010,Minas Gerais,March,109
+2922,2011,Minas Gerais,March,67
+2923,2012,Minas Gerais,March,152
+2924,2013,Minas Gerais,March,110
+2925,2014,Minas Gerais,March,77
+2926,2015,Minas Gerais,March,80
+2927,2016,Minas Gerais,March,123
+2928,2017,Minas Gerais,March,105
+2929,1998,Minas Gerais,April,0
+2930,1999,Minas Gerais,April,27
+2931,2000,Minas Gerais,April,49
+2932,2001,Minas Gerais,April,60
+2933,2002,Minas Gerais,April,99
+2934,2003,Minas Gerais,April,215
+2935,2004,Minas Gerais,April,48
+2936,2005,Minas Gerais,April,89
+2937,2006,Minas Gerais,April,50
+2938,2007,Minas Gerais,April,35
+2939,2008,Minas Gerais,April,113
+2940,2009,Minas Gerais,April,26
+2941,2010,Minas Gerais,April,112
+2942,2011,Minas Gerais,April,66
+2943,2012,Minas Gerais,April,180
+2944,2013,Minas Gerais,April,61
+2945,2014,Minas Gerais,April,161
+2946,2015,Minas Gerais,April,109
+2947,2016,Minas Gerais,April,172
+2948,2017,Minas Gerais,April,69
+2949,1998,Minas Gerais,May,0
+2950,1999,Minas Gerais,May,51
+2951,2000,Minas Gerais,May,67
+2952,2001,Minas Gerais,May,83
+2953,2002,Minas Gerais,May,98
+2954,2003,Minas Gerais,May,75
+2955,2004,Minas Gerais,May,79
+2956,2005,Minas Gerais,May,134
+2957,2006,Minas Gerais,May,62
+2958,2007,Minas Gerais,May,124
+2959,2008,Minas Gerais,May,50
+2960,2009,Minas Gerais,May,128
+2961,2010,Minas Gerais,May,179
+2962,2011,Minas Gerais,May,151
+2963,2012,Minas Gerais,May,144
+2964,2013,Minas Gerais,May,150
+2965,2014,Minas Gerais,May,224
+2966,2015,Minas Gerais,May,114
+2967,2016,Minas Gerais,May,186
+2968,2017,Minas Gerais,May,125
+2969,1998,Minas Gerais,June,70
+2970,1999,Minas Gerais,June,132
+2971,2000,Minas Gerais,June,135
+2972,2001,Minas Gerais,June,166
+2973,2002,Minas Gerais,June,207
+2974,2003,Minas Gerais,June,245
+2975,2004,Minas Gerais,June,209
+2977,2006,Minas Gerais,June,73
+2978,2007,Minas Gerais,June,184
+2979,2008,Minas Gerais,June,48
+2980,2009,Minas Gerais,June,173
+2981,2010,Minas Gerais,June,139
+2982,2011,Minas Gerais,June,304
+2983,2012,Minas Gerais,June,219
+2984,2013,Minas Gerais,June,144
+2985,2014,Minas Gerais,June,376
+2986,2015,Minas Gerais,June,200
+2987,2016,Minas Gerais,June,263
+2988,2017,Minas Gerais,June,360
+2989,1998,Minas Gerais,July,232
+2990,1999,Minas Gerais,July,318
+2991,2000,Minas Gerais,July,345
+2992,2001,Minas Gerais,July,266
+2993,2002,Minas Gerais,July,741
+2994,2003,Minas Gerais,July,407
+2995,2004,Minas Gerais,July,625
+2996,2005,Minas Gerais,July,467
+2997,2006,Minas Gerais,July,336
+2998,2007,Minas Gerais,July,446
+2999,2008,Minas Gerais,July,194
+3000,2009,Minas Gerais,July,477
+3001,2010,Minas Gerais,July,707
+3002,2011,Minas Gerais,July,801
+3003,2012,Minas Gerais,July,669
+3004,2013,Minas Gerais,July,462
+3005,2014,Minas Gerais,July,559
+3006,2015,Minas Gerais,July,288
+3007,2016,Minas Gerais,July,1004
+3008,2017,Minas Gerais,July,610
+3009,1998,Minas Gerais,August,875
+3010,1999,Minas Gerais,August,1190
+3011,2000,Minas Gerais,August,769
+3012,2001,Minas Gerais,August,858
+3013,2002,Minas Gerais,August,2041
+3014,2003,Minas Gerais,August,1955
+3015,2004,Minas Gerais,August,1642
+3016,2005,Minas Gerais,August,1029
+3017,2006,Minas Gerais,August,959
+3018,2007,Minas Gerais,August,2975
+3019,2008,Minas Gerais,August,605
+3020,2009,Minas Gerais,August,685
+3021,2010,Minas Gerais,August,3353
+3022,2011,Minas Gerais,August,2742
+3023,2012,Minas Gerais,August,901
+3024,2013,Minas Gerais,August,911
+3025,2014,Minas Gerais,August,1952
+3026,2015,Minas Gerais,August,1059
+3027,2016,Minas Gerais,August,1433
+3028,2017,Minas Gerais,August,2142
+3029,1998,Minas Gerais,September,1981
+3030,1999,Minas Gerais,September,2686
+3031,2000,Minas Gerais,September,1080
+3032,2001,Minas Gerais,September,1597
+3033,2002,Minas Gerais,September,3100
+3034,2003,Minas Gerais,September,7091
+3035,2004,Minas Gerais,September,4339
+3036,2005,Minas Gerais,September,2047
+3037,2006,Minas Gerais,September,2780
+3038,2007,Minas Gerais,September,5088
+3039,2008,Minas Gerais,September,2552
+3040,2009,Minas Gerais,September,1310
+3041,2010,Minas Gerais,September,5059
+3042,2011,Minas Gerais,September,5978
+3043,2012,Minas Gerais,September,3219
+3044,2013,Minas Gerais,September,1656
+3045,2014,Minas Gerais,September,3454
+3046,2015,Minas Gerais,September,3088
+3047,2016,Minas Gerais,September,2093
+3048,2017,Minas Gerais,September,4697
+3049,1998,Minas Gerais,October,1093
+3050,1999,Minas Gerais,October,1363
+3051,2000,Minas Gerais,October,1954
+3052,2001,Minas Gerais,October,528
+3053,2002,Minas Gerais,October,4788
+3054,2003,Minas Gerais,October,5391
+3055,2004,Minas Gerais,October,2736
+3056,2005,Minas Gerais,October,6546
+3057,2006,Minas Gerais,October,616
+3058,2007,Minas Gerais,October,3467
+3059,2008,Minas Gerais,October,3787
+3060,2009,Minas Gerais,October,1013
+3061,2010,Minas Gerais,October,2048
+3062,2011,Minas Gerais,October,1206
+3063,2012,Minas Gerais,October,3970
+3064,2013,Minas Gerais,October,1221
+3065,2014,Minas Gerais,October,4735
+3066,2015,Minas Gerais,October,3708
+3067,2016,Minas Gerais,October,948
+3068,2017,Minas Gerais,October,3062
+3069,1998,Minas Gerais,November,32
+3070,1999,Minas Gerais,November,271
+3071,2000,Minas Gerais,November,43
+3072,2001,Minas Gerais,November,62
+3073,2002,Minas Gerais,November,417
+3074,2003,Minas Gerais,November,399
+3075,2004,Minas Gerais,November,914
+3076,2005,Minas Gerais,November,422
+3077,2006,Minas Gerais,November,59
+3078,2007,Minas Gerais,November,1305
+3079,2008,Minas Gerais,November,892
+3080,2009,Minas Gerais,November,246
+3081,2010,Minas Gerais,November,82
+3082,2011,Minas Gerais,November,153
+3083,2012,Minas Gerais,November,220
+3084,2013,Minas Gerais,November,277
+3085,2014,Minas Gerais,November,398
+3086,2015,Minas Gerais,November,1453
+3087,2016,Minas Gerais,November,126
+3088,2017,Minas Gerais,November,136
+3089,1998,Minas Gerais,December,21
+3090,1999,Minas Gerais,December,32
+3091,2000,Minas Gerais,December,14
+3092,2001,Minas Gerais,December,44
+3093,2002,Minas Gerais,December,225
+3094,2003,Minas Gerais,December,225
+3095,2004,Minas Gerais,December,125
+3096,2005,Minas Gerais,December,65
+3097,2006,Minas Gerais,December,32
+3098,2007,Minas Gerais,December,95
+3099,2008,Minas Gerais,December,25
+3100,2009,Minas Gerais,December,108
+3101,2010,Minas Gerais,December,105
+3102,2011,Minas Gerais,December,43
+3103,2012,Minas Gerais,December,189
+3104,2013,Minas Gerais,December,98
+3105,2014,Minas Gerais,December,155
+3106,2015,Minas Gerais,December,295
+3107,1000bc,Minas Gerais,December,91
+3108,1998,Para,January,0
+3109,1999,Para,January,87
+3110,2000,Para,January,30
+3111,2001,Para,January,34
+3112,2002,Para,January,144
+3113,2003,Para,January,900
+3114,2004,Para,January,579
+3115,2005,Para,January,1768
+3116,2006,Para,January,403
+3117,2007,Para,January,467
+3118,2008,Para,January,131
+3119,2009,Para,January,241
+3120,2010,Para,January,437
+3121,2011,Para,January,108
+3122,2012,Para,January,392
+3123,2013,Para,January,167
+3124,2014,Para,January,251
+3125,2015,Para,January,725
+3126,2016,Para,January,1322
+3127,2017,Para,January,219
+3128,1998,Para,February,0
+3129,1999,Para,February,285
+3130,2000,Para,February,29
+3131,2001,Para,February,16
+3132,2002,Para,February,120
+3133,2003,Para,February,34
+3134,2004,Para,February,20
+3135,2005,Para,February,85
+3136,2006,Para,February,49
+3137,2007,Para,February,23
+3138,2008,Para,February,54
+3139,2009,Para,February,15
+3140,2010,Para,February,102
+3141,2011,Para,February,13
+3142,2012,Para,February,63
+3143,2013,Para,February,30
+3144,2014,Para,February,37
+3145,2015,Para,February,108
+3146,2016,Para,February,430
+3147,2017,Para,February,14
+3148,1998,Para,March,0
+3149,1999,Para,March,7
+3150,2000,Para,March,181
+3151,2001,Para,March,0
+3152,2002,Para,March,14
+3153,2003,Para,March,27
+3154,2004,Para,March,22
+3155,2005,Para,March,21
+3156,2006,Para,March,10
+3157,2007,Para,March,6
+3158,2008,Para,March,4
+3159,2009,Para,March,4
+3160,2010,Para,March,110
+3161,2011,Para,March,21
+3162,2012,Para,March,30
+3163,2013,Para,March,19
+3164,2014,Para,March,34
+3165,2015,Para,March,61
+3166,2016,Para,March,81
+3167,2017,Para,March,42
+3168,1998,Para,April,0
+3169,1999,Para,April,6
+3170,2000,Para,April,40
+3171,2001,Para,April,0
+3172,2002,Para,April,11
+3173,2003,Para,April,14
+3174,2004,Para,April,23
+3175,2005,Para,April,14
+3176,2006,Para,April,2
+3177,2007,Para,April,0
+3178,2008,Para,April,7
+3179,2009,Para,April,8
+3180,2010,Para,April,22
+3181,2011,Para,April,10
+3182,2012,Para,April,11
+3183,2013,Para,April,20
+3184,2014,Para,April,27
+3185,2015,Para,April,27
+3186,2016,Para,April,66
+3187,2017,Para,April,45
+3188,1998,Para,May,0
+3189,1999,Para,May,4
+3190,2000,Para,May,12
+3191,2001,Para,May,7
+3192,2002,Para,May,18
+3193,2003,Para,May,3
+3194,2004,Para,May,44
+3195,2005,Para,May,37
+3196,2006,Para,May,0
+3197,2007,Para,May,9
+3198,2008,Para,May,0
+3199,2009,Para,May,7
+3200,2010,Para,May,57
+3201,2011,Para,May,16
+3202,2012,Para,May,59
+3203,2013,Para,May,42
+3204,2014,Para,May,70
+3205,2015,Para,May,95
+3206,2016,Para,May,154
+3207,2017,Para,May,114
+3210,2000,Para,June,59
+3211,2001,Para,June,42
+3212,2002,Para,June,149
+3213,2003,Para,June,64
+3215,2005,Para,June,304
+3216,2006,Para,June,78
+3217,2007,Para,June,129
+3218,2008,Para,June,48
+3219,2009,Para,June,38
+3220,2010,Para,June,94
+3221,2011,Para,June,105
+3222,2012,Para,June,183
+3223,2013,Para,June,173
+3224,2014,Para,June,319
+3225,2015,Para,June,265
+3226,2016,Para,June,502
+3227,2017,Para,June,679
+3228,1998,Para,July,638
+3229,1999,Para,July,982
+3230,2000,Para,July,426
+3231,2001,Para,July,708
+3232,2002,Para,July,772
+3233,2003,Para,July,1571
+3234,2004,Para,July,4436
+3235,2005,Para,July,4364
+3236,2006,Para,July,615
+3237,2007,Para,July,476
+3238,2008,Para,July,971
+3239,2009,Para,July,397
+3240,2010,Para,July,1432
+3241,2011,Para,July,632
+3242,2012,Para,July,661
+3243,2013,Para,July,447
+3244,2014,Para,July,825
+3245,2015,Para,July,906
+3246,2016,Para,July,1579
+3247,2017,Para,July,4985
+3248,1998,Para,August,6815
+3249,1999,Para,August,6178
+3250,2000,Para,August,5484
+3251,2001,Para,August,9043
+3252,2002,Para,August,15664
+3253,2003,Para,August,6255
+3254,2004,Para,August,12812
+3255,2005,Para,August,13055
+3256,2006,Para,August,7575
+3257,2007,Para,August,14352
+3258,2008,Para,August,4435
+3259,2009,Para,August,3859
+3260,2010,Para,August,18130
+3261,2011,Para,August,2195
+3262,2012,Para,August,6964
+3263,2013,Para,August,2161
+3264,2014,Para,August,8555
+3265,2015,Para,August,7913
+3266,2016,Para,August,4863
+3267,2017,Para,August,11962
+3268,1998,Para,September,6237
+3269,1999,Para,September,4419
+3270,2000,Para,September,2569
+3271,2001,Para,September,6139
+3272,2002,Para,September,5609
+3273,2003,Para,September,8447
+3274,2004,Para,September,9471
+3275,2005,Para,September,9032
+3276,2006,Para,September,8372
+3277,2007,Para,September,1459
+3278,2008,Para,September,6294
+3279,2009,Para,September,6051
+3280,2010,Para,September,10810
+3281,2011,Para,September,5185
+3282,2012,Para,September,687
+3283,2013,Para,September,336
+3284,2014,Para,September,6787
+3285,2015,Para,September,11068
+3286,2016,Para,September,3953
+3287,2017,Para,September,25004
+3288,1998,Para,October,3665
+3289,1999,Para,October,5026
+3290,2000,Para,October,4313
+3291,2001,Para,October,5096
+3292,2002,Para,October,5189
+3293,2003,Para,October,3803
+3294,2004,Para,October,4726
+3295,2005,Para,October,5083
+3296,2006,Para,October,5964
+3297,2007,Para,October,2504
+3298,2008,Para,October,6653
+3299,2009,Para,October,6342
+3300,2010,Para,October,3843
+3301,2011,Para,October,3141
+3302,2012,Para,October,3714
+3303,2013,Para,October,4921
+3304,2014,Para,October,6448
+3305,2015,Para,October,7781
+3306,2016,Para,October,5281
+3307,2017,Para,October,7628
+3308,1998,Para,November,1861
+3309,1999,Para,November,2682
+3310,2000,Para,November,3366
+3311,2001,Para,November,4938
+3312,2002,Para,November,7996
+3313,2003,Para,November,6195
+3314,2004,Para,November,9842
+3315,2005,Para,November,4968
+3316,2006,Para,November,2883
+3317,2007,Para,November,2890
+3318,2008,Para,November,2403
+3319,2009,Para,November,10012
+3320,2010,Para,November,4417
+3321,2011,Para,November,3043
+3322,2012,Para,November,6156
+3323,2013,Para,November,3688
+3324,2014,Para,November,7767
+3325,2015,Para,November,9643
+3326,2016,Para,November,7879
+3327,2017,Para,November,9079
+3328,1998,Para,December,1008
+3329,1999,Para,December,766
+3330,2000,Para,December,1698
+3331,2001,Para,December,2564
+3332,2002,Para,December,3118
+3333,2003,Para,December,4787
+3334,2004,Para,December,5508
+3335,2005,Para,December,1495
+3336,2006,Para,December,1417
+3337,2007,Para,December,689
+3338,2008,Para,December,684
+3339,2009,Para,December,2832
+3340,2010,Para,December,1612
+3341,2011,Para,December,3218
+3342,2012,Para,December,1812
+3343,-40,Para,December,5514
+3344,2014,Para,December,4828
+3345,2015,Para,December,6610
+3346,2016,Para,December,3300
+3348,1999,Paraiba,January,26
+3349,2000,Paraiba,January,0
+3350,2001,Paraiba,January,11
+3351,2002,Paraiba,January,5
+3352,2003,Paraiba,January,70
+3353,2004,Paraiba,January,33
+3354,2005,Paraiba,January,178
+3355,2006,Paraiba,January,83
+3356,2007,Paraiba,January,69
+3357,2008,Paraiba,January,77
+3358,2009,Paraiba,January,115
+3359,2010,Paraiba,January,46
+3360,2011,Paraiba,January,11
+3361,2012,Paraiba,January,61
+3362,2013,Paraiba,January,38
+3363,2014,Paraiba,January,75
+3364,2015,Paraiba,January,42
+3365,2016,Paraiba,January,18
+3366,2017,Paraiba,January,23
+3367,1998,Paraiba,February,0
+3368,1999,Paraiba,February,2
+3369,2000,Paraiba,February,11
+3370,2001,Paraiba,February,6
+3371,2002,Paraiba,February,18
+3372,2003,Paraiba,February,3
+3373,2004,Paraiba,February,3
+3374,2005,Paraiba,February,15
+3375,2006,Paraiba,February,7
+3376,2007,Paraiba,February,7
+3377,2008,Paraiba,February,20
+3378,2009,Paraiba,February,9
+3379,2010,Paraiba,February,15
+3380,2011,Paraiba,February,5
+3381,2012,Paraiba,February,15
+3382,2013,Paraiba,February,9
+3383,2014,Paraiba,February,6
+3384,2015,Paraiba,February,15
+3385,2016,Paraiba,February,4
+3386,2017,Paraiba,February,8
+3387,1998,Paraiba,March,0
+3388,1999,Paraiba,March,1
+3389,2000,Paraiba,March,5
+3390,2001,Paraiba,March,0
+3391,2002,Paraiba,March,3
+3392,2003,Paraiba,March,0
+3393,2004,Paraiba,March,3
+3394,2005,Paraiba,March,13
+3395,2006,Paraiba,March,4
+3396,2007,Paraiba,March,1
+3397,2008,Paraiba,March,8
+3398,2009,Paraiba,March,2
+3399,2010,Paraiba,March,16
+3400,2011,Paraiba,March,6
+3401,2012,Paraiba,March,4
+3402,2013,Paraiba,March,3
+3403,2014,Paraiba,March,18
+3404,2015,Paraiba,March,7
+3405,2016,Paraiba,March,1
+3406,2017,Paraiba,March,2
+3407,1998,Paraiba,April,0
+3408,1999,Paraiba,April,3
+3409,2000,Paraiba,April,1
+3410,2001,Paraiba,April,0
+3411,2002,Paraiba,April,1
+3412,2003,Paraiba,April,0
+3413,2004,Paraiba,April,3
+3414,2005,Paraiba,April,2
+3415,2006,Paraiba,April,0
+3416,2007,Paraiba,April,0
+3417,2008,Paraiba,April,0
+3418,2009,Paraiba,April,1
+3419,2010,Paraiba,April,2
+3420,2011,Paraiba,April,2
+3421,2012,Paraiba,April,13
+3422,2013,Paraiba,April,6
+3423,2014,Paraiba,April,8
+3424,2015,Paraiba,April,11
+3425,2016,Paraiba,April,1
+3426,2017,Paraiba,April,1
+3427,1998,Paraiba,May,0
+3428,1999,Paraiba,May,0
+3429,2000,Paraiba,May,0
+3430,2001,Paraiba,May,4
+3431,2002,Paraiba,May,1
+3432,2003,Paraiba,May,0
+3433,2004,Paraiba,May,1
+3434,2005,Paraiba,May,0
+3435,2006,Paraiba,May,0
+3436,2007,Paraiba,May,0
+3437,2008,Paraiba,May,0
+3438,2009,Paraiba,May,0
+3439,2010,Paraiba,May,10
+3440,2011,Paraiba,May,0
+3441,2012,Paraiba,May,10
+3442,2013,Paraiba,May,3
+3443,2014,Paraiba,May,1
+3444,2015,Paraiba,May,6
+3445,2016,Paraiba,May,1
+3446,2017,Paraiba,May,1
+3447,1998,Paraiba,June,3
+3448,1999,Paraiba,June,1
+3449,2000,Paraiba,June,2
+3450,2001,Paraiba,June,0
+3451,2002,Paraiba,June,1
+3452,2003,Paraiba,June,0
+3453,2004,Paraiba,June,0
+3454,2005,Paraiba,June,0
+3455,2006,Paraiba,June,0
+3456,2007,Paraiba,June,0
+3457,2008,Paraiba,June,0
+3458,2009,Paraiba,June,0
+3459,2010,Paraiba,June,3
+3460,2011,Paraiba,June,2
+3461,2012,Paraiba,June,5
+3462,2013,Paraiba,June,3
+3463,2014,Paraiba,June,1
+3464,2015,Paraiba,June,0
+3465,2016,Paraiba,June,4
+3466,2017,Paraiba,June,0
+3467,1998,Paraiba,July,0
+3468,1999,Paraiba,July,1
+3469,2000,Paraiba,July,0
+3470,2001,Paraiba,July,8
+3471,2002,Paraiba,July,8
+3472,2003,Paraiba,July,6
+3473,2004,Paraiba,July,1
+3474,2005,Paraiba,July,0
+3475,2006,Paraiba,July,1
+3476,2007,Paraiba,July,1
+3477,2008,Paraiba,July,0
+3478,2009,Paraiba,July,3
+3479,2010,Paraiba,July,7
+3480,2011,Paraiba,July,6
+3481,2012,Paraiba,July,5
+3482,2013,Paraiba,July,1
+3483,2014,Paraiba,July,9
+3484,2015,Paraiba,July,3
+3485,2016,Paraiba,July,22
+3486,2017,Paraiba,July,2
+3487,1998,Paraiba,August,3
+3488,1999,Paraiba,August,4
+3489,2000,Paraiba,August,7
+3490,2001,Paraiba,August,34
+3491,2002,Paraiba,August,38
+3492,2003,Paraiba,August,14
+3493,2004,Paraiba,August,18
+3494,2005,Paraiba,August,0
+3495,2006,Paraiba,August,3
+3496,2007,Paraiba,August,8
+3497,2008,Paraiba,August,1
+3498,2009,Paraiba,August,4
+3499,2010,Paraiba,August,9
+3500,2011,Paraiba,August,12
+3501,2012,Paraiba,August,13
+3502,2013,Paraiba,August,3
+3503,2014,Paraiba,August,30
+3504,2015,Paraiba,August,5
+3505,2016,Paraiba,August,50
+3506,2017,Paraiba,August,3
+3507,1998,Paraiba,September,50
+3508,1999,Paraiba,September,14
+3509,2000,Paraiba,September,9
+3510,2001,Paraiba,September,98
+3511,2002,Paraiba,September,63
+3512,2003,Paraiba,September,81
+3513,2004,Paraiba,September,34
+3514,2005,Paraiba,September,13
+3515,2006,Paraiba,September,27
+3516,2007,Paraiba,September,22
+3517,2008,Paraiba,September,21
+3518,2009,Paraiba,September,28
+3519,2010,Paraiba,September,37
+3520,2011,Paraiba,September,55
+3521,2012,Paraiba,September,71
+3522,2013,Paraiba,September,25
+3523,2014,Paraiba,September,51
+3524,2015,Paraiba,September,48
+3525,2016,Paraiba,September,131
+3526,2017,Paraiba,September,30
+3527,1998,Paraiba,October,179
+3528,1999,Paraiba,October,48
+3529,2000,Paraiba,October,125
+3530,2001,Paraiba,October,279
+3531,2002,Paraiba,October,193
+3532,2003,Paraiba,October,381
+3533,2004,Paraiba,October,190
+3534,2005,Paraiba,October,155
+3535,2006,Paraiba,October,135
+3536,2007,Paraiba,October,111
+3537,2008,Paraiba,October,80
+3538,2009,Paraiba,October,117
+3539,2010,Paraiba,October,150
+3540,2011,Paraiba,October,200
+3541,2012,Paraiba,October,136
+3542,2013,Paraiba,October,58
+3543,2014,Paraiba,October,70
+3544,2015,Paraiba,October,121
+3545,2016,Paraiba,October,304
+3546,2017,Paraiba,October,123
+3547,1998,Paraiba,November,46
+3548,1999,Paraiba,November,38
+3549,2000,Paraiba,November,65
+3550,2001,Paraiba,November,294
+3551,2002,Paraiba,November,238
+3552,2003,Paraiba,November,538
+3553,2004,Paraiba,November,331
+3554,2005,Paraiba,November,280
+3555,2006,Paraiba,November,215
+3556,2007,Paraiba,November,256
+3557,2008,Paraiba,November,175
+3558,2009,Paraiba,November,428
+3559,2010,Paraiba,November,451
+3560,2011,Paraiba,November,359
+3561,2012,Paraiba,November,130
+3562,2013,Paraiba,November,95
+3563,2014,Paraiba,November,111
+3564,2015,Paraiba,November,206
+3565,2016,Paraiba,November,132
+3566,2017,Paraiba,November,101
+3567,1998,Paraiba,December,51
+3568,1999,Paraiba,December,40
+3569,2000,Paraiba,December,34
+3570,2001,Paraiba,December,70
+3571,2002,Paraiba,December,163
+3572,2003,Paraiba,December,288
+3573,2004,Paraiba,December,351
+3574,2005,Paraiba,December,159
+3575,2006,Paraiba,December,196
+3576,2007,Paraiba,December,133
+3577,2008,Paraiba,December,187
+3578,2009,Paraiba,December,270
+3579,2010,Paraiba,December,65
+3580,2011,Paraiba,December,179
+3581,2012,Paraiba,December,62
+3582,2013,Paraiba,December,78
+3583,2014,Paraiba,December,62
+3584,2015,Paraiba,December,122
+3585,2016,Paraiba,December,8
+3586,1998,Paraiba,January,0
+3587,1999,Paraiba,January,7
+3588,2000,Paraiba,January,49
+3589,2001,Paraiba,January,32
+3590,2002,Paraiba,January,47
+3591,2003,Paraiba,January,109
+3592,2004,Paraiba,January,88
+3593,2005,Paraiba,January,55
+3594,2006,Paraiba,January,78
+3595,2007,Paraiba,January,11
+3596,2008,Paraiba,January,35
+3597,2009,Paraiba,January,35
+3598,2010,Paraiba,January,18
+3599,2011,Paraiba,January,35
+3600,2012,Paraiba,January,31
+3601,2013,Paraiba,January,28
+3602,2014,Paraiba,January,86
+3603,2015,Paraiba,January,120
+3604,2016,Paraiba,January,113
+3606,1998,Paraiba,February,0
+3607,1999,Paraiba,February,22
+3608,2000,Paraiba,February,67
+3609,2001,Paraiba,February,8
+3610,2002,Paraiba,February,24
+3611,2003,Paraiba,February,46
+3612,2004,Paraiba,February,42
+3613,2005,Paraiba,February,77
+3614,2006,Paraiba,February,60
+3615,2007,Paraiba,February,32
+3616,2008,Paraiba,February,38
+3617,2009,Paraiba,February,21
+3618,10bc,Paraiba,February,46
+3619,2011,Paraiba,February,8
+3620,2012,Paraiba,February,40
+3621,2013,Paraiba,February,9
+3622,2014,Paraiba,February,52
+3623,2015,Paraiba,February,58
+3624,2016,Paraiba,February,31
+3625,2017,Paraiba,February,60
+3626,1998,Paraiba,March,0
+3627,1999,Paraiba,March,40
+3628,2000,Paraiba,March,52
+3629,2001,Paraiba,March,12
+3630,2002,Paraiba,March,18
+3631,2003,Paraiba,March,76
+3632,2004,Paraiba,March,83
+3633,2005,Paraiba,March,84
+3634,2006,Paraiba,March,56
+3635,2007,Paraiba,March,54
+3636,2008,Paraiba,March,43
+3637,2009,Paraiba,March,57
+3638,2010,Paraiba,March,22
+3639,2011,Paraiba,March,21
+3640,2012,Paraiba,March,55
+3641,2013,Paraiba,March,18
+3642,2014,Paraiba,March,42
+3643,2015,Paraiba,March,55
+3644,2016,Paraiba,March,63
+3645,2017,Paraiba,March,43
+3646,1998,Paraiba,April,0
+3647,1999,Paraiba,April,39
+3648,2000,Paraiba,April,51
+3649,2001,Paraiba,April,43
+3650,2002,Paraiba,April,84
+3651,2003,Paraiba,April,130
+3652,2004,Paraiba,April,68
+3653,2005,Paraiba,April,22
+3654,2006,Paraiba,April,49
+3655,2007,Paraiba,April,14
+3656,2008,Paraiba,April,62
+3657,2009,Paraiba,April,80
+3658,2010,Paraiba,April,71
+3659,2011,Paraiba,April,38
+3660,2012,Paraiba,April,38
+3661,2013,Paraiba,April,72
+3662,2014,Paraiba,April,38
+3663,2015,Paraiba,April,83
+3664,2016,Paraiba,April,167
+3665,2017,Paraiba,April,77
+3666,1998,Paraiba,May,0
+3667,1999,Paraiba,May,57
+3668,2000,Paraiba,May,43
+3669,2001,Paraiba,May,26
+3670,2002,Paraiba,May,65
+3671,2003,Paraiba,May,115
+3672,2004,Paraiba,May,9
+3673,2005,Paraiba,May,125
+3674,2006,Paraiba,May,90
+3675,2007,Paraiba,May,14
+3676,2008,Paraiba,May,41
+3677,2009,Paraiba,May,117
+3678,2010,Paraiba,May,39
+3679,2011,Paraiba,May,97
+3680,2012,Paraiba,May,86
+3681,2013,Paraiba,May,85
+3682,2014,Paraiba,May,109
+3683,2015,Paraiba,May,77
+3684,2016,Paraiba,May,72
+3685,2017,Paraiba,May,49
+3686,1998,Paraiba,June,36
+3687,1999,Paraiba,June,31
+3688,2000,Paraiba,June,53
+3689,2001,Paraiba,June,43
+3691,2003,Paraiba,June,159
+3692,2004,Paraiba,June,147
+3693,2005,Paraiba,June,114
+3694,2006,Paraiba,June,62
+3695,2007,Paraiba,June,57
+3696,2008,Paraiba,June,17
+3697,2009,Paraiba,June,105
+3698,2010,Paraiba,June,55
+3699,2011,Paraiba,June,162
+3700,2012,Paraiba,June,77
+3701,2013,Paraiba,June,52
+3702,2014,Paraiba,June,112
+3703,2015,Paraiba,June,201
+3704,2016,Paraiba,June,238
+3705,2017,Paraiba,June,169
+3706,1998,Paraiba,July,59
+3707,1999,Paraiba,July,94
+3708,2000,Paraiba,July,98
+3709,2001,Paraiba,July,122
+3710,2002,Paraiba,July,172
+3711,2003,Paraiba,July,101
+3712,2004,Paraiba,July,148
+3713,2005,Paraiba,July,155
+3714,2006,Paraiba,July,139
+3715,2007,Paraiba,July,60
+3716,2008,Paraiba,July,87
+3717,2009,Paraiba,July,34
+3718,2010,Paraiba,July,196
+3719,2011,Paraiba,July,262
+3720,2012,Paraiba,July,111
+3721,2013,Paraiba,July,168
+3722,2014,Paraiba,July,215
+3723,2015,Paraiba,July,137
+3724,2016,Paraiba,July,504
+3725,2017,Paraiba,July,891
+3726,1998,Paraiba,August,42
+3727,1999,Paraiba,August,938
+3728,2000,Paraiba,August,849
+3729,2001,Paraiba,August,342
+3730,2002,Paraiba,August,1593
+3731,2003,Paraiba,August,1896
+3732,2004,Paraiba,August,1237
+3733,2005,Paraiba,August,800
+3734,2006,Paraiba,August,844
+3735,2007,Paraiba,August,580
+3736,2008,Paraiba,August,205
+3737,2009,Paraiba,August,844
+3738,2010,Paraiba,August,733
+3739,2011,Paraiba,August,435
+3740,2012,Paraiba,August,522
+3741,2013,Paraiba,August,481
+3742,2014,Paraiba,August,646
+3743,2015,Paraiba,August,651
+3744,2016,Paraiba,August,1010
+3745,2017,Paraiba,August,987
+3746,1998,Paraiba,September,61
+3747,1999,Paraiba,September,878
+3748,2000,Paraiba,September,381
+3749,2001,Paraiba,September,258
+3750,2002,Paraiba,September,1071
+3751,2003,Paraiba,September,2446
+3752,2004,Paraiba,September,1360
+3753,2005,Paraiba,September,386
+3754,2006,Paraiba,September,866
+3755,2007,Paraiba,September,960
+3756,2008,Paraiba,September,413
+3757,2009,Paraiba,September,149
+3758,2010,Paraiba,September,270
+3759,2011,Paraiba,September,913
+3760,2012,Paraiba,September,459
+3761,2013,Paraiba,September,476
+3762,2014,Paraiba,September,443
+3763,2015,Paraiba,September,599
+3764,2016,Paraiba,September,1371
+3765,2017,Paraiba,September,1706
+3766,1998,Paraiba,October,61
+3767,1999,Paraiba,October,452
+3768,2000,Paraiba,October,658
+3769,2001,Paraiba,October,209
+3770,2002,Paraiba,October,399
+3771,2003,Paraiba,October,1228
+3772,2004,Paraiba,October,666
+3773,2005,Paraiba,October,157
+3774,2006,Paraiba,October,327
+3775,2007,Paraiba,October,194
+3776,2008,Paraiba,October,78
+3777,2009,Paraiba,October,424
+3778,2010,Paraiba,October,230
+3779,2011,Paraiba,October,256
+3780,2012,Paraiba,October,145
+3781,2013,Paraiba,October,233
+3782,2014,Paraiba,October,411
+3783,2015,Paraiba,October,158
+3784,2016,Paraiba,October,193
+3785,2017,Paraiba,October,134
+3786,1998,Paraiba,November,143
+3787,1999,Paraiba,November,447
+3788,2000,Paraiba,November,85
+3789,2001,Paraiba,November,89
+3790,2002,Paraiba,November,425
+3791,2003,Paraiba,November,503
+3792,2004,Paraiba,November,388
+3793,2005,Paraiba,November,597
+3794,2006,Paraiba,November,60
+3795,2007,Paraiba,November,59
+3796,2008,Paraiba,November,39
+3797,2009,Paraiba,November,90
+3798,2010,Paraiba,November,183
+3799,2011,Paraiba,November,138
+3800,2012,Paraiba,November,142
+3801,2013,Paraiba,November,126
+3802,2014,Paraiba,November,68
+3803,2015,Paraiba,November,18
+3804,2016,Paraiba,November,275
+3805,2017,Paraiba,November,292
+3806,1998,Paraiba,December,82
+3807,1999,Paraiba,December,254
+3808,2000,Paraiba,December,159
+3809,2001,Paraiba,December,85
+3810,2002,Paraiba,December,165
+3811,2003,Paraiba,December,171
+3812,2004,Paraiba,December,151
+3813,2005,Paraiba,December,40
+3814,2006,Paraiba,December,6
+3815,2007,Paraiba,December,22
+3816,2008,Paraiba,December,62
+3817,2009,Paraiba,December,30
+3818,2010,Paraiba,December,37
+3819,2011,Paraiba,December,78
+3820,2012,Paraiba,December,54
+3821,2013,Paraiba,December,155
+3822,2014,Paraiba,December,78
+3823,2015,Paraiba,December,30
+3824,2016,Paraiba,December,45
+3825,1998,Pernambuco,January,0
+3826,1999,Pernambuco,January,102
+3827,2000,Pernambuco,January,3
+3828,2001,Pernambuco,January,7
+3829,2002,Pernambuco,January,10
+3830,2003,Pernambuco,January,188
+3831,2004,Pernambuco,January,29
+3832,2005,Pernambuco,January,221
+3833,2006,Pernambuco,January,148
+3834,2007,Pernambuco,January,156
+3835,2008,Pernambuco,January,170
+3836,2009,Pernambuco,January,256
+3837,2010,Pernambuco,January,47
+3838,2011,Pernambuco,January,49
+3839,2012,Pernambuco,January,146
+3840,2013,Pernambuco,January,55
+3841,2014,Pernambuco,January,99
+3842,2015,Pernambuco,January,109
+3843,2016,Pernambuco,January,24
+3844,2017,Pernambuco,January,52
+3845,1998,Pernambuco,February,0
+3846,1999,Pernambuco,February,13
+3847,2000,Pernambuco,February,4
+3848,2001,Pernambuco,February,2
+3849,2002,Pernambuco,February,19
+3850,2003,Pernambuco,February,35
+3851,2004,Pernambuco,February,8
+3852,2005,Pernambuco,February,33
+3853,2006,Pernambuco,February,41
+3854,2007,Pernambuco,February,21
+3855,2008,Pernambuco,February,48
+3856,2009,Pernambuco,February,28
+3857,2010,Pernambuco,February,33
+3858,2011,Pernambuco,February,25
+3859,2012,Pernambuco,February,64
+3860,2013,Pernambuco,February,29
+3861,2014,Pernambuco,February,25
+3862,2015,Pernambuco,February,55
+3863,2016,Pernambuco,February,19
+3864,2017,Pernambuco,February,23
+3865,1998,Pernambuco,March,0
+3866,1999,Pernambuco,March,27
+3867,2000,Pernambuco,March,14
+3868,2001,Pernambuco,March,0
+3869,2002,Pernambuco,March,24
+3870,2003,Pernambuco,March,9
+3871,2004,Pernambuco,March,6
+3872,2005,Pernambuco,March,45
+3873,2006,Pernambuco,March,18
+3874,2007,Pernambuco,March,4
+3875,2008,Pernambuco,March,32
+3876,2009,Pernambuco,March,15
+3877,2010,Pernambuco,March,59
+3878,2011,Pernambuco,March,39
+3879,2012,Pernambuco,March,44
+3880,2013,Pernambuco,March,40
+3881,2014,Pernambuco,March,36
+3882,2015,Pernambuco,March,33
+3883,2016,Pernambuco,March,4
+3884,2017,Pernambuco,March,7
+3885,1998,Pernambuco,April,0
+3886,1999,Pernambuco,April,2
+3887,2000,Pernambuco,April,1
+3888,2001,Pernambuco,April,2
+3889,2002,Pernambuco,April,5
+3890,2003,Pernambuco,April,7
+3891,2004,Pernambuco,April,5
+3892,2005,Pernambuco,April,1
+3893,2006,Pernambuco,April,2
+3894,2007,Pernambuco,April,1
+3895,2008,Pernambuco,April,5
+3896,2009,Pernambuco,April,3
+3897,2010,Pernambuco,April,2
+3898,2011,Pernambuco,April,22
+3899,2012,Pernambuco,April,46
+3900,2013,Pernambuco,April,11
+3901,2014,Pernambuco,April,10
+3902,2015,Pernambuco,April,30
+3903,2016,Pernambuco,April,8
+3904,2017,Pernambuco,April,9
+3905,1998,Pernambuco,May,0
+3906,1999,Pernambuco,May,6
+3907,2000,Pernambuco,May,7
+3908,2001,Pernambuco,May,5
+3909,2002,Pernambuco,May,13
+3910,2003,Pernambuco,May,1
+3911,2004,Pernambuco,May,2
+3912,2005,Pernambuco,May,1
+3913,2006,Pernambuco,May,1
+3914,2007,Pernambuco,May,0
+3915,2008,Pernambuco,May,0
+3916,2009,Pernambuco,May,0
+3917,2010,Pernambuco,May,8
+3918,2011,Pernambuco,May,1
+3919,2012,Pernambuco,May,36
+3920,2013,Pernambuco,May,9
+3921,2014,Pernambuco,May,4
+3922,2015,Pernambuco,May,17
+3923,2016,Pernambuco,May,6
+3924,2017,Pernambuco,May,13
+3925,1998,Pernambuco,June,1
+3926,1999,Pernambuco,June,7
+3927,2000,Pernambuco,June,4
+3928,2001,Pernambuco,June,2
+3929,2002,Pernambuco,June,1
+3930,2003,Pernambuco,June,2
+3931,2004,Pernambuco,June,4
+3932,2005,Pernambuco,June,3
+3933,2006,Pernambuco,June,0
+3934,2007,Pernambuco,June,1
+3935,2008,Pernambuco,June,0
+3936,2009,Pernambuco,June,1
+3937,2010,Pernambuco,June,1
+3938,2011,Pernambuco,June,4
+3939,2012,Pernambuco,June,12
+3940,2013,Pernambuco,June,12
+3941,2014,Pernambuco,June,3
+3942,2015,Pernambuco,June,3
+3943,2016,Pernambuco,June,4
+3944,2017,Pernambuco,June,5
+3945,1998,Pernambuco,July,5
+3946,1999,Pernambuco,July,2
+3947,2000,Pernambuco,July,0
+3948,2001,Pernambuco,July,6
+3949,2002,Pernambuco,July,8
+3950,2003,Pernambuco,July,5
+3951,2004,Pernambuco,July,13
+3952,2005,Pernambuco,July,1
+3953,2006,Pernambuco,July,1
+3954,2007,Pernambuco,July,3
+3955,2008,Pernambuco,July,0
+3956,2009,Pernambuco,July,1
+3957,2010,Pernambuco,July,7
+3958,2011,Pernambuco,July,2
+3959,2012,Pernambuco,July,11
+3960,2013,Pernambuco,July,4
+3961,2014,Pernambuco,July,11
+3962,2015,Pernambuco,July,13
+3963,2016,Pernambuco,July,17
+3964,2017,Pernambuco,July,2
+3965,1998,Pernambuco,August,12
+3966,1999,Pernambuco,August,3
+3967,2000,Pernambuco,August,31
+3968,2001,Pernambuco,August,27
+3969,2002,Pernambuco,August,37
+3970,2003,Pernambuco,August,26
+3971,2004,Pernambuco,August,41
+3972,2005,Pernambuco,August,10
+3973,2006,Pernambuco,August,8
+3974,2007,Pernambuco,August,20
+3975,2008,Pernambuco,August,2
+3976,2009,Pernambuco,August,10
+3977,2010,Pernambuco,August,29
+3978,2011,Pernambuco,August,27
+3979,2012,Pernambuco,August,27
+3980,2013,Pernambuco,August,14
+3981,2014,Pernambuco,August,23
+3982,2015,Pernambuco,August,21
+3983,2016,Pernambuco,August,42
+3984,2017,Pernambuco,August,20
+3985,1998,Pernambuco,September,177
+3986,1999,Pernambuco,September,64
+3987,2000,Pernambuco,September,130
+3988,2001,Pernambuco,September,298
+3989,2002,Pernambuco,September,374
+3990,2003,Pernambuco,September,510
+3991,2004,Pernambuco,September,192
+3992,2005,Pernambuco,September,154
+3993,2006,Pernambuco,September,147
+3994,2007,Pernambuco,September,164
+3995,2008,Pernambuco,September,92
+3996,2009,Pernambuco,September,164
+3997,2010,Pernambuco,September,179
+3998,2011,Pernambuco,September,243
+3999,2012,Pernambuco,September,192
+4000,2013,Pernambuco,September,143
+4001,2014,Pernambuco,September,63
+4002,2015,Pernambuco,September,116
+4003,2016,Pernambuco,September,171
+4004,2017,Pernambuco,September,69
+4005,1998,Pernambuco,October,372
+4006,1999,Pernambuco,October,180
+4007,2000,Pernambuco,October,411
+4008,2001,Pernambuco,October,461
+4009,2002,Pernambuco,October,638
+4010,2003,Pernambuco,October,859
+4011,2004,Pernambuco,October,545
+4012,2005,Pernambuco,October,408
+4013,2006,Pernambuco,October,310
+4014,2007,Pernambuco,October,702
+4015,2008,Pernambuco,October,274
+4016,2009,Pernambuco,October,254
+4017,2010,Pernambuco,October,347
+4018,2011,Pernambuco,October,461
+4019,2012,Pernambuco,October,222
+4020,2013,Pernambuco,October,161
+4021,2014,Pernambuco,October,174
+4022,2015,Pernambuco,October,194
+4023,2016,Pernambuco,October,319
+4024,2017,Pernambuco,October,256
+4025,1998,Pernambuco,November,141
+4026,1999,Pernambuco,November,41
+4027,2000,Pernambuco,November,64
+4028,2001,Pernambuco,November,208
+4029,2002,Pernambuco,November,521
+4030,2003,Pernambuco,November,560
+4031,2004,Pernambuco,November,465
+4032,2005,Pernambuco,November,452
+4033,2006,Pernambuco,November,385
+4034,2007,Pernambuco,November,359
+4035,2008,Pernambuco,November,363
+4036,2009,Pernambuco,November,486
+4037,2010,Pernambuco,November,831
+4038,2011,Pernambuco,November,352
+4039,2012,Pernambuco,November,181
+4040,2013,Pernambuco,November,110
+4041,2014,Pernambuco,November,111
+4042,2015,Pernambuco,November,315
+4043,2016,Pernambuco,November,191
+4044,2017,Pernambuco,November,66
+4045,1998,Pernambuco,December,59
+4046,1999,Pernambuco,December,16
+4047,2000,Pernambuco,December,22
+4048,2001,Pernambuco,December,62
+4049,2002,Pernambuco,December,259
+4050,2003,Pernambuco,December,229
+4051,2004,Pernambuco,December,373
+4052,2005,Pernambuco,December,191
+4053,2006,Pernambuco,December,207
+4054,2007,Pernambuco,December,200
+4055,2008,Pernambuco,December,203
+4056,2009,Pernambuco,December,351
+4057,2010,Pernambuco,December,117
+4058,2011,Pernambuco,December,364
+4059,2012,Pernambuco,December,108
+4060,2013,Pernambuco,December,141
+4061,2014,Pernambuco,December,101
+4062,2015,Pernambuco,December,176
+4063,2016,Pernambuco,December,161
+4064,1998,Piau,January,0
+4065,1999,Piau,January,21
+4066,2000,Piau,January,5
+4067,2001,Piau,January,29
+4068,2002,Piau,January,33
+4069,2003,Piau,January,86
+4070,2004,Piau,January,42
+4071,2005,Piau,January,94
+4072,2006,Piau,January,133
+4073,2007,Piau,January,123
+4074,2008,Piau,January,61
+4075,2009,Piau,January,79
+4076,2010,Piau,January,99
+4077,2011,Piau,January,39
+4078,2012,Piau,January,80
+4079,2013,Piau,January,72
+4080,2014,Piau,January,79
+4081,2015,Piau,January,92
+4082,2016,Piau,January,94
+4083,2017,Piau,January,85
+4084,1998,Piau,February,0
+4085,1999,Piau,February,22
+4086,2000,Piau,February,12
+4087,2001,Piau,February,0
+4088,2002,Piau,February,160
+4089,2003,Piau,February,3
+4090,2004,Piau,February,20
+4091,2005,Piau,February,26
+4092,2006,Piau,February,23
+4093,2007,Piau,February,11
+4094,2008,Piau,February,21
+4095,2009,Piau,February,19
+4096,2010,Piau,February,54
+4097,2011,Piau,February,11
+4098,2012,Piau,February,31
+4099,2013,Piau,February,68
+4100,2014,Piau,February,14
+4101,2015,Piau,February,38
+4102,2016,Piau,February,97
+4103,2017,Piau,February,24
+4104,1998,Piau,March,0
+4105,1999,Piau,March,4
+4106,2000,Piau,March,14
+4107,2001,Piau,March,2
+4108,2002,Piau,March,63
+4109,2003,Piau,March,15
+4110,2004,Piau,March,27
+4111,2005,Piau,March,13
+4112,2006,Piau,March,18
+4113,2007,Piau,March,31
+4114,2008,Piau,March,4
+4115,2009,Piau,March,17
+4116,2010,Piau,March,47
+4117,2011,Piau,March,15
+4118,2012,Piau,March,71
+4119,2013,Piau,March,14
+4120,2014,Piau,March,88
+4121,2015,Piau,March,35
+4122,2016,Piau,March,53
+4123,2017,Piau,March,25
+4124,1998,Piau,April,0
+4125,1999,Piau,April,10
+4126,2000,Piau,April,15
+4127,2001,Piau,April,1
+4128,2002,Piau,April,87
+4129,2003,Piau,April,22
+4130,2004,Piau,April,10
+4131,2005,Piau,April,3
+4132,2006,Piau,April,1
+4133,2007,Piau,April,9
+4134,2008,Piau,April,7
+4135,2009,Piau,April,8
+4136,2010,Piau,April,56
+4137,2011,Piau,April,16
+4138,2012,Piau,April,119
+4139,2013,Piau,April,34
+4140,2014,Piau,April,63
+4141,2015,Piau,April,50
+4142,2016,Piau,April,35
+4143,2017,Piau,April,25
+4144,1998,Piau,May,0
+4145,1999,Piau,May,8
+4146,2000,Piau,May,25
+4147,2001,Piau,May,36
+4148,2002,Piau,May,84
+4149,2003,Piau,May,13
+4150,2004,Piau,May,80
+4151,2005,Piau,May,22
+4152,2006,Piau,May,0
+4153,2007,Piau,May,52
+4154,2008,Piau,May,12
+4155,2009,Piau,May,12
+4156,2010,Piau,May,231
+4157,2011,Piau,May,77
+4158,2012,Piau,May,334
+4159,2013,Piau,May,40
+4160,2014,Piau,May,138
+4161,2015,Piau,May,66
+4162,2016,Piau,May,60
+4163,2017,Piau,May,36
+4164,1998,Piau,June,46
+4165,1999,Piau,June,47
+4166,2000,Piau,June,18
+4167,2001,Piau,June,87
+4168,2002,Piau,June,161
+4169,2003,Piau,June,88
+4170,2004,Piau,June,239
+4171,2005,Piau,June,171
+4172,2006,Piau,June,40
+4173,2007,Piau,June,303
+4174,2008,Piau,June,33
+4175,2009,Piau,June,56
+4176,2010,Piau,June,208
+4177,2011,Piau,June,462
+4178,2012,Piau,June,834
+4179,2013,Piau,June,263
+4180,2014,Piau,June,373
+4181,2015,Piau,June,283
+4182,2016,Piau,June,153
+4183,2017,Piau,June,193
+4184,1998,Piau,July,189
+4185,1999,Piau,July,123
+4186,2000,Piau,July,75
+4187,2001,Piau,July,337
+4188,2002,Piau,July,534
+4189,2003,Piau,July,407
+4190,2004,Piau,July,564
+4191,2005,Piau,July,445
+4192,2006,Piau,July,150
+4193,2007,Piau,July,919
+4194,2008,Piau,July,97
+4195,2009,Piau,July,302
+4196,2010,Piau,July,1696
+4197,2011,Piau,July,864
+4198,2012,Piau,July,1755
+4199,2013,Piau,July,361
+4200,2014,Piau,July,1177
+4201,2015,Piau,July,690
+4202,2016,Piau,July,754
+4203,2017,Piau,July,643
+4204,1998,Piau,August,711
+4205,1999,Piau,August,499
+4206,2000,Piau,August,415
+4207,2001,Piau,August,1133
+4208,2002,Piau,August,2280
+4209,2003,Piau,August,864
+4210,2004,Piau,August,1002
+4211,2005,Piau,August,943
+4212,2006,Piau,August,911
+4213,2007,Piau,August,3551
+4214,2008,Piau,August,290
+4215,2009,Piau,August,790
+4216,2010,Piau,August,4035
+4217,2011,Piau,August,1958
+4218,2012,Piau,August,3614
+4219,2013,Piau,August,1015
+4220,2014,Piau,August,2265
+4221,2015,Piau,August,2057
+4222,2016,Piau,August,1647
+4223,2017,Piau,August,1572
+4224,1998,Piau,September,1991
+4225,1999,Piau,September,872
+4226,2000,Piau,September,1099
+4227,2001,Piau,September,2401
+4228,2002,Piau,September,2475
+4229,2003,Piau,September,3399
+4230,2004,Piau,September,2662
+4231,2005,Piau,September,3136
+4232,2006,Piau,September,1618
+4233,2007,Piau,September,4078
+4234,2008,Piau,September,1472
+4235,2009,Piau,September,1709
+4236,2010,Piau,September,5392
+4237,2011,Piau,September,4402
+4238,2012,Piau,September,4479
+4239,2013,Piau,September,2311
+4240,2014,Piau,September,2536
+4241,2015,Piau,September,5828
+4242,2016,Piau,September,1394
+4243,2017,Piau,September,3422
+4244,1998,Piau,October,2586
+4245,1999,Piau,October,1438
+4246,2000,Piau,October,2558
+4247,2001,Piau,October,3742
+4248,2002,Piau,October,2757
+4249,2003,Piau,October,2332
+4250,2004,Piau,October,2144
+4251,2005,Piau,October,3263
+4252,2006,Piau,October,1443
+4253,2007,Piau,October,2331
+4254,2008,Piau,October,1830
+4255,2009,Piau,October,913
+4256,2010,Piau,October,3863
+4257,2011,Piau,October,1484
+4258,2012,Piau,October,2506
+4259,2013,Piau,October,1269
+4260,2014,Piau,October,1788
+4261,2015,Piau,October,4068
+4262,2016,Piau,October,2598
+4263,2017,Piau,October,3004
+4264,1998,Piau,November,424
+4265,1999,Piau,November,334
+4266,2000,Piau,November,450
+4267,2001,Piau,November,1484
+4268,2002,Piau,November,1174
+4269,2003,Piau,November,1248
+4270,2004,Piau,November,1798
+4271,2005,Piau,November,1599
+4272,2006,Piau,November,740
+4273,2007,Piau,November,939
+4274,2008,Piau,November,594
+4275,2009,Piau,November,1336
+4276,2010,Piau,November,1417
+4277,2011,Piau,November,825
+4278,2012,Piau,November,447
+4279,2013,Piau,November,640
+4280,2014,Piau,November,717
+4281,2015,Piau,November,897
+4282,2016,Piau,November,1126
+4283,2017,Piau,November,449
+4284,1998,Piau,December,119
+4285,1999,Piau,December,74
+4286,2000,Piau,December,79
+4287,2001,Piau,December,230
+4288,2002,Piau,December,373
+4289,2003,Piau,December,459
+4290,2004,Piau,December,788
+4291,2005,Piau,December,486
+4292,2006,Piau,December,339
+4293,2007,Piau,December,317
+4294,2008,Piau,December,329
+4295,2009,Piau,December,570
+4296,2010,Piau,December,357
+4297,2011,Piau,December,362
+4298,2012,Piau,December,334
+4299,2013,Piau,December,468
+4300,2014,Piau,December,346
+4301,2015,Piau,December,626
+4302,2016,Piau,December,374
+4303,1998,Rio,January,0
+4304,1999,Rio,January,0
+4305,2000,Rio,January,0
+4306,2001,Rio,January,0
+4307,2002,Rio,January,0
+4308,2003,Rio,January,0
+4309,2004,Rio,January,1
+4310,2005,Rio,January,5
+4311,2006,Rio,January,12
+4312,2007,Rio,January,0
+4313,2008,Rio,January,1
+4314,2009,Rio,January,3
+4315,2010,Rio,January,13
+4316,2011,Rio,January,10
+4317,2012,Rio,January,12
+4318,2013,Rio,January,9
+4319,2014,Rio,January,35
+4320,2015,Rio,January,97
+4321,2016,Rio,January,9
+4322,2017,Rio,January,15
+4323,1998,Rio,February,0
+4324,1999,Rio,February,0
+4325,2000,Rio,February,1
+4326,2001,Rio,February,3
+4327,2002,Rio,February,1
+4328,2003,Rio,February,10
+4329,2004,Rio,February,8
+4330,2005,Rio,February,4
+4331,2006,Rio,February,7
+4332,2007,Rio,February,15
+4333,2008,Rio,February,2
+4334,2009,Rio,February,5
+4335,2010,Rio,February,73
+4336,2011,Rio,February,36
+4337,2012,Rio,February,11
+4338,2013,Rio,February,12
+4339,2014,Rio,February,116
+4340,2015,Rio,February,36
+4341,2016,Rio,February,16
+4342,2017,Rio,February,34
+4343,1998,Rio,March,0
+4344,1999,Rio,March,0
+4345,2000,Rio,March,0
+4346,2001,Rio,March,0
+4347,2002,Rio,March,1
+4348,2003,Rio,March,23
+4349,2004,Rio,March,4
+4350,2005,Rio,March,7
+4351,2006,Rio,March,8
+4352,2007,Rio,March,27
+4353,2008,Rio,March,2
+4354,2009,Rio,March,5
+4355,2010,Rio,March,10
+4356,2011,Rio,March,7
+4357,2012,Rio,March,20
+4358,2013,Rio,March,9
+4359,2014,Rio,March,38
+4360,2015,Rio,March,23
+4361,2016,Rio,March,16
+4362,2017,Rio,March,10
+4363,1998,Rio,April,0
+4364,1999,Rio,April,1
+4365,2000,Rio,April,2
+4366,2001,Rio,April,2
+4367,2002,Rio,April,8
+4368,2003,Rio,April,11
+4369,2004,Rio,April,3
+4370,2005,Rio,April,1
+4371,2006,Rio,April,8
+4372,2007,Rio,April,9
+4373,2008,Rio,April,2
+4374,2009,Rio,April,1
+4375,2010,Rio,April,10
+4376,2011,Rio,April,12
+4377,2012,Rio,April,12
+4378,2013,Rio,April,9
+4379,2014,Rio,April,25
+4380,2015,Rio,April,24
+4381,2016,Rio,April,45
+4382,2017,Rio,April,12
+4383,1998,Rio,May,0
+4384,1999,Rio,May,7
+4385,2000,Rio,May,5
+4386,2001,Rio,May,4
+4387,2002,Rio,May,4
+4388,2003,Rio,May,1
+4389,2004,Rio,May,0
+4390,2005,Rio,May,11
+4391,2006,Rio,May,4
+4392,2007,Rio,May,2
+4393,2008,Rio,May,0
+4394,2009,Rio,May,37
+4395,2010,Rio,May,6
+4396,2011,Rio,May,17
+4397,2012,Rio,May,18
+4398,2013,Rio,May,16
+4399,2014,Rio,May,20
+4400,2015,Rio,May,21
+4401,2016,Rio,May,30
+4402,2017,Rio,May,15
+4403,1998,Rio,June,3
+4404,1999,Rio,June,8
+4405,2000,Rio,June,14
+4406,2001,Rio,June,13
+4407,2002,Rio,June,13
+4408,2003,Rio,June,13
+4409,2004,Rio,June,19
+4410,2005,Rio,June,16
+4411,2006,Rio,June,19
+4412,2007,Rio,June,3
+4413,2008,Rio,June,4
+4414,2009,Rio,June,33
+4415,2010,Rio,June,7
+4416,2011,Rio,June,33
+4417,2012,Rio,June,14
+4418,2013,Rio,June,17
+4419,2014,Rio,June,54
+4420,2015,Rio,June,33
+4421,2016,Rio,June,37
+4422,2017,Rio,June,68
+4423,1998,Rio,July,21
+4424,1999,Rio,July,14
+4425,2000,Rio,July,22
+4426,2001,Rio,July,57
+4427,2002,Rio,July,17
+4428,2003,Rio,July,42
+4429,2004,Rio,July,23
+4430,2005,Rio,July,20
+4431,2006,Rio,July,54
+4433,2008,Rio,July,14
+4434,2009,Rio,July,56
+4435,2010,Rio,July,55
+4436,2011,Rio,July,121
+4437,2012,Rio,July,50
+4438,2013,Rio,July,58
+4439,2014,Rio,July,62
+4440,2015,Rio,July,74
+4441,2016,Rio,July,131
+4442,2017,Rio,July,70
+4443,1998,Rio,August,21
+4444,1999,Rio,August,88
+4445,2000,Rio,August,34
+4446,2001,Rio,August,129
+4447,2002,Rio,August,184
+4448,2003,Rio,August,191
+4449,2004,Rio,August,74
+4450,2005,Rio,August,98
+4451,2006,Rio,August,79
+4452,2007,Rio,August,189
+4453,2008,Rio,August,19
+4454,2009,Rio,August,91
+4455,2010,Rio,August,316
+4456,2011,Rio,August,250
+4457,2012,Rio,August,72
+4458,2013,Rio,August,74
+4459,2014,Rio,August,199
+4460,2015,Rio,August,158
+4461,2016,Rio,August,241
+4462,2017,Rio,August,164
+4463,1998,Rio,September,44
+4464,1999,Rio,September,192
+4465,2000,Rio,September,16
+4466,2001,Rio,September,60
+4467,2002,Rio,September,45
+4468,2003,Rio,September,166
+4469,2004,Rio,September,205
+4470,2005,Rio,September,46
+4471,2006,Rio,September,197
+4472,2007,Rio,September,223
+4473,2008,Rio,September,132
+4474,2009,Rio,September,90
+4475,2010,Rio,September,353
+4476,2011,Rio,September,510
+4477,2012,Rio,September,172
+4478,2013,Rio,September,117
+4479,2014,Rio,September,318
+4480,2015,Rio,September,85
+4481,2016,Rio,September,195
+4482,2017,Rio,September,728
+4483,1998,Rio,October,6
+4484,1999,Rio,October,30
+4485,2000,Rio,October,25
+4486,2001,Rio,October,33
+4487,2002,Rio,October,313
+4488,2003,Rio,October,81
+4489,2004,Rio,October,26
+4490,2005,Rio,October,116
+4491,2006,Rio,October,12
+4492,2007,Rio,October,137
+4493,2008,Rio,October,42
+4494,2009,Rio,October,18
+4495,2010,Rio,October,35
+4496,2011,Rio,October,114
+4497,2012,Rio,October,163
+4498,2013,Rio,October,44
+4499,2014,Rio,October,500
+4500,2015,Rio,October,96
+4501,2016,Rio,October,30
+4502,2017,Rio,October,238
+4503,1998,Rio,November,6
+4504,1999,Rio,November,16
+4505,2000,Rio,November,2
+4506,2001,Rio,November,4
+4507,2002,Rio,November,11
+4508,2003,Rio,November,5
+4509,2004,Rio,November,49
+4510,2005,Rio,November,12
+4511,2006,Rio,November,1
+4512,2007,Rio,November,1
+4513,2008,Rio,November,0
+4514,2009,Rio,November,27
+4515,2010,Rio,November,23
+4516,2011,Rio,November,20
+4517,2012,Rio,November,13
+4518,2013,Rio,November,28
+4519,2014,Rio,November,36
+4520,2015,Rio,November,6
+4521,2016,Rio,November,19
+4522,2017,Rio,November,43
+4523,1998,Rio,December,1
+4524,1999,Rio,December,0
+4525,2000,Rio,December,0
+4526,2001,Rio,December,2
+4527,2002,Rio,December,8
+4528,2003,Rio,December,10
+4529,2004,Rio,December,9
+4530,2005,Rio,December,2
+4531,2006,Rio,December,0
+4532,2007,Rio,December,0
+4533,2008,Rio,December,6
+4534,2009,Rio,December,1
+4535,2010,Rio,December,10
+4536,2011,Rio,December,3
+4537,2012,Rio,December,18
+4538,2013,Rio,December,12
+4539,2014,Rio,December,25
+4540,2015,Rio,December,11
+4541,2016,Rio,December,5
+4542,1998,Rio,January,0
+4543,1999,Rio,January,32
+4544,2000,Rio,January,1
+4545,2001,Rio,January,2
+4546,2002,Rio,January,4
+4547,2003,Rio,January,113
+4548,2004,Rio,January,44
+4549,2005,Rio,January,153
+4550,2006,Rio,January,93
+4551,2007,Rio,January,63
+4552,2008,Rio,January,70
+4553,2009,Rio,January,110
+4554,2010,Rio,January,32
+4555,2011,Rio,January,15
+4556,2012,Rio,January,72
+4557,2013,Rio,January,25
+4558,2014,Rio,January,34
+4559,2015,Rio,January,45
+4560,2016,Rio,January,15
+4561,2017,Rio,January,28
+4562,1998,Rio,February,0
+4563,1999,Rio,February,11
+4564,2000,Rio,February,7
+4565,2001,Rio,February,0
+4566,2002,Rio,February,18
+4567,2003,Rio,February,9
+4568,2004,Rio,February,5
+4569,2005,Rio,February,42
+4570,2006,Rio,February,21
+4571,2007,Rio,February,9
+4572,2008,Rio,February,25
+4573,2009,Rio,February,8
+4574,2010,Rio,February,12
+4575,2011,Rio,February,5
+4576,2012,Rio,February,13
+4577,2013,Rio,February,24
+4578,2014,Rio,February,8
+4579,2015,Rio,February,15
+4580,2016,Rio,February,2
+4581,2017,Rio,February,10
+4582,1998,Rio,March,0
+4583,1999,Rio,March,9
+4584,2000,Rio,March,11
+4585,2001,Rio,March,0
+4586,2002,Rio,March,3
+4587,2003,Rio,March,1
+4588,2004,Rio,March,1
+4589,2005,Rio,March,15
+4590,2006,Rio,March,8
+4591,2007,Rio,March,7
+4592,2008,Rio,March,3
+4593,2009,Rio,March,2
+4594,2010,Rio,March,23
+4595,2011,Rio,March,3
+4596,2012,Rio,March,2
+4597,2013,Rio,March,6
+4598,2014,Rio,March,6
+4599,2015,Rio,March,3
+4600,2016,Rio,March,1
+4601,2017,Rio,March,3
+4602,1998,Rio,April,0
+4603,1999,Rio,April,21
+4604,2000,Rio,April,16
+4605,2001,Rio,April,10
+4606,2002,Rio,April,0
+4607,2003,Rio,April,2
+4608,2004,Rio,April,3
+4609,2005,Rio,April,2
+4610,2006,Rio,April,2
+4611,2007,Rio,April,1
+4612,2008,Rio,April,0
+4613,2009,Rio,April,1
+4614,2010,Rio,April,7
+4615,2011,Rio,April,0
+4616,2012,Rio,April,4
+4617,2013,Rio,April,7
+4618,2014,Rio,April,2
+4619,2015,Rio,April,4
+4620,2016,Rio,April,0
+4621,2017,Rio,April,6
+4622,1998,Rio,May,0
+4623,1999,Rio,May,1
+4624,2000,Rio,May,3
+4625,2001,Rio,May,56
+4626,2002,Rio,May,6
+4627,2003,Rio,May,0
+4628,2004,Rio,May,2
+4629,2005,Rio,May,3
+4630,2006,Rio,May,0
+4631,2007,Rio,May,2
+4632,2008,Rio,May,0
+4633,2009,Rio,May,0
+4634,2010,Rio,May,3
+4635,2011,Rio,May,0
+4636,2012,Rio,May,14
+4637,2013,Rio,May,2
+4638,2014,Rio,May,2
+4639,2015,Rio,May,4
+4640,2016,Rio,May,1
+4641,2017,Rio,May,2
+4642,1998,Rio,June,1
+4643,1999,Rio,June,4
+4644,2000,Rio,June,8
+4645,2001,Rio,June,13
+4646,2002,Rio,June,1
+4647,2003,Rio,June,1
+4648,2004,Rio,June,2
+4649,2005,Rio,June,0
+4650,2006,Rio,June,0
+4651,2007,Rio,June,0
+4652,2008,Rio,June,0
+4653,2009,Rio,June,0
+4654,2010,Rio,June,1
+4655,2011,Rio,June,1
+4656,2012,Rio,June,5
+4657,2013,Rio,June,1
+4658,2014,Rio,June,2
+4659,2015,Rio,June,5
+4660,2016,Rio,June,4
+4661,2017,Rio,June,3
+4662,1998,Rio,July,5
+4663,1999,Rio,July,7
+4664,2000,Rio,July,5
+4665,2001,Rio,July,25
+4666,2002,Rio,July,7
+4667,2003,Rio,July,7
+4668,2004,Rio,July,5
+4669,2005,Rio,July,2
+4670,2006,Rio,July,0
+4671,2007,Rio,July,7
+4672,2008,Rio,July,0
+4673,2009,Rio,July,0
+4674,2010,Rio,July,7
+4675,2011,Rio,July,0
+4676,2012,Rio,July,3
+4677,2013,Rio,July,0
+4678,2014,Rio,July,2
+4679,2015,Rio,July,3
+4680,2016,Rio,July,13
+4681,2017,Rio,July,4
+4682,1998,Rio,August,4
+4683,1999,Rio,August,40
+4684,2000,Rio,August,29
+4685,2001,Rio,August,55
+4686,2002,Rio,August,48
+4687,2003,Rio,August,97
+4688,2004,Rio,August,15
+4689,2005,Rio,August,9
+4690,2006,Rio,August,13
+4691,2007,Rio,August,26
+4692,2008,Rio,August,2
+4693,2009,Rio,August,1
+4694,2010,Rio,August,24
+4695,2011,Rio,August,10
+4696,2012,Rio,August,23
+4697,2013,Rio,August,2
+4698,2014,Rio,August,21
+4699,2015,Rio,August,16
+4700,2016,Rio,August,24
+4701,2017,Rio,August,21
+4702,1998,Rio,September,51
+4703,1999,Rio,September,35
+4704,2000,Rio,September,17
+4705,2001,Rio,September,45
+4706,2002,Rio,September,52
+4707,2003,Rio,September,112
+4708,2004,Rio,September,47
+4709,2005,Rio,September,37
+4710,2006,Rio,September,50
+4711,2007,Rio,September,50
+4712,2008,Rio,September,17
+4713,2009,Rio,September,29
+4714,2010,Rio,September,50
+4715,2011,Rio,September,22
+4716,2012,Rio,September,41
+4717,2013,Rio,September,7
+4718,2014,Rio,September,30
+4719,2015,Rio,September,36
+4720,2016,Rio,September,44
+4721,2017,Rio,September,48
+4722,1998,Rio,October,55
+4723,1999,Rio,October,40
+4724,2000,Rio,October,28
+4725,2001,Rio,October,34
+4726,2002,Rio,October,140
+4727,2003,Rio,October,276
+4728,2004,Rio,October,89
+4729,2005,Rio,October,168
+4730,2006,Rio,October,85
+4731,2007,Rio,October,88
+4732,2008,Rio,October,53
+4733,2009,Rio,October,84
+4734,2010,Rio,October,111
+4735,2011,Rio,October,76
+4736,2012,Rio,October,74
+4737,2013,Rio,October,71
+4738,2014,Rio,October,75
+4739,2015,Rio,October,129
+4740,2016,Rio,October,129
+4741,2017,Rio,October,85
+4742,1998,Rio,November,41
+4743,1999,Rio,November,62
+4744,2000,Rio,November,9
+4745,2001,Rio,November,41
+4746,2002,Rio,November,178
+4747,2003,Rio,November,366
+4748,2004,Rio,November,164
+4749,2005,Rio,November,249
+4750,2006,Rio,November,148
+4751,2007,Rio,November,130
+4752,2008,Rio,November,82
+4753,2009,Rio,November,172
+4754,2010,Rio,November,212
+4755,2011,Rio,November,144
+4756,2012,Rio,November,69
+4757,2013,Rio,November,77
+4758,2014,Rio,November,124
+4759,2015,Rio,November,105
+4760,2016,Rio,November,93
+4761,2017,Rio,November,89
+4762,1998,Rio,December,19
+4763,1999,Rio,December,29
+4764,2000,Rio,December,11
+4765,2001,Rio,December,20
+4766,2002,Rio,December,222
+4767,2003,Rio,December,278
+4768,2004,Rio,December,284
+4769,2005,Rio,December,149
+4770,2006,Rio,December,101
+4771,2007,Rio,December,80
+4772,2008,Rio,December,126
+4773,2009,Rio,December,221
+4774,2010,Rio,December,54
+4775,2011,Rio,December,125
+4776,2012,Rio,December,75
+4777,2013,Rio,December,46
+4778,2014,Rio,December,47
+4779,2015,Rio,December,74
+4780,2016,Rio,December,75
+4781,1998,Rio,January,0
+4782,1999,Rio,January,63
+4783,2000,Rio,January,126
+4784,2001,Rio,January,12
+4785,2002,Rio,January,265
+4786,2003,Rio,January,58
+4787,2004,Rio,January,70
+4788,2005,Rio,January,152
+4789,2006,Rio,January,46
+4790,2007,Rio,January,37
+4791,2008,Rio,January,42
+4792,2009,Rio,January,65
+4793,2010,Rio,January,22
+4794,2011,Rio,January,33
+4795,2012,Rio,January,61
+4796,2013,Rio,January,22
+4797,2014,Rio,January,53
+4798,2015,Rio,January,51
+4799,2016,Rio,January,68
+4800,2017,Rio,January,28
+4801,1998,Rio,February,0
+4802,1999,Rio,February,35
+4803,2000,Rio,February,43
+4804,2001,Rio,February,32
+4805,2002,Rio,February,38
+4806,2003,Rio,February,13
+4807,2004,Rio,February,52
+4808,2005,Rio,February,36
+4809,2006,Rio,February,34
+4810,2007,Rio,February,24
+4811,2008,Rio,February,30
+4812,2009,Rio,February,15
+4813,2010,Rio,February,23
+4814,2011,Rio,February,26
+4815,2012,Rio,February,39
+4816,2013,Rio,February,43
+4817,2014,Rio,February,37
+4818,2015,Rio,February,41
+4819,2016,Rio,February,55
+4820,2017,Rio,February,31
+4821,1998,Rio,March,0
+4822,1999,Rio,March,38
+4823,2000,Rio,March,51
+4824,2001,Rio,March,11
+4825,2002,Rio,March,26
+4826,2003,Rio,March,27
+4827,2004,Rio,March,149
+4828,2005,Rio,March,153
+4829,2006,Rio,March,76
+4830,2007,Rio,March,8
+4831,2008,Rio,March,38
+4832,2009,Rio,March,41
+4833,2010,Rio,March,21
+4834,2011,Rio,March,31
+4835,2012,Rio,March,50
+4836,2013,Rio,March,44
+4837,2014,Rio,March,58
+4838,2015,Rio,March,108
+4839,2016,Rio,March,30
+4840,2017,Rio,March,34
+4841,1998,Rio,April,0
+4842,1999,Rio,April,12
+4843,2000,Rio,April,1
+4844,2001,Rio,April,3
+4845,2002,Rio,April,6
+4846,2003,Rio,April,30
+4847,2004,Rio,April,98
+4848,2005,Rio,April,14
+4849,2006,Rio,April,59
+4850,2007,Rio,April,4
+4851,2008,Rio,April,110
+4852,2009,Rio,April,145
+4853,2010,Rio,April,72
+4854,2011,Rio,April,41
+4855,2012,Rio,April,41
+4856,2013,Rio,April,47
+4857,2014,Rio,April,60
+4858,2015,Rio,April,175
+4859,2016,Rio,April,32
+4860,2017,Rio,April,51
+4861,1998,Rio,May,0
+4862,1999,Rio,May,13
+4863,2000,Rio,May,4
+4864,2001,Rio,May,4
+4865,2002,Rio,May,7
+4866,2003,Rio,May,18
+4867,2004,Rio,May,4
+4868,2005,Rio,May,24
+4869,2006,Rio,May,24
+4870,2007,Rio,May,3
+4871,2008,Rio,May,20
+4872,2009,Rio,May,177
+4873,2010,Rio,May,9
+4874,2011,Rio,May,20
+4875,2012,Rio,May,112
+4876,2013,Rio,May,14
+4877,2014,Rio,May,63
+4878,2015,Rio,May,169
+4879,2016,Rio,May,37
+4880,2017,Rio,May,43
+4881,1998,Rio,June,0
+4882,1999,Rio,June,9
+4883,2000,Rio,June,0
+4884,our new data scientist won't notice this,Rio,June,1
+4885,2002,Rio,June,4
+4886,2003,Rio,June,14
+4887,2004,Rio,June,52
+4888,2005,Rio,June,50
+4889,2006,Rio,June,7
+4890,2007,Rio,June,10
+4891,2008,Rio,June,16
+4892,2009,Rio,June,30
+4893,2010,Rio,June,4
+4894,2011,Rio,June,12
+4895,2012,Rio,June,86
+4896,2013,Rio,June,10
+4897,2014,Rio,June,62
+4898,2015,Rio,June,68
+4899,2016,Rio,June,261
+4900,2017,Rio,June,103
+4901,1998,Rio,July,0
+4902,1999,Rio,July,10
+4903,2000,Rio,July,6
+4904,2001,Rio,July,6
+4905,2002,Rio,July,93
+4906,2003,Rio,July,55
+4907,2004,Rio,July,156
+4908,2005,Rio,July,47
+4909,2006,Rio,July,45
+4910,2007,Rio,July,7
+4911,2008,Rio,July,25
+4912,2009,Rio,July,47
+4913,2010,Rio,July,34
+4914,2011,Rio,July,45
+4915,2012,Rio,July,134
+4916,2013,Rio,July,42
+4917,2014,Rio,July,209
+4918,2015,Rio,July,60
+4919,2016,Rio,July,865
+4920,2017,Rio,July,885
+4921,1998,Rio,August,9
+4922,1999,Rio,August,24
+4923,2000,Rio,August,18
+4924,2001,Rio,August,36
+4925,2002,Rio,August,824
+4926,2003,Rio,August,1419
+4927,2004,Rio,August,403
+4928,2005,Rio,August,120
+4929,2006,Rio,August,642
+4930,2007,Rio,August,258
+4931,2008,Rio,August,56
+4932,2009,Rio,August,1057
+4933,2010,Rio,August,267
+4934,2011,Rio,August,116
+4935,2012,Rio,August,410
+4936,2013,Rio,August,156
+4937,2014,Rio,August,1168
+4938,2015,Rio,August,414
+4939,2016,Rio,August,1111
+4940,2017,Rio,August,819
+4941,1998,Rio,September,60
+4942,1999,Rio,September,19
+4943,2000,Rio,September,27
+4944,2001,Rio,September,2
+4945,2002,Rio,September,226
+4946,2003,Rio,September,828
+4947,2004,Rio,September,431
+4948,2005,Rio,September,189
+4949,2006,Rio,September,444
+4950,2007,Rio,September,573
+4951,2008,Rio,September,97
+4952,2009,Rio,September,39
+4953,2010,Rio,September,250
+4954,2011,Rio,September,449
+4955,2012,Rio,September,113
+4956,2013,Rio,September,290
+4957,2014,Rio,September,224
+4958,2015,Rio,September,222
+4959,2016,Rio,September,628
+4960,2017,Rio,September,343
+4961,1998,Rio,October,169
+4962,1999,Rio,October,56
+4963,2000,Rio,October,10
+4964,2001,Rio,October,13
+4965,2002,Rio,October,10
+4966,2003,Rio,October,360
+4967,2004,Rio,October,680
+4968,2005,Rio,October,83
+4969,2006,Rio,October,160
+4970,2007,Rio,October,21
+4971,2008,Rio,October,135
+4972,2009,Rio,October,148
+4973,2010,Rio,October,95
+4974,2011,Rio,October,74
+4975,2012,Rio,October,91
+4976,2013,Rio,October,104
+4977,2014,Rio,October,110
+4978,2015,Rio,October,70
+4979,2016,Rio,October,93
+4980,2017,Rio,October,101
+4981,1998,Rio,November,28
+4982,1999,Rio,November,103
+4983,2000,Rio,November,18
+4984,2001,Rio,November,49
+4985,2002,Rio,November,117
+4986,2003,Rio,November,121
+4987,2004,Rio,November,161
+4988,2005,Rio,November,227
+4989,2006,Rio,November,27
+4990,2007,Rio,November,13
+4991,2008,Rio,November,14
+4992,2009,Rio,November,4
+4993,2010,Rio,November,90
+4994,2011,Rio,November,117
+4995,2012,Rio,November,74
+4996,2013,Rio,November,110
+4997,2014,Rio,November,68
+4998,2015,Rio,November,30
+4999,2016,Rio,November,105
+5000,2017,Rio,November,137
+5001,1998,Rio,December,605
+5002,1999,Rio,December,1110
+5003,2000,Rio,December,80
+5004,2001,Rio,December,80
+5005,2002,Rio,December,45
+5006,2003,Rio,December,98
+5007,2004,Rio,December,99
+5008,2005,Rio,December,35
+5009,2006,Rio,December,15
+5010,2007,Rio,December,25
+5011,2008,Rio,December,32
+5012,2009,Rio,December,15
+5013,2010,Rio,December,103
+5014,2011,Rio,December,69
+5015,2012,Rio,December,38
+5016,2013,Rio,December,62
+5017,2014,Rio,December,31
+5018,2015,Rio,December,42
+5019,2016,Rio,December,79
+5020,1998,Rondonia,January,0
+5021,1999,Rondonia,January,1
+5022,2000,Rondonia,January,0
+5023,2001,Rondonia,January,0
+5024,2002,Rondonia,January,6
+5025,2003,Rondonia,January,62
+5026,2004,Rondonia,January,30
+5027,2005,Rondonia,January,99
+5028,2006,Rondonia,January,16
+5029,2007,Rondonia,January,33
+5030,2008,Rondonia,January,4
+5031,2009,Rondonia,January,17
+5032,2010,Rondonia,January,18
+5033,2011,Rondonia,January,1
+5034,2012,Rondonia,January,2
+5035,2013,Rondonia,January,7
+5036,2014,Rondonia,January,12
+5037,2015,Rondonia,January,30
+5038,2016,Rondonia,January,93
+5039,2017,Rondonia,January,44
+5040,1998,Rondonia,February,0
+5041,1999,Rondonia,February,1
+5042,2000,Rondonia,February,6
+5043,2001,Rondonia,February,2
+5044,2002,Rondonia,February,8
+5045,2003,Rondonia,February,10
+5046,2004,Rondonia,February,12
+5047,2005,Rondonia,February,42
+5048,2006,Rondonia,February,17
+5049,2007,Rondonia,February,8
+5050,2008,Rondonia,February,7
+5051,2009,Rondonia,February,1
+5052,2010,Rondonia,February,9
+5053,2011,Rondonia,February,2
+5054,2012,Rondonia,February,9
+5055,2013,Rondonia,February,8
+5056,2014,Rondonia,February,5
+5057,2015,Rondonia,February,22
+5058,2016,Rondonia,February,88
+5059,2017,Rondonia,February,10
+5060,1998,Rondonia,March,0
+5061,1999,Rondonia,March,8
+5062,2000,Rondonia,March,9
+5063,2001,Rondonia,March,0
+5064,2002,Rondonia,March,1
+5065,2003,Rondonia,March,13
+5066,2004,Rondonia,March,20
+5067,2005,Rondonia,March,17
+5068,2006,Rondonia,March,15
+5069,2007,Rondonia,March,20
+5070,2008,Rondonia,March,2
+5071,2009,Rondonia,March,12
+5072,2010,Rondonia,March,11
+5073,2011,Rondonia,March,6
+5074,2012,Rondonia,March,6
+5075,2013,Rondonia,March,23
+5076,2014,Rondonia,March,13
+5077,2015,Rondonia,March,15
+5078,2016,Rondonia,March,25
+5079,2017,Rondonia,March,21
+5080,1998,Rondonia,April,0
+5081,1999,Rondonia,April,3
+5082,2000,Rondonia,April,0
+5083,2001,Rondonia,April,0
+5084,2002,Rondonia,April,3
+5085,2003,Rondonia,April,10
+5086,2004,Rondonia,April,14
+5087,2005,Rondonia,April,7
+5088,2006,Rondonia,April,0
+5089,2007,Rondonia,April,0
+5090,2008,Rondonia,April,8
+5091,2009,Rondonia,April,3
+5092,2010,Rondonia,April,19
+5093,2011,Rondonia,April,8
+5094,2012,Rondonia,April,12
+5095,2013,Rondonia,April,9
+5096,2014,Rondonia,April,15
+5097,2015,Rondonia,April,15
+5098,2016,Rondonia,April,59
+5099,2017,Rondonia,April,19
+5100,1998,Rondonia,May,0
+5101,1999,Rondonia,May,3
+5102,2000,Rondonia,May,13
+5103,2001,Rondonia,May,5
+5104,2002,Rondonia,May,10
+5105,2003,Rondonia,May,21
+5106,2004,Rondonia,May,9
+5107,2005,Rondonia,May,38
+5108,2006,Rondonia,May,7
+5109,2007,Rondonia,May,4
+5110,2008,Rondonia,May,1
+5111,2009,Rondonia,May,6
+5112,2010,Rondonia,May,41
+5113,2011,Rondonia,May,54
+5114,2012,Rondonia,May,22
+5115,2013,Rondonia,May,9
+5116,2014,Rondonia,May,28
+5117,2015,Rondonia,May,13
+5118,2016,Rondonia,May,44
+5119,2017,Rondonia,May,31
+5120,1998,Rondonia,June,26
+5121,1999,Rondonia,June,10
+5122,2000,Rondonia,June,54
+5123,2001,Rondonia,June,31
+5124,2002,Rondonia,June,141
+5125,2003,Rondonia,June,74
+5126,2004,Rondonia,June,151
+5127,2005,Rondonia,June,153
+5128,2006,Rondonia,June,40
+5129,2007,Rondonia,June,71
+5130,2008,Rondonia,June,11
+5131,2009,Rondonia,June,13
+5132,2010,Rondonia,June,44
+5133,2011,Rondonia,June,130
+5134,2012,Rondonia,June,32
+5135,2013,Rondonia,June,22
+5136,2014,Rondonia,June,92
+5137,2015,Rondonia,June,119
+5138,2016,Rondonia,June,170
+5139,2017,Rondonia,June,192
+5140,1998,Rondonia,July,365
+5141,1999,Rondonia,July,135
+5142,2000,Rondonia,July,117
+5143,2001,Rondonia,July,74
+5144,2002,Rondonia,July,539
+5145,2003,Rondonia,July,516
+5146,2004,Rondonia,July,1233
+5147,2005,Rondonia,July,798
+5148,2006,Rondonia,July,314
+5149,2007,Rondonia,July,187
+5150,2008,Rondonia,July,138
+5151,2009,Rondonia,July,110
+5152,2010,Rondonia,July,747
+5153,2011,Rondonia,July,293
+5154,2012,Rondonia,July,205
+5155,2013,Rondonia,July,117
+5156,2014,Rondonia,July,192
+5157,2015,Rondonia,July,423
+5158,2016,Rondonia,July,969
+5159,2017,Rondonia,July,1280
+5160,1998,Rondonia,August,2254
+5161,1999,Rondonia,August,1976
+5162,2000,Rondonia,August,2197
+5163,2001,Rondonia,August,2132
+5164,2002,Rondonia,August,3465
+5165,2003,Rondonia,August,7060
+5166,2004,Rondonia,August,6893
+5167,2005,Rondonia,August,6672
+5168,2006,Rondonia,August,3124
+5169,2007,Rondonia,August,4786
+5170,2008,Rondonia,August,1251
+5171,2009,Rondonia,August,484
+5172,2010,Rondonia,August,4388
+5173,2011,Rondonia,August,1161
+5174,2012,Rondonia,August,2209
+5175,2013,Rondonia,August,885
+5176,2014,Rondonia,August,3038
+5177,2015,Rondonia,August,3762
+5178,2016,Rondonia,August,3675
+5179,2017,Rondonia,August,4287
+5180,1998,Rondonia,September,3753
+5181,1999,Rondonia,September,3062
+5182,2000,Rondonia,September,2438
+5183,2001,Rondonia,September,1927
+5184,2002,Rondonia,September,7067
+5185,2003,Rondonia,September,6890
+5186,2004,Rondonia,September,13050
+5187,2005,Rondonia,September,13972
+5188,2006,Rondonia,September,9920
+5189,2007,Rondonia,September,6832
+5190,2008,Rondonia,September,3726
+5191,2009,Rondonia,September,1869
+5192,2010,Rondonia,September,4893
+5193,2011,Rondonia,September,1782
+5194,2012,Rondonia,September,2471
+5195,2013,Rondonia,September,1776
+5196,2014,Rondonia,September,2800
+5197,2015,Rondonia,September,6129
+5198,2016,Rondonia,September,4208
+5199,2017,Rondonia,September,5638
+5200,1998,Rondonia,October,483
+5201,1999,Rondonia,October,1884
+5202,2000,Rondonia,October,644
+5203,2001,Rondonia,October,796
+5204,2002,Rondonia,October,3554
+5205,2003,Rondonia,October,4962
+5206,2004,Rondonia,October,3094
+5207,2005,Rondonia,October,2559
+5208,2006,Rondonia,October,1148
+5209,2007,Rondonia,October,2023
+5210,2008,Rondonia,October,1482
+5211,2009,Rondonia,October,1444
+5212,2010,Rondonia,October,1307
+5213,2011,Rondonia,October,822
+5214,2012,Rondonia,October,1229
+5215,2013,Rondonia,October,555
+5216,2014,Rondonia,October,1063
+5217,2015,Rondonia,October,2598
+5218,2016,Rondonia,October,1844
+5219,2017,Rondonia,October,2190
+5220,1998,Rondonia,November,3
+5221,1999,Rondonia,November,41
+5222,2000,Rondonia,November,13
+5223,2001,Rondonia,November,91
+5224,2002,Rondonia,November,639
+5225,2003,Rondonia,November,526
+5226,2004,Rondonia,November,452
+5227,2005,Rondonia,November,465
+5228,2006,Rondonia,November,253
+5229,2007,Rondonia,November,53
+5230,2008,Rondonia,November,78
+5231,2009,Rondonia,November,128
+5232,2010,Rondonia,November,238
+5233,2011,Rondonia,November,245
+5234,2012,Rondonia,November,174
+5235,2013,Rondonia,November,108
+5236,2014,Rondonia,November,202
+5237,2015,Rondonia,November,1002
+5238,2016,Rondonia,November,401
+5239,2017,Rondonia,November,372
+5240,1998,Rondonia,December,33
+5241,1999,Rondonia,December,0
+5242,2000,Rondonia,December,7
+5243,2001,Rondonia,December,1
+5244,2002,Rondonia,December,91
+5245,2003,Rondonia,December,214
+5246,2004,Rondonia,December,208
+5247,2005,Rondonia,December,36
+5248,2006,Rondonia,December,4
+5249,2007,Rondonia,December,6
+5250,2008,Rondonia,December,2
+5251,2009,Rondonia,December,9
+5252,2010,Rondonia,December,158
+5253,2011,Rondonia,December,37
+5254,2012,Rondonia,December,50
+5255,2013,Rondonia,December,143
+5256,2014,Rondonia,December,144
+5257,2015,Rondonia,December,282
+5258,2016,Rondonia,December,148
+5259,1998,Roraima,January,0
+5260,1999,Roraima,January,15
+5261,2000,Roraima,January,18
+5262,2001,Roraima,January,101
+5263,2002,Roraima,January,302
+5264,2003,Roraima,January,547
+5265,2004,Roraima,January,355
+5266,2005,Roraima,January,106
+5267,2006,Roraima,January,70
+5268,2007,Roraima,January,194
+5269,2008,Roraima,January,245
+5270,2009,Roraima,January,45
+5271,2010,Roraima,January,351
+5272,2011,Roraima,January,225
+5273,2012,Roraima,January,217
+5274,2013,Roraima,January,397
+5275,2014,Roraima,January,355
+5276,2015,Roraima,January,330
+5277,2016,Roraima,January,1754
+5278,2017,Roraima,January,108
+5279,1998,Roraima,February,0
+5280,1999,Roraima,February,20
+5281,2000,Roraima,February,57
+5282,2001,Roraima,February,646
+5283,2002,Roraima,February,476
+5284,2003,Roraima,February,767
+5285,2004,Roraima,February,259
+5286,2005,Roraima,February,105
+5287,2006,Roraima,February,283
+5288,2007,Roraima,February,796
+5289,2008,Roraima,February,138
+5290,2009,Roraima,February,153
+5291,2010,Roraima,February,470
+5292,2011,Roraima,February,112
+5293,2012,Roraima,February,130
+5294,2013,Roraima,February,62
+5295,2014,Roraima,February,226
+5296,2015,Roraima,February,418
+5297,2016,Roraima,February,171
+5298,2017,Roraima,February,129
+5299,1998,Roraima,March,0
+5300,1999,Roraima,March,98
+5301,2000,Roraima,March,125
+5302,2001,Roraima,March,1108
+5303,2002,Roraima,March,820
+5304,2003,Roraima,March,1131
+5305,2004,Roraima,March,276
+5306,2005,Roraima,March,244
+5307,2006,Roraima,March,385
+5308,2007,Roraima,March,665
+5309,2008,Roraima,March,422
+5310,2009,Roraima,March,176
+5311,2010,Roraima,March,417
+5312,2011,Roraima,March,91
+5313,2012,Roraima,March,99
+5314,2013,Roraima,March,179
+5315,2014,Roraima,March,494
+5316,2015,Roraima,March,163
+5317,2016,Roraima,March,1081
+5318,2017,Roraima,March,216
+5319,1998,Roraima,April,0
+5320,1999,Roraima,April,16
+5321,2000,Roraima,April,0
+5322,2001,Roraima,April,380
+5323,2002,Roraima,April,41
+5324,2003,Roraima,April,268
+5325,2004,Roraima,April,182
+5326,2005,Roraima,April,22
+5327,2006,Roraima,April,201
+5328,2007,Roraima,April,58
+5329,2008,Roraima,April,175
+5330,2009,Roraima,April,115
+5331,2010,Roraima,April,15
+5332,2011,Roraima,April,108
+5333,2012,Roraima,April,25
+5334,2013,Roraima,April,87
+5335,2014,Roraima,April,162
+5336,2015,Roraima,April,278
+5337,2016,Roraima,April,126
+5338,2017,Roraima,April,51
+5339,1998,Roraima,May,0
+5340,1999,Roraima,May,0
+5341,2000,Roraima,May,7
+5342,2001,Roraima,May,9
+5343,2002,Roraima,May,0
+5344,2003,Roraima,May,0
+5345,2004,Roraima,May,2
+5346,2005,Roraima,May,1
+5347,2006,Roraima,May,0
+5348,2007,Roraima,May,0
+5349,2008,Roraima,May,8
+5350,2009,Roraima,May,219
+5351,2010,Roraima,May,3
+5352,2011,Roraima,May,4
+5353,2012,Roraima,May,18
+5354,2013,Roraima,May,4
+5355,2014,Roraima,May,58
+5356,2015,Roraima,May,12
+5357,2016,Roraima,May,22
+5358,2017,Roraima,May,29
+5359,1998,Roraima,June,0
+5360,1999,Roraima,June,3
+5361,2000,Roraima,June,0
+5362,2001,Roraima,June,1
+5363,2002,Roraima,June,0
+5364,2003,Roraima,June,0
+5365,2004,Roraima,June,6
+5366,2005,Roraima,June,5
+5367,2006,Roraima,June,0
+5368,2007,Roraima,June,1
+5369,2008,Roraima,June,0
+5370,2009,Roraima,June,16
+5371,2010,Roraima,June,0
+5372,2011,Roraima,June,6
+5373,2012,Roraima,June,22
+5374,2013,Roraima,June,6
+5375,2014,Roraima,June,4
+5376,2015,Roraima,June,3
+5377,2016,Roraima,June,7
+5378,2017,Roraima,June,4
+5379,1998,Roraima,July,1
+5380,1999,Roraima,July,4
+5381,2000,Roraima,July,0
+5382,2001,Roraima,July,1
+5383,2002,Roraima,July,7
+5384,2003,Roraima,July,0
+5385,2004,Roraima,July,2
+5386,2005,Roraima,July,2
+5387,2006,Roraima,July,0
+5388,2007,Roraima,July,3
+5389,2008,Roraima,July,0
+5390,2009,Roraima,July,18
+5391,2010,Roraima,July,1
+5392,2011,Roraima,July,9
+5393,2012,Roraima,July,2
+5394,2013,Roraima,July,4
+5395,2014,Roraima,July,9
+5396,2015,Roraima,July,5
+5397,2016,Roraima,July,0
+5398,2017,Roraima,July,3
+5399,1998,Roraima,August,0
+5400,1999,Roraima,August,1
+5401,2000,Roraima,August,9
+5402,2001,Roraima,August,4
+5403,2002,Roraima,August,7
+5404,2003,Roraima,August,2
+5405,2004,Roraima,August,18
+5406,2005,Roraima,August,9
+5407,2006,Roraima,August,4
+5408,2007,Roraima,August,2
+5409,2008,Roraima,August,4
+5410,2009,Roraima,August,29
+5411,2010,Roraima,August,3
+5412,2011,Roraima,August,39
+5413,2012,Roraima,August,4
+5414,2013,Roraima,August,3
+5415,2014,Roraima,August,12
+5416,2015,Roraima,August,11
+5417,2016,Roraima,August,11
+5418,2017,Roraima,August,35
+5419,1998,Roraima,September,2
+5420,1999,Roraima,September,3
+5421,2000,Roraima,September,12
+5422,2001,Roraima,September,1
+5423,2002,Roraima,September,48
+5424,2003,Roraima,September,6
+5425,2004,Roraima,September,9
+5426,2005,Roraima,September,72
+5427,2006,Roraima,September,40
+5428,2007,Roraima,September,9
+5429,2008,Roraima,September,17
+5430,2009,Roraima,September,117
+5431,2010,Roraima,September,18
+5432,2011,Roraima,September,53
+5433,2012,Roraima,September,67
+5434,2013,Roraima,September,18
+5435,2014,Roraima,September,67
+5436,2015,Roraima,September,77
+5437,2016,Roraima,September,19
+5438,2017,Roraima,September,43
+5439,1998,Roraima,October,1
+5440,1999,Roraima,October,10
+5441,2000,Roraima,October,25
+5442,2001,Roraima,October,13
+5443,2002,Roraima,October,191
+5444,2003,Roraima,October,14
+5445,2004,Roraima,October,53
+5446,2005,Roraima,October,88
+5447,2006,Roraima,October,135
+5448,2007,Roraima,October,15
+5449,2008,Roraima,October,78
+5450,2009,Roraima,October,197
+5451,2010,Roraima,October,64
+5452,2011,Roraima,October,65
+5453,2012,Roraima,October,152
+5454,2013,Roraima,October,63
+5455,2014,Roraima,October,61
+5456,2015,Roraima,October,181
+5457,2016,Roraima,October,101
+5458,2017,Roraima,October,156
+5459,1998,Roraima,November,1
+5460,1999,Roraima,November,15
+5461,2000,Roraima,November,32
+5462,2001,Roraima,November,76
+5463,2002,Roraima,November,133
+5464,2003,Roraima,November,27
+5465,2004,Roraima,November,135
+5466,2005,Roraima,November,135
+5467,2006,Roraima,November,26
+5468,2007,Roraima,November,112
+5469,2008,Roraima,November,39
+5470,2009,Roraima,November,312
+5471,2010,Roraima,November,27
+5472,2011,Roraima,November,121
+5473,2012,Roraima,November,187
+5474,2013,Roraima,November,106
+5475,2014,Roraima,November,143
+5476,2015,Roraima,November,280
+5477,2016,Roraima,November,71
+5478,2017,Roraima,November,327
+5479,1998,Roraima,December,16
+5480,1999,Roraima,December,35
+5481,2000,Roraima,December,77
+5482,2001,Roraima,December,76
+5483,2002,Roraima,December,199
+5484,2003,Roraima,December,157
+5485,2004,Roraima,December,160
+5486,2005,Roraima,December,71
+5487,2006,Roraima,December,101
+5488,2007,Roraima,December,8
+5489,2008,Roraima,December,5
+5490,2009,Roraima,December,290
+5491,2010,Roraima,December,73
+5492,2011,Roraima,December,249
+5493,2012,Roraima,December,78
+5494,2013,Roraima,December,65
+5495,2014,Roraima,December,277
+5496,2015,Roraima,December,304
+5497,2016,Roraima,December,136
+5498,1998,Santa Catarina,January,0
+5499,1999,Santa Catarina,January,11
+5500,2000,Santa Catarina,January,14
+5501,2001,Santa Catarina,January,11
+5502,2002,Santa Catarina,January,22
+5503,2003,Santa Catarina,January,45
+5504,2004,Santa Catarina,January,37
+5505,2005,Santa Catarina,January,46
+5506,2006,Santa Catarina,January,41
+5507,2007,Santa Catarina,January,9
+5508,2008,Santa Catarina,January,25
+5509,2009,Santa Catarina,January,21
+5510,2010,Santa Catarina,January,2
+5511,2011,Santa Catarina,January,9
+5512,2012,Santa Catarina,January,14
+5513,2013,Santa Catarina,January,18
+5514,2014,Santa Catarina,January,58
+5515,2015,Santa Catarina,January,28
+5516,2016,Santa Catarina,January,53
+5517,2017,Santa Catarina,January,46
+5518,1998,Santa Catarina,February,0
+5519,1999,Santa Catarina,February,2
+5520,2000,Santa Catarina,February,8
+5521,2001,Santa Catarina,February,0
+5522,2002,Santa Catarina,February,5
+5523,2003,Santa Catarina,February,43
+5524,2004,Santa Catarina,February,29
+5525,2005,Santa Catarina,February,46
+5526,2006,Santa Catarina,February,18
+5527,2007,Santa Catarina,February,14
+5528,2008,Santa Catarina,February,29
+5529,2009,Santa Catarina,February,7
+5530,2010,Santa Catarina,February,15
+5531,2011,Santa Catarina,February,1
+5532,2012,Santa Catarina,February,13
+5533,2013,Santa Catarina,February,12
+5534,2014,Santa Catarina,February,27
+5535,2015,Santa Catarina,February,23
+5536,2016,Santa Catarina,February,10
+5537,2017,Santa Catarina,February,31
+5538,1998,Santa Catarina,March,0
+5539,1999,Santa Catarina,March,7
+5540,2000,Santa Catarina,March,46
+5541,2001,Santa Catarina,March,1
+5542,2002,Santa Catarina,March,12
+5543,2003,Santa Catarina,March,58
+5544,2004,Santa Catarina,March,73
+5545,2005,Santa Catarina,March,92
+5546,2006,Santa Catarina,March,48
+5547,2007,Santa Catarina,March,23
+5548,2008,Santa Catarina,March,14
+5549,2009,Santa Catarina,March,33
+5550,2010,Santa Catarina,March,9
+5551,2011,Santa Catarina,March,8
+5552,2012,Santa Catarina,March,65
+5553,2013,Santa Catarina,March,14
+5554,2014,Santa Catarina,March,15
+5555,2015,Santa Catarina,March,37
+5556,2016,Santa Catarina,March,21
+5557,2017,Santa Catarina,March,12
+5558,1998,Santa Catarina,April,0
+5559,1999,Santa Catarina,April,0
+5560,2000,Santa Catarina,April,7
+5561,2001,Santa Catarina,April,1
+5562,2002,Santa Catarina,April,7
+5563,2003,Santa Catarina,April,120
+5564,2004,Santa Catarina,April,59
+5565,2005,Santa Catarina,April,25
+5566,2006,Santa Catarina,April,30
+5567,2007,Santa Catarina,April,2
+5568,2008,Santa Catarina,April,31
+5569,2009,Santa Catarina,April,57
+5570,2010,Santa Catarina,April,19
+5571,2011,Santa Catarina,April,5
+5572,2012,Santa Catarina,April,40
+5573,2013,Santa Catarina,April,46
+5574,2014,Santa Catarina,April,34
+5575,2015,Santa Catarina,April,32
+5576,2016,Santa Catarina,April,36
+5577,2017,Santa Catarina,April,26
+5578,1998,Santa Catarina,May,0
+5579,1999,Santa Catarina,May,1
+5580,2000,Santa Catarina,May,0
+5581,2001,Santa Catarina,May,2
+5582,2002,Santa Catarina,May,3
+5583,2003,Santa Catarina,May,"84,1"
+5584,2004,Santa Catarina,May,2
+5585,2005,Santa Catarina,May,21
+5586,2006,Santa Catarina,May,33
+5587,2007,Santa Catarina,May,2
+5588,2008,Santa Catarina,May,15
+5589,2009,Santa Catarina,May,33
+5590,2010,Santa Catarina,May,1
+5591,2011,Santa Catarina,May,16
+5592,2012,Santa Catarina,May,60
+5593,2013,Santa Catarina,May,52
+5594,2014,Santa Catarina,May,42
+5595,2015,Santa Catarina,May,70
+5596,2016,Santa Catarina,May,26
+5597,2017,Santa Catarina,May,36
+5598,1998,Santa Catarina,June,2
+5599,1999,Santa Catarina,June,0
+5600,2000,Santa Catarina,June,2
+5601,2001,Santa Catarina,June,1
+5602,2002,Santa Catarina,June,0
+5603,2003,Santa Catarina,June,68
+5604,2004,Santa Catarina,June,127
+5605,2005,Santa Catarina,June,58
+5606,2006,Santa Catarina,June,32
+5607,2007,Santa Catarina,June,11
+5608,2008,Santa Catarina,June,2
+5609,2009,Santa Catarina,June,14
+5610,2010,Santa Catarina,June,1
+5611,2011,Santa Catarina,June,26
+5612,2012,Santa Catarina,June,42
+5613,2013,Santa Catarina,June,31
+5614,2014,Santa Catarina,June,3
+5615,2015,Santa Catarina,June,104
+5616,2016,Santa Catarina,June,79
+5617,2017,Santa Catarina,June,70
+5618,1998,Santa Catarina,July,0
+5619,1999,Santa Catarina,July,2
+5620,2000,Santa Catarina,July,21
+5621,2001,Santa Catarina,July,5
+5622,2002,Santa Catarina,July,82
+5623,2003,Santa Catarina,July,43
+5624,2004,Santa Catarina,July,94
+5625,2005,Santa Catarina,July,90
+5626,2006,Santa Catarina,July,74
+5627,2007,Santa Catarina,July,12
+5628,2008,Santa Catarina,July,46
+5629,2009,Santa Catarina,July,26
+5630,2010,Santa Catarina,July,31
+5631,2011,Santa Catarina,July,31
+5632,2012,Santa Catarina,July,42
+5633,2013,Santa Catarina,July,69
+5634,2014,Santa Catarina,July,82
+5635,2015,Santa Catarina,July,45
+5636,2016,Santa Catarina,July,480
+5637,2017,Santa Catarina,July,591
+5638,1998,Santa Catarina,August,0
+5639,1999,Santa Catarina,August,51
+5640,2000,Santa Catarina,August,69
+5641,2001,Santa Catarina,August,24
+5642,2002,Santa Catarina,August,702
+5643,2003,Santa Catarina,August,1513
+5644,2004,Santa Catarina,August,728
+5645,2005,Santa Catarina,August,391
+5646,2006,Santa Catarina,August,728
+5647,2007,Santa Catarina,August,462
+5648,2008,Santa Catarina,August,51
+5649,2009,Santa Catarina,August,759
+5650,2010,Santa Catarina,August,511
+5651,2011,Santa Catarina,August,175
+5652,2012,Santa Catarina,August,398
+5653,2013,Santa Catarina,August,236
+5654,2014,Santa Catarina,August,459
+5655,2015,Santa Catarina,August,379
+5656,2016,Santa Catarina,August,765
+5657,2017,Santa Catarina,August,713
+5658,1998,Santa Catarina,September,6
+5659,1999,Santa Catarina,September,101
+5660,2000,Santa Catarina,September,36
+5661,2001,Santa Catarina,September,18
+5662,2002,Santa Catarina,September,416
+5663,2003,Santa Catarina,September,1339
+5664,2004,Santa Catarina,September,755
+5665,2005,Santa Catarina,September,116
+5666,2006,Santa Catarina,September,530
+5667,2007,Santa Catarina,September,617
+5668,2008,Santa Catarina,September,233
+5669,2009,Santa Catarina,September,47
+5670,2010,Santa Catarina,September,198
+5671,2011,Santa Catarina,September,450
+5672,2012,Santa Catarina,September,188
+5673,2013,Santa Catarina,September,303
+5674,2014,Santa Catarina,September,208
+5675,2015,Santa Catarina,September,156
+5676,2016,Santa Catarina,September,644
+5677,2017,Santa Catarina,September,626
+5678,1998,Santa Catarina,October,4
+5679,1999,Santa Catarina,October,16
+5680,2000,Santa Catarina,October,55
+5681,2001,Santa Catarina,October,26
+5682,2002,Santa Catarina,October,42
+5683,2003,Santa Catarina,October,669
+5684,2004,Santa Catarina,October,704
+5685,2005,Santa Catarina,October,197
+5686,2006,Santa Catarina,October,269
+5687,2007,Santa Catarina,October,35
+5688,2008,Santa Catarina,October,56
+5689,2009,Santa Catarina,October,252
+5690,2010,Santa Catarina,October,76
+5691,2011,Santa Catarina,October,102
+5692,2012,Santa Catarina,October,34
+5693,2013,Santa Catarina,October,107
+5694,2014,Santa Catarina,October,122
+5695,2015,Santa Catarina,October,21
+5696,2016,Santa Catarina,October,56
+5697,2017,Santa Catarina,October,51
+5698,1998,Santa Catarina,November,21
+5699,1999,Santa Catarina,November,84
+5700,2000,Santa Catarina,November,19
+5701,2001,Santa Catarina,November,66
+5702,2002,Santa Catarina,November,348
+5703,2003,Santa Catarina,November,347
+5704,2004,Santa Catarina,November,279
+5705,2005,Santa Catarina,November,384
+5706,2006,Santa Catarina,November,45
+5707,2007,Santa Catarina,November,26
+5708,2008,Santa Catarina,November,16
+5709,2009,Santa Catarina,November,61
+5710,2010,Santa Catarina,November,88
+5711,2011,Santa Catarina,November,79
+5712,2012,Santa Catarina,November,72
+5713,2013,Santa Catarina,November,84
+5714,2014,Santa Catarina,November,43
+5715,2015,Santa Catarina,November,9
+5716,2016,Santa Catarina,November,156
+5717,2017,Santa Catarina,November,152
+5718,1998,Santa Catarina,December,26
+5719,1999,Santa Catarina,December,89
+5720,2000,Santa Catarina,December,29
+5721,2001,Santa Catarina,December,45
+5722,2002,Santa Catarina,December,76
+5723,2003,Santa Catarina,December,129
+5724,2004,Santa Catarina,December,68
+5725,2005,Santa Catarina,December,17
+5726,2006,Santa Catarina,December,7
+5727,2007,Santa Catarina,December,17
+5728,2008,Santa Catarina,December,29
+5729,2009,Santa Catarina,December,20
+5730,2010,Santa Catarina,December,23
+5731,2011,Santa Catarina,December,24
+5732,2012,Santa Catarina,December,32
+5733,2013,Santa Catarina,December,74
+5734,2014,Santa Catarina,December,45
+5735,2015,Santa Catarina,December,19
+5736,2016,Santa Catarina,December,20
+5737,1998,Sao Paulo,January,0
+5738,1999,Sao Paulo,January,7
+5739,2000,Sao Paulo,January,36
+5740,2001,Sao Paulo,January,26
+5741,2002,Sao Paulo,January,19
+5742,2003,Sao Paulo,January,59
+5743,2004,Sao Paulo,January,37
+5744,2005,Sao Paulo,January,26
+5745,2006,Sao Paulo,January,76
+5746,2007,Sao Paulo,January,14
+5747,2008,Sao Paulo,January,34
+5748,2009,Sao Paulo,January,12
+5749,2010,Sao Paulo,January,45
+5750,2011,Sao Paulo,January,75
+5751,2012,Sao Paulo,January,38
+5752,2013,Sao Paulo,January,36
+5753,2014,Sao Paulo,January,99
+5754,2015,Sao Paulo,January,120
+5755,2016,Sao Paulo,January,85
+5756,2017,Sao Paulo,January,28
+5757,1998,Sao Paulo,February,0
+5758,1999,Sao Paulo,February,47
+5759,2000,Sao Paulo,February,25
+5760,2001,Sao Paulo,February,25
+5761,2002,Sao Paulo,February,19
+5762,2003,Sao Paulo,February,137
+5763,2004,Sao Paulo,February,41
+5764,2005,Sao Paulo,February,78
+5765,2006,Sao Paulo,February,59
+5766,2007,Sao Paulo,February,96
+5767,2008,Sao Paulo,February,30
+5768,2009,Sao Paulo,February,65
+5769,2010,Sao Paulo,February,152
+5770,2011,Sao Paulo,February,73
+5771,2012,Sao Paulo,February,81
+5772,2013,Sao Paulo,February,100
+5773,2014,Sao Paulo,February,112
+5774,2015,Sao Paulo,February,69
+5775,2016,Sao Paulo,February,188
+5776,2017,Sao Paulo,February,107
+5777,1998,Sao Paulo,March,0
+5778,1999,Sao Paulo,March,78
+5779,2000,Sao Paulo,March,26
+5780,2001,Sao Paulo,March,35
+5781,2002,Sao Paulo,March,111
+5782,2003,Sao Paulo,March,86
+5783,2004,Sao Paulo,March,73
+5784,2005,Sao Paulo,March,73
+5785,2006,Sao Paulo,March,106
+5786,2007,Sao Paulo,March,152
+5787,2008,Sao Paulo,March,72
+5788,2009,Sao Paulo,March,55
+5789,2010,Sao Paulo,March,111
+5790,2011,Sao Paulo,March,45
+5791,2012,Sao Paulo,March,99
+5792,2013,Sao Paulo,March,57
+5793,2014,Sao Paulo,March,75
+5794,2015,Sao Paulo,March,68
+5795,2016,Sao Paulo,March,82
+5796,2017,Sao Paulo,March,103
+5797,1998,Sao Paulo,April,0
+5798,1999,Sao Paulo,April,291
+5799,2000,Sao Paulo,April,102
+5800,2001,Sao Paulo,April,61
+5801,2002,Sao Paulo,April,178
+5802,2003,Sao Paulo,April,106
+5803,2004,Sao Paulo,April,36
+5804,2005,Sao Paulo,April,62
+5805,2006,Sao Paulo,April,63
+5806,2007,Sao Paulo,April,44
+5807,2008,Sao Paulo,April,84
+5808,2009,Sao Paulo,April,67
+5809,2010,Sao Paulo,April,91
+5810,2011,Sao Paulo,April,52
+5811,2012,Sao Paulo,April,82
+5812,2013,Sao Paulo,April,103
+5813,2014,Sao Paulo,April,103
+5814,2015,Sao Paulo,April,76
+5815,2016,Sao Paulo,April,307
+5816,2017,Sao Paulo,April,41
+5817,1998,Sao Paulo,May,0
+5818,1999,Sao Paulo,May,500
+5819,2000,Sao Paulo,May,300
+5820,2001,Sao Paulo,May,211
+5821,2002,Sao Paulo,May,319
+5822,2003,Sao Paulo,May,69
+5823,2004,Sao Paulo,May,60
+5824,2005,Sao Paulo,May,212
+5825,2006,Sao Paulo,May,88
+5826,2007,Sao Paulo,May,69
+5827,2008,Sao Paulo,May,40
+5828,2009,Sao Paulo,May,142
+5829,2010,Sao Paulo,May,150
+5830,2011,Sao Paulo,May,136
+5831,2012,Sao Paulo,May,82
+5832,2013,Sao Paulo,May,118
+5833,2014,Sao Paulo,May,181
+5834,2015,Sao Paulo,May,65
+5835,2016,Sao Paulo,May,139
+5836,2017,Sao Paulo,May,43
+5837,1998,Sao Paulo,June,451
+5838,1999,Sao Paulo,June,522
+5839,2000,Sao Paulo,June,606
+5840,2001,Sao Paulo,June,346
+5841,2002,Sao Paulo,June,562
+5842,2003,Sao Paulo,June,132
+5843,2004,Sao Paulo,June,231
+5844,2005,Sao Paulo,June,236
+5845,2006,Sao Paulo,June,97
+5846,2007,Sao Paulo,June,91
+5847,2008,Sao Paulo,June,25
+5848,2009,Sao Paulo,June,125
+5849,2010,Sao Paulo,June,143
+5850,2011,Sao Paulo,June,210
+5851,2012,Sao Paulo,June,30
+5852,2013,Sao Paulo,June,47
+5853,2014,Sao Paulo,June,331
+5854,2015,Sao Paulo,June,147
+5855,2016,Sao Paulo,June,197
+5856,2017,Sao Paulo,June,217
+5857,1998,Sao Paulo,July,596
+5858,1999,Sao Paulo,July,684
+5859,2000,Sao Paulo,July,770
+5860,2001,Sao Paulo,July,538
+5861,2002,Sao Paulo,July,448
+5862,2003,Sao Paulo,July,171
+5863,2004,Sao Paulo,July,342
+5864,2005,Sao Paulo,July,284
+5865,2006,Sao Paulo,July,245
+5866,2007,Sao Paulo,July,94
+5867,2008,Sao Paulo,July,126
+5868,2009,Sao Paulo,July,110
+5869,2010,Sao Paulo,July,600
+5870,2011,Sao Paulo,July,479
+5871,2012,Sao Paulo,July,179
+5872,2013,Sao Paulo,July,181
+5873,2014,Sao Paulo,July,476
+5874,2015,Sao Paulo,July,149
+5875,2016,Sao Paulo,July,687
+5876,2017,Sao Paulo,July,802
+5877,1998,Sao Paulo,August,581
+5878,1999,Sao Paulo,August,1211
+5879,2000,Sao Paulo,August,915
+5880,2001,Sao Paulo,August,595
+5881,2002,Sao Paulo,August,719
+5882,2003,Sao Paulo,August,934
+5883,2004,Sao Paulo,August,794
+5884,2005,Sao Paulo,August,522
+5885,2006,Sao Paulo,August,572
+5886,2007,Sao Paulo,August,470
+5887,2008,Sao Paulo,August,153
+5888,2009,Sao Paulo,August,289
+5889,2010,Sao Paulo,August,1809
+5890,2011,Sao Paulo,August,1067
+5891,2012,Sao Paulo,August,435
+5892,2013,Sao Paulo,August,497
+5893,2014,Sao Paulo,August,1458
+5894,2015,Sao Paulo,August,643
+5895,2016,Sao Paulo,August,797
+5896,2017,Sao Paulo,August,981
+5897,1998,Sao Paulo,September,525
+5898,1999,Sao Paulo,September,911
+5899,2000,Sao Paulo,September,582
+5900,2001,Sao Paulo,September,425
+5901,2002,Sao Paulo,September,302
+5902,2003,Sao Paulo,September,977
+5903,2004,Sao Paulo,September,809
+5904,2005,Sao Paulo,September,231
+5905,2006,Sao Paulo,September,694
+5906,2007,Sao Paulo,September,495
+5907,2008,Sao Paulo,September,486
+5908,2009,Sao Paulo,September,116
+5909,2010,Sao Paulo,September,1677
+5910,2011,Sao Paulo,September,1108
+5911,2012,Sao Paulo,September,813
+5912,2013,Sao Paulo,September,560
+5913,2014,Sao Paulo,September,882
+5914,2015,Sao Paulo,September,368
+5915,2016,Sao Paulo,September,490
+5916,2017,Sao Paulo,September,2868
+5917,1998,Sao Paulo,October,434
+5918,1999,Sao Paulo,October,763
+5919,2000,Sao Paulo,October,647
+5920,2001,Sao Paulo,October,444
+5921,2002,Sao Paulo,October,733
+5922,2003,Sao Paulo,October,422
+5923,2004,Sao Paulo,October,195
+5924,2005,Sao Paulo,October,221
+5925,2006,Sao Paulo,October,153
+5926,2007,Sao Paulo,October,281
+5927,2008,Sao Paulo,October,87
+5928,2009,Sao Paulo,October,64
+5929,2010,Sao Paulo,October,260
+5930,2011,Sao Paulo,October,188
+5931,2012,Sao Paulo,October,206
+5932,2013,Sao Paulo,October,127
+5933,2014,Sao Paulo,October,887
+5934,2015,Sao Paulo,October,213
+5935,2016,Sao Paulo,October,177
+5936,2017,Sao Paulo,October,179
+5937,1998,Sao Paulo,November,488
+5938,1999,Sao Paulo,November,398
+5939,2000,Sao Paulo,November,96
+5940,2001,Sao Paulo,November,168
+5941,2002,Sao Paulo,November,72
+5942,2003,Sao Paulo,November,155
+5943,2004,Sao Paulo,November,144
+5944,2005,Sao Paulo,November,163
+5945,2006,Sao Paulo,November,43
+5946,2007,Sao Paulo,November,50
+5947,2008,Sao Paulo,November,20
+5948,2009,Sao Paulo,November,83
+5949,2010,Sao Paulo,November,104
+5950,2011,Sao Paulo,November,87
+5951,2012,Sao Paulo,November,50
+5952,2013,Sao Paulo,November,120
+5953,2014,Sao Paulo,November,56
+5954,2015,Sao Paulo,November,21
+5955,2016,Sao Paulo,November,39
+5956,2017,Sao Paulo,November,37
+5957,1998,Sao Paulo,December,121
+5958,1999,Sao Paulo,December,47
+5959,2000,Sao Paulo,December,23
+5960,2001,Sao Paulo,December,52
+5961,2002,Sao Paulo,December,57
+5962,2003,Sao Paulo,December,58
+5963,2004,Sao Paulo,December,102
+5964,2005,Sao Paulo,December,15
+5965,2006,Sao Paulo,December,13
+5966,2007,Sao Paulo,December,21
+5967,2008,Sao Paulo,December,36
+5968,2009,Sao Paulo,December,37
+5969,2010,Sao Paulo,December,52
+5970,2011,Sao Paulo,December,53
+5971,2012,Sao Paulo,December,64
+5972,2013,Sao Paulo,December,109
+5973,2014,Sao Paulo,December,57
+5974,2015,Sao Paulo,December,45
+5975,2016,Sao Paulo,December,47
+5976,1998,Sergipe,January,0
+5977,1999,Sergipe,January,36
+5978,2000,Sergipe,January,1
+5979,2001,Sergipe,January,2
+5980,2002,Sergipe,January,1
+5981,2003,Sergipe,January,198
+5982,2004,Sergipe,January,16
+5983,2005,Sergipe,January,80
+5984,2006,Sergipe,January,36
+5985,2007,Sergipe,January,56
+5986,2008,Sergipe,January,100
+5987,2009,Sergipe,January,60
+5988,2010,Sergipe,January,29
+5989,2011,Sergipe,January,36
+5990,2012,Sergipe,January,39
+5991,2013,Sergipe,January,34
+5992,2014,Sergipe,January,20
+5993,2015,Sergipe,January,44
+5994,2016,Sergipe,January,9
+5995,2017,Sergipe,January,31
+5996,1998,Sergipe,February,0
+5997,1999,Sergipe,February,25
+5998,2000,Sergipe,February,6
+5999,2001,Sergipe,February,2
+6000,2002,Sergipe,February,6
+6001,2003,Sergipe,February,50
+6002,2004,Sergipe,February,10
+6003,2005,Sergipe,February,19
+6004,2006,Sergipe,February,36
+6005,2007,Sergipe,February,22
+6006,2008,Sergipe,February,67
+6007,2009,Sergipe,February,64
+6008,2010,Sergipe,February,33
+6009,2011,Sergipe,February,31
+6010,2012,Sergipe,February,34
+6011,2013,Sergipe,February,47
+6012,2014,Sergipe,February,18
+6013,2015,Sergipe,February,40
+6014,2016,Sergipe,February,22
+6015,2017,Sergipe,February,18
+6016,1998,Sergipe,March,0
+6017,1999,Sergipe,March,18
+6018,2000,Sergipe,March,6
+6019,2001,Sergipe,March,1
+6020,2002,Sergipe,March,7
+6021,2003,Sergipe,March,62
+6022,2004,Sergipe,March,36
+6023,2005,Sergipe,March,28
+6024,2006,Sergipe,March,41
+6025,2007,Sergipe,March,2
+6026,2008,Sergipe,March,43
+6027,2009,Sergipe,March,29
+6028,2010,Sergipe,March,44
+6029,2011,Sergipe,March,47
+6030,2012,Sergipe,March,71
+6031,2013,Sergipe,March,67
+6032,2014,Sergipe,March,33
+6033,2015,Sergipe,March,49
+6034,2016,Sergipe,March,26
+6035,2017,Sergipe,March,16
+6036,1998,Sergipe,April,0
+6037,1999,Sergipe,April,6
+6038,2000,Sergipe,April,1
+6039,2001,Sergipe,April,0
+6040,2002,Sergipe,April,12
+6041,2003,Sergipe,April,48
+6042,2004,Sergipe,April,13
+6043,2005,Sergipe,April,8
+6044,2006,Sergipe,April,9
+6045,2007,Sergipe,April,1
+6046,2008,Sergipe,April,2
+6047,2009,Sergipe,April,19
+6048,2010,Sergipe,April,1
+6049,2011,Sergipe,April,12
+6050,2012,Sergipe,April,40
+6051,2013,Sergipe,April,15
+6052,2014,Sergipe,April,7
+6053,2015,Sergipe,April,35
+6054,2016,Sergipe,April,14
+6055,2017,Sergipe,April,8
+6056,1998,Sergipe,May,0
+6057,1999,Sergipe,May,0
+6058,2000,Sergipe,May,0
+6059,2001,Sergipe,May,3
+6060,2002,Sergipe,May,0
+6061,2003,Sergipe,May,2
+6062,2004,Sergipe,May,5
+6063,2005,Sergipe,May,0
+6064,2006,Sergipe,May,0
+6065,2007,Sergipe,May,0
+6066,2008,Sergipe,May,0
+6067,2009,Sergipe,May,0
+6068,2010,Sergipe,May,0
+6069,2011,Sergipe,May,0
+6070,2012,Sergipe,May,17
+6071,2013,Sergipe,May,1
+6072,2014,Sergipe,May,1
+6073,2015,Sergipe,May,11
+6074,2016,Sergipe,May,9
+6075,2017,Sergipe,May,1
+6076,1998,Sergipe,June,0
+6077,1999,Sergipe,June,0
+6078,2000,Sergipe,June,0
+6079,2001,Sergipe,June,0
+6080,2002,Sergipe,June,0
+6081,2003,Sergipe,June,0
+6082,2004,Sergipe,June,0
+6083,2005,Sergipe,June,0
+6084,2006,Sergipe,June,0
+6085,2007,Sergipe,June,0
+6086,2008,Sergipe,June,0
+6087,2009,Sergipe,June,2
+6088,2010,Sergipe,June,0
+6089,2011,Sergipe,June,1
+6090,2012,Sergipe,June,3
+6091,2013,Sergipe,June,1
+6092,2014,Sergipe,June,0
+6093,2015,Sergipe,June,3
+6094,2016,Sergipe,June,1
+6095,2017,Sergipe,June,0
+6096,1998,Sergipe,July,0
+6097,1999,Sergipe,July,0
+6098,2000,Sergipe,July,0
+6099,2001,Sergipe,July,0
+6100,2002,Sergipe,July,0
+6101,2003,Sergipe,July,0
+6102,2004,Sergipe,July,0
+6103,2005,Sergipe,July,0
+6104,2006,Sergipe,July,0
+6105,2007,Sergipe,July,0
+6106,2008,Sergipe,July,0
+6107,2009,Sergipe,July,0
+6108,2010,Sergipe,July,0
+6109,2011,Sergipe,July,0
+6110,2012,Sergipe,July,1
+6111,2013,Sergipe,July,0
+6112,2014,Sergipe,July,0
+6113,2015,Sergipe,July,0
+6114,2016,Sergipe,July,0
+6115,2017,Sergipe,July,0
+6116,1998,Sergipe,August,0
+6117,1999,Sergipe,August,0
+6118,2000,Sergipe,August,0
+6119,2001,Sergipe,August,0
+6120,2002,Sergipe,August,2
+6121,2003,Sergipe,August,0
+6122,2004,Sergipe,August,0
+6123,2005,Sergipe,August,0
+6124,2006,Sergipe,August,0
+6125,2007,Sergipe,August,0
+6126,2008,Sergipe,August,0
+6127,2009,Sergipe,August,0
+6128,2010,Sergipe,August,0
+6129,2011,Sergipe,August,1
+6130,2012,Sergipe,August,0
+6131,2013,Sergipe,August,0
+6132,2014,Sergipe,August,0
+6133,2015,Sergipe,August,0
+6134,2016,Sergipe,August,6
+6135,2017,Sergipe,August,0
+6136,1998,Sergipe,September,0
+6137,1999,Sergipe,September,0
+6138,2000,Sergipe,September,0
+6139,2001,Sergipe,September,1
+6140,2002,Sergipe,September,0
+6141,2003,Sergipe,September,3
+6142,2004,Sergipe,September,0
+6143,2005,Sergipe,September,2
+6144,2006,Sergipe,September,0
+6145,2007,Sergipe,September,0
+6146,2008,Sergipe,September,0
+6147,2009,Sergipe,September,1
+6148,2010,Sergipe,September,0
+6149,2011,Sergipe,September,0
+6150,2012,Sergipe,September,1
+6151,2013,Sergipe,September,1
+6152,2014,Sergipe,September,4
+6153,2015,Sergipe,September,1
+6154,2016,Sergipe,September,2
+6155,2017,Sergipe,September,0
+6156,1998,Sergipe,October,0
+6157,1999,Sergipe,October,0
+6158,2000,Sergipe,October,3
+6159,2001,Sergipe,October,5
+6160,2002,Sergipe,October,20
+6161,2003,Sergipe,October,2
+6162,2004,Sergipe,October,3
+6163,2005,Sergipe,October,11
+6164,2006,Sergipe,October,3
+6165,2007,Sergipe,October,3
+6166,2008,Sergipe,October,0
+6167,2009,Sergipe,October,1
+6168,2010,Sergipe,October,1
+6169,2011,Sergipe,October,5
+6170,2012,Sergipe,October,1
+6171,2013,Sergipe,October,3
+6172,2014,Sergipe,October,3
+6173,2015,Sergipe,October,6
+6174,2016,Sergipe,October,10
+6175,2017,Sergipe,October,0
+6176,1998,Sergipe,November,12
+6177,1999,Sergipe,November,3
+6178,2000,Sergipe,November,0
+6179,2001,Sergipe,November,5
+6180,2002,Sergipe,November,57
+6181,2003,Sergipe,November,2
+6182,2004,Sergipe,November,41
+6183,2005,Sergipe,November,23
+6184,2006,Sergipe,November,5
+6185,2007,Sergipe,November,7
+6186,2008,Sergipe,November,17
+6187,2009,Sergipe,November,9
+6188,2010,Sergipe,November,16
+6189,2011,Sergipe,November,4
+6190,2012,Sergipe,November,6
+6191,2013,Sergipe,November,7
+6192,2014,Sergipe,November,9
+6193,2015,Sergipe,November,47
+6194,2016,Sergipe,November,17
+6195,2017,Sergipe,November,1
+6196,1998,Sergipe,December,8
+6197,1999,Sergipe,December,5
+6198,2000,Sergipe,December,0
+6199,2001,Sergipe,December,5
+6200,2002,Sergipe,December,103
+6201,2003,Sergipe,December,36
+6202,2004,Sergipe,December,66
+6203,2005,Sergipe,December,29
+6204,2006,Sergipe,December,17
+6205,2007,Sergipe,December,33
+6206,2008,Sergipe,December,14
+6207,2009,Sergipe,December,21
+6208,2010,Sergipe,December,19
+6209,2011,Sergipe,December,36
+6210,2012,Sergipe,December,18
+6211,2013,Sergipe,December,9
+6212,2014,Sergipe,December,9
+6213,2015,Sergipe,December,63
+6214,2016,Sergipe,December,36
+6215,1998,Tocantins,January,0
+6216,1999,Tocantins,January,36
+6217,2000,Tocantins,January,15
+6218,2001,Tocantins,January,19
+6219,2002,Tocantins,January,35
+6220,2003,Tocantins,January,35
+6221,2004,Tocantins,January,40
+6222,2005,Tocantins,January,66
+6223,2006,Tocantins,January,91
+6224,2007,Tocantins,January,34
+6225,2008,Tocantins,January,28
+6226,2009,Tocantins,January,43
+6227,2010,Tocantins,January,79
+6228,2011,Tocantins,January,14
+6229,2012,Tocantins,January,12
+6230,2013,Tocantins,January,50
+6231,2014,Tocantins,January,89
+6232,2015,Tocantins,January,186
+6233,2016,Tocantins,January,42
+6234,2017,Tocantins,January,61
+6235,1998,Tocantins,February,0
+6236,1999,Tocantins,February,1
+6237,2000,Tocantins,February,6
+6238,2001,Tocantins,February,6
+6239,2002,Tocantins,February,48
+6240,2003,Tocantins,February,15
+6241,2004,Tocantins,February,7
+6242,2005,Tocantins,February,27
+6243,2006,Tocantins,February,14
+6244,2007,Tocantins,February,8
+6245,2008,Tocantins,February,6
+6246,2009,Tocantins,February,21
+6247,2010,Tocantins,February,32
+6248,2011,Tocantins,February,13
+6249,2012,Tocantins,February,45
+6250,2013,Tocantins,February,37
+6251,2014,Tocantins,February,73
+6252,2015,Tocantins,February,65
+6253,2016,Tocantins,February,383
+6254,2017,Tocantins,February,25
+6255,1998,Tocantins,March,0
+6256,1999,Tocantins,March,1
+6257,2000,Tocantins,March,4
+6258,2001,Tocantins,March,0
+6259,2002,Tocantins,March,33
+6260,2003,Tocantins,March,19
+6261,2004,Tocantins,March,23
+6262,2005,Tocantins,March,13
+6263,2006,Tocantins,March,11
+6264,2007,Tocantins,March,99
+6265,2008,Tocantins,March,4
+6266,2009,Tocantins,March,23
+6267,2010,Tocantins,March,120
+6268,2011,Tocantins,March,16
+6269,2012,Tocantins,March,80
+6270,2013,Tocantins,March,60
+6271,2014,Tocantins,March,58
+6272,2015,Tocantins,March,85
+6273,2016,Tocantins,March,165
+6274,2017,Tocantins,March,98
+6275,1998,Tocantins,April,0
+6276,1999,Tocantins,April,9
+6277,2000,Tocantins,April,0
+6278,2001,Tocantins,April,19
+6279,2002,Tocantins,April,37
+6280,2003,Tocantins,April,64
+6281,2004,Tocantins,April,52
+6282,2005,Tocantins,April,52
+6283,2006,Tocantins,April,4
+6284,2007,Tocantins,April,22
+6285,2008,Tocantins,April,46
+6286,2009,Tocantins,April,5
+6287,2010,Tocantins,April,419
+6288,2011,Tocantins,April,106
+6289,2012,Tocantins,April,226
+6290,2013,Tocantins,April,130
+6291,2014,Tocantins,April,187
+6292,2015,Tocantins,April,88
+6293,2016,Tocantins,April,369
+6294,2017,Tocantins,April,164
+6295,1998,Tocantins,May,0
+6296,1999,Tocantins,May,24
+6297,2000,Tocantins,May,69
+6298,2001,Tocantins,May,48
+6299,2002,Tocantins,May,138
+6300,2003,Tocantins,May,96
+6301,2004,Tocantins,May,350
+6302,2005,Tocantins,May,236
+6303,2006,Tocantins,May,35
+6304,2007,Tocantins,May,250
+6305,2008,Tocantins,May,81
+6306,2009,Tocantins,May,91
+6307,2010,Tocantins,May,580
+6308,2011,Tocantins,May,354
+6309,2012,Tocantins,May,467
+6310,2013,Tocantins,May,373
+6311,2014,Tocantins,May,618
+6312,2015,Tocantins,May,512
+6313,2016,Tocantins,May,778
+6314,2017,Tocantins,May,576
+6315,1998,Tocantins,June,252
+6316,1999,Tocantins,June,113
+6317,2000,Tocantins,June,278
+6318,2001,Tocantins,June,305
+6319,2002,Tocantins,June,396
+6320,2003,Tocantins,June,329
+6321,2004,Tocantins,June,1079
+6322,2005,Tocantins,June,669
+6323,2006,Tocantins,June,289
+6324,2007,Tocantins,June,591
+6325,2008,Tocantins,June,282
+6326,2009,Tocantins,June,421
+6327,2010,Tocantins,June,767
+6328,2011,Tocantins,June,717
+6329,2012,Tocantins,June,922
+6330,2013,Tocantins,June,873
+6331,2014,Tocantins,June,1372
+6332,2015,Tocantins,June,1150
+6333,2016,Tocantins,June,1148
+6334,2017,Tocantins,June,1320
+6335,1998,Tocantins,July,640
+6336,1999,Tocantins,July,373
+6337,2000,Tocantins,July,500
+6338,2001,Tocantins,July,830
+6339,2002,Tocantins,July,976
+6340,2003,Tocantins,July,762
+6341,2004,Tocantins,July,1389
+6342,2005,Tocantins,July,1082
+6343,2006,Tocantins,July,430
+6344,2007,Tocantins,July,982
+6345,2008,Tocantins,July,441
+6346,2009,Tocantins,July,989
+6347,2010,Tocantins,July,2408
+6348,2011,Tocantins,July,1001
+6349,2012,Tocantins,July,1693
+6350,2013,Tocantins,July,1393
+6351,2014,Tocantins,July,1404
+6352,2015,Tocantins,July,1217
+6353,2016,Tocantins,July,2737
+6354,2017,Tocantins,July,2397
+6355,1998,Tocantins,August,3747
+6356,1999,Tocantins,August,1284
+6357,2000,Tocantins,August,1949
+6358,2001,Tocantins,August,2242
+6359,2002,Tocantins,August,3027
+6360,2003,Tocantins,August,1339
+6361,2004,Tocantins,August,1776
+6362,2005,Tocantins,August,1840
+6363,2006,Tocantins,August,1277
+6364,2007,Tocantins,August,4747
+6365,2008,Tocantins,August,845
+6366,2009,Tocantins,August,1124
+6367,2010,Tocantins,August,7865
+6368,2011,Tocantins,August,1668
+6369,2012,Tocantins,August,4280
+6370,2013,Tocantins,August,1810
+6371,2014,Tocantins,August,2917
+6372,2015,Tocantins,August,2540
+6373,2016,Tocantins,August,3213
+6374,2017,Tocantins,August,3536
+6375,1998,Tocantins,September,5149
+6376,1999,Tocantins,September,3415
+6377,2000,Tocantins,September,2552
+6378,2001,Tocantins,September,4839
+6379,2002,Tocantins,September,5314
+6380,2003,Tocantins,September,4637
+6381,2004,Tocantins,September,5308
+6382,2005,Tocantins,September,5319
+6383,2006,Tocantins,September,2979
+6384,2007,Tocantins,September,6829
+6385,2008,Tocantins,September,2390
+6386,2009,Tocantins,September,2017
+6387,2010,Tocantins,September,10172
+6388,2011,Tocantins,September,4658
+6389,2012,Tocantins,September,746
+6390,2013,Tocantins,September,2445
+6391,2014,Tocantins,September,3520
+6392,2015,Tocantins,September,5510
+6393,2016,Tocantins,September,3245
+6394,2017,Tocantins,September,10737
+6395,1998,Tocantins,October,1738
+6396,1999,Tocantins,October,1378
+6397,2000,Tocantins,October,1053
+6398,2001,Tocantins,October,684
+6399,2002,Tocantins,October,1537
+6400,2003,Tocantins,October,1339
+6401,2004,Tocantins,October,1658
+6402,2005,Tocantins,October,2913
+6403,2006,Tocantins,October,1176
+6404,2007,Tocantins,October,2252
+6405,2008,Tocantins,October,2832
+6406,2009,Tocantins,October,718
+6407,2010,Tocantins,October,2272
+6408,2011,Tocantins,October,1591
+6409,2012,Tocantins,October,3680
+6410,2013,Tocantins,October,2155
+6411,2014,Tocantins,October,4
+6412,2015,Tocantins,October,4844
+6413,2016,Tocantins,October,2032
+6414,2017,Tocantins,October,2969
+6415,1998,Tocantins,November,1
+6416,1999,Tocantins,November,29
+6417,2000,Tocantins,November,96
+6418,2001,Tocantins,November,100
+6419,2002,Tocantins,November,207
+6420,2003,Tocantins,November,146
+6421,2004,Tocantins,November,424
+6422,2005,Tocantins,November,271
+6423,2006,Tocantins,November,108
+6424,2007,Tocantins,November,147
+6425,2008,Tocantins,November,104
+6426,2009,Tocantins,November,251
+6427,2010,Tocantins,November,283
+6428,2011,Tocantins,November,144
+6429,2012,Tocantins,November,179
+6430,2013,Tocantins,November,345
+6431,2014,Tocantins,November,451
+6432,2015,Tocantins,November,833
+6433,2016,Tocantins,November,623
+6434,2017,Tocantins,November,434
+6435,1998,Tocantins,December,9
+6436,1999,Tocantins,December,16
+6437,2000,Tocantins,December,20
+6438,2001,Tocantins,December,21
+6439,2002,Tocantins,December,39
+6440,2003,Tocantins,December,109
+6441,2004,Tocantins,December,96
+6442,2005,Tocantins,December,53
+6443,2006,Tocantins,December,15
+6444,2007,Tocantins,December,13
+6445,2008,Tocantins,December,7
+6446,2009,Tocantins,December,46
+6447,2010,Tocantins,December,72
+6448,2011,Tocantins,December,105
+6449,2012,Tocantins,December,128
+6450,2013,Tocantins,December,85
+6451,2014,Tocantins,December,223
+6452,2015,Tocantins,December,373
+6453,2016,Tocantins,December,119
